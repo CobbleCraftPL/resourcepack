@@ -1,20 +1,13 @@
 {
 	"formatVersion": 1,
-	"build": 10,
-	"name": "CursedEveryday",
+	"build": 16,
+	"name": "CobbleCraft",
 	"contents": [
 		{
-			"url": "content_meta/content.json",
-			"hash": "5e4d4ad1e9714487263c51f5f83c448c0708773a",
-			"id": "meta",
-			"hidden": true,
+			"url": "cobblecraft/content.json",
+			"hash": "adeb09c209e9f565a973caa323342bef52c2fca3",
+			"id": "cobblecraft",
 			"required": true
-		},
-		{
-			"url": "content_cursed/content.json",
-			"hash": "6e6739297dac80078bbc4890567f05d4015553db",
-			"id": "cursed",
-			"name": "Cursed content"
 		}
 	]
 }

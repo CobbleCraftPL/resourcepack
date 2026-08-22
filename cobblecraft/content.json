@@ -1,0 +1,597 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "cobblecraft",
+		"files": {
+			"pack.mcmeta": {
+				"hash": "030a83233da6bef186fd347fcbc5daeae1afb084",
+				"size": 171
+			},
+			"pack.png": {
+				"hash": "9a8e61b5273b890c5a99c8bfbdb92b54fad14ce8",
+				"size": 9101
+			},
+			"assets/ikony/textures/font/arm_icon_01_01.png": {
+				"hash": "4000a98851c6ac8cb31b52de21e990eef67c91a1",
+				"size": 452
+			},
+			"assets/ikony/textures/font/arm_icon_01_02.png": {
+				"hash": "c451dc331389a33a0fea1e1c97f635036040e83f",
+				"size": 507
+			},
+			"assets/ikony/textures/font/arm_icon_01_03.png": {
+				"hash": "33bd7eb98535f58b14e0323571e6f1c087b6ec65",
+				"size": 505
+			},
+			"assets/ikony/textures/font/arm_icon_01_04.png": {
+				"hash": "9acc526a981b9e4f78e31f64833b8d2a3240c414",
+				"size": 571
+			},
+			"assets/ikony/textures/font/arm_icon_01_05.png": {
+				"hash": "fd0cc010e852a3ea5d23b1225f084a8abc180c15",
+				"size": 466
+			},
+			"assets/ikony/textures/font/arm_icon_01_06.png": {
+				"hash": "13af38aa20bfdbccf0ac9daad7234b77e82763c7",
+				"size": 457
+			},
+			"assets/ikony/textures/font/arm_icon_01_07.png": {
+				"hash": "f5b20c39941b4d851e55d6977fd651ac71b841f7",
+				"size": 497
+			},
+			"assets/ikony/textures/font/arm_icon_01_08.png": {
+				"hash": "50e09b4ab7b3b45a478b720cf4d215dd31caeeff",
+				"size": 457
+			},
+			"assets/ikony/textures/font/arm_icon_01_09.png": {
+				"hash": "77f0d074de70830bd15c22532f49787f5392bc07",
+				"size": 555
+			},
+			"assets/ikony/textures/font/arm_icon_01_10.png": {
+				"hash": "bad29fa296aebbd07ff46ccf22d736cd562b004e",
+				"size": 439
+			},
+			"assets/ikony/textures/font/arm_icon_01_11.png": {
+				"hash": "61a71d0c98c2e0cef05aca3eb9fbf8a67dd5f789",
+				"size": 511
+			},
+			"assets/ikony/textures/font/arm_icon_01_12.png": {
+				"hash": "3b56e9613b91887e0296db301f5684eed2e7aec8",
+				"size": 547
+			},
+			"assets/ikony/textures/font/arm_icon_01_13.png": {
+				"hash": "0be023446c6d60e1b703da872bddf28c297a299b",
+				"size": 469
+			},
+			"assets/ikony/textures/font/arm_icon_01_14.png": {
+				"hash": "daf75f6b0c1c0995446e0dd08b184878748f67ab",
+				"size": 456
+			},
+			"assets/ikony/textures/font/arm_icon_01_15.png": {
+				"hash": "03ecd8ece6e86b273fe6972337e924135dc0fe48",
+				"size": 530
+			},
+			"assets/ikony/textures/font/arm_icon_01_16.png": {
+				"hash": "bf6b61cfc63752678ee5da3e1925e79244264910",
+				"size": 499
+			},
+			"assets/ikony/textures/font/arm_icon_01_17.png": {
+				"hash": "985753d5607cd63bf47825da1ab4d782d6fc5c2d",
+				"size": 497
+			},
+			"assets/ikony/textures/font/arm_icon_01_18.png": {
+				"hash": "d448fa8860140f02012fb6b06629bd84a7e9aeb0",
+				"size": 438
+			},
+			"assets/ikony/textures/font/arm_icon_01_19.png": {
+				"hash": "f7784d34e40d3ad3ef840caa6f08bc6820ac2bdc",
+				"size": 358
+			},
+			"assets/ikony/textures/font/arm_icon_01_20.png": {
+				"hash": "626f98ac2037e9135e621b80f937b7c09e3c8c0f",
+				"size": 496
+			},
+			"assets/ikony/textures/font/arm_icon_01_21.png": {
+				"hash": "f84a9c39bf8ace91e6b5aaaa038021f9acca90d5",
+				"size": 393
+			},
+			"assets/ikony/textures/font/arm_icon_01_22.png": {
+				"hash": "dc56e593dda3f267802b5ef1aa6d2ac680b276e6",
+				"size": 359
+			},
+			"assets/ikony/textures/font/arm_icon_01_23.png": {
+				"hash": "8f38f3bd0abf080a76aeeefc912d10531a106237",
+				"size": 504
+			},
+			"assets/ikony/textures/font/arm_icon_01_24.png": {
+				"hash": "1d51d8ca9b56f5b5cba3525eaa53407ae2697da8",
+				"size": 529
+			},
+			"assets/ikony/textures/font/arm_icon_01_25.png": {
+				"hash": "313676f3f7da0c3cfe6735eb539ea99fcfcdea5f",
+				"size": 549
+			},
+			"assets/ikony/textures/font/arm_icon_01_26.png": {
+				"hash": "17a64af3db6b48e5597c6766e1d4eac3352f10cb",
+				"size": 511
+			},
+			"assets/ikony/textures/font/arm_icon_01_27.png": {
+				"hash": "9a9da665ee9e50e8f293d6e215b239f9d9dc9ab8",
+				"size": 430
+			},
+			"assets/ikony/textures/font/arm_icon_01_28.png": {
+				"hash": "7f67865587ac89c9ec02cebd22cada6d121b87e3",
+				"size": 497
+			},
+			"assets/ikony/textures/font/arm_icon_01_29.png": {
+				"hash": "4f18872d9e6350f396d3640afd10cb022ef6217b",
+				"size": 584
+			},
+			"assets/ikony/textures/font/arm_icon_01_30.png": {
+				"hash": "01e119a1a83aecfe6a9f8b74f1f7572812ec8c59",
+				"size": 304
+			},
+			"assets/ikony/textures/font/arm_icon_01_31.png": {
+				"hash": "f9aab6187d2a51719eecb84f597563496d409e60",
+				"size": 277
+			},
+			"assets/ikony/textures/font/arm_icon_01_32.png": {
+				"hash": "fddaeeb7e244179d249998182863b9a952ff48b2",
+				"size": 216
+			},
+			"assets/ikony/textures/font/arm_icon_01_33.png": {
+				"hash": "9414d16a5faea7c559e07fac111b3acfcbea8774",
+				"size": 315
+			},
+			"assets/ikony/textures/font/arm_icon_01_34.png": {
+				"hash": "001180216878f2569d0ad3eb1e44cf5eff41f9c5",
+				"size": 304
+			},
+			"assets/ikony/textures/font/arm_icon_01_35.png": {
+				"hash": "bf55beb3fb4d8750a371bdf19e83fa61c952bb53",
+				"size": 321
+			},
+			"assets/ikony/textures/font/arm_icon_01_36.png": {
+				"hash": "ecc1dc5b012bb40c95977b4a8d5ef4fbe484858c",
+				"size": 279
+			},
+			"assets/ikony/textures/font/arm_icon_01_37.png": {
+				"hash": "aabbdcbd2ef9d646751267e28ff95c6fbf4619aa",
+				"size": 317
+			},
+			"assets/ikony/textures/font/arm_icon_01_38.png": {
+				"hash": "30fd655884f2b83035ef0fa82be69cdae498cd3d",
+				"size": 316
+			},
+			"assets/ikony/textures/font/arm_icon_01_39.png": {
+				"hash": "ad937f8e8d89ee3ea38ad96c7d2181913d498b8c",
+				"size": 318
+			},
+			"assets/ikony/textures/font/arm_icon_01_40.png": {
+				"hash": "4409038b29239441e4ec745a6de6507efdd06f4e",
+				"size": 381
+			},
+			"assets/ikony/textures/font/arm_icon_02_01.png": {
+				"hash": "e64e944a6b11374a58716dcf685685382d5a1deb",
+				"size": 546
+			},
+			"assets/ikony/textures/font/arm_icon_02_02.png": {
+				"hash": "d1f259ea4743f708cfe9e205875134af0fee7f59",
+				"size": 603
+			},
+			"assets/ikony/textures/font/arm_icon_02_03.png": {
+				"hash": "c086e2f0aa03a6c7a3ef858ba8af018c7986e14c",
+				"size": 578
+			},
+			"assets/ikony/textures/font/arm_icon_02_04.png": {
+				"hash": "a6ed2e40e848ae0533f8e809c78427371f5fdbe0",
+				"size": 575
+			},
+			"assets/ikony/textures/font/arm_icon_02_05.png": {
+				"hash": "1ca247a5b52851d3b710bce146e65db8ffe64b8b",
+				"size": 620
+			},
+			"assets/ikony/textures/font/arm_icon_02_06.png": {
+				"hash": "d25236c3ca010a14eb00249c7ddf83e51f6f3a45",
+				"size": 619
+			},
+			"assets/ikony/textures/font/arm_icon_02_07.png": {
+				"hash": "81d15291f8dd9b80a7664debd505a2fd1b23a75e",
+				"size": 511
+			},
+			"assets/ikony/textures/font/arm_icon_02_08.png": {
+				"hash": "54db05e77057fbccfee47683cc0124864cb671b8",
+				"size": 514
+			},
+			"assets/ikony/textures/font/arm_icon_02_09.png": {
+				"hash": "db91b5a2996ab9d0b95d2befd7f9a36fa46dd2ec",
+				"size": 468
+			},
+			"assets/ikony/textures/font/arm_icon_02_10.png": {
+				"hash": "2ba02520a554880a027e61546517f16421ae6ea8",
+				"size": 478
+			},
+			"assets/ikony/textures/font/arm_icon_02_11.png": {
+				"hash": "0ce83013c6670f33232c76d32670a7b1f0ed644b",
+				"size": 599
+			},
+			"assets/ikony/textures/font/arm_icon_02_12.png": {
+				"hash": "fba448ffd01aabe50e8a302de9cadd950b165b23",
+				"size": 604
+			},
+			"assets/ikony/textures/font/arm_icon_02_13.png": {
+				"hash": "eb7f57ec4c9c049b93fb03dc75fd84ad781d8bb4",
+				"size": 599
+			},
+			"assets/ikony/textures/font/arm_icon_02_14.png": {
+				"hash": "d9d9d1ae77e28507a58db78e63c95d2c056b68ae",
+				"size": 417
+			},
+			"assets/ikony/textures/font/arm_icon_02_15.png": {
+				"hash": "15aea6d26f009f1246b1646255811a32abf44ad5",
+				"size": 419
+			},
+			"assets/ikony/textures/font/arm_icon_02_16.png": {
+				"hash": "343e4c75a596d8dfd1618be8973e16c3a9e26197",
+				"size": 510
+			},
+			"assets/ikony/textures/font/arm_icon_02_17.png": {
+				"hash": "0e0f3cf738e8debc6e03b277cc17333b69465323",
+				"size": 581
+			},
+			"assets/ikony/textures/font/arm_icon_02_18.png": {
+				"hash": "c56638112085b14156b7abd974f1d9c802f10cf8",
+				"size": 511
+			},
+			"assets/ikony/textures/font/arm_icon_02_19.png": {
+				"hash": "88ec1c44a25880bf47a0603a46bf42b383de242b",
+				"size": 506
+			},
+			"assets/ikony/textures/font/arm_icon_02_20.png": {
+				"hash": "42d8ad520695e1911ac0b1a05e4bfc8f53fd8e15",
+				"size": 503
+			},
+			"assets/ikony/textures/font/arm_icon_02_21.png": {
+				"hash": "3a6bc4014ba551c27e6feda4a844fb51ec988d97",
+				"size": 415
+			},
+			"assets/ikony/textures/font/arm_icon_02_22.png": {
+				"hash": "c830b391f32086f9dd16209e35a2674d2481c792",
+				"size": 627
+			},
+			"assets/ikony/textures/font/arm_icon_02_23.png": {
+				"hash": "15f6a9d00c2a00b9563696e24d55268a9356697a",
+				"size": 606
+			},
+			"assets/ikony/textures/font/arm_icon_03_01.png": {
+				"hash": "ca6c3f6536a3080d7263f140a542867216a415f4",
+				"size": 487
+			},
+			"assets/ikony/textures/font/arm_icon_03_02.png": {
+				"hash": "d73ec637448b3c50fd55e52ef3d196c7ecb51a67",
+				"size": 550
+			},
+			"assets/ikony/textures/font/arm_icon_03_03.png": {
+				"hash": "12c6317280b10bf1d01ba5e3c9f28fa00f871943",
+				"size": 530
+			},
+			"assets/ikony/textures/font/arm_icon_03_04.png": {
+				"hash": "7dd3427a4f8c2144a6a8611eee6359301073aca4",
+				"size": 533
+			},
+			"assets/ikony/textures/font/arm_icon_03_05.png": {
+				"hash": "1aa2ac7c8f134f7e8fdc9df86fa5de767c11ed0b",
+				"size": 536
+			},
+			"assets/ikony/textures/font/arm_icon_03_06.png": {
+				"hash": "9e53bb7ce2357302e517628db889b409e939e2c1",
+				"size": 545
+			},
+			"assets/ikony/textures/font/arm_icon_03_07.png": {
+				"hash": "0fba694a39d339dd18bf87c10b4fd0f115091e8f",
+				"size": 527
+			},
+			"assets/ikony/textures/font/arm_icon_03_08.png": {
+				"hash": "01247fd7f442efd7b2c4b17a43e9b92e2dc24fbd",
+				"size": 392
+			},
+			"assets/ikony/textures/font/arm_icon_03_09.png": {
+				"hash": "af7b2d46495ff149f979ae897c41a6125a451e65",
+				"size": 430
+			},
+			"assets/ikony/textures/font/arm_icon_03_10.png": {
+				"hash": "65b746deaf8d8856638e3be8f61acaf64ba1c6a2",
+				"size": 508
+			},
+			"assets/ikony/textures/font/arm_icon_03_11.png": {
+				"hash": "38cd17330c83283d50b3625c578e7b91bff3868b",
+				"size": 565
+			},
+			"assets/ikony/textures/font/arm_icon_03_12.png": {
+				"hash": "b45b43267faa8fc9d52c88e99155f360e2441181",
+				"size": 551
+			},
+			"assets/ikony/textures/font/arm_icon_03_13.png": {
+				"hash": "b6112ff52d1ee859ae233e9238b45a418127d6e2",
+				"size": 506
+			},
+			"assets/ikony/textures/font/arm_icon_03_14.png": {
+				"hash": "4e054503afc29c6b43ec3b8f65dea089c57f3ef9",
+				"size": 492
+			},
+			"assets/ikony/textures/font/arm_icon_03_15.png": {
+				"hash": "b5ae8d43128bcfecb08f85b40975f7097ea4aca5",
+				"size": 485
+			},
+			"assets/ikony/textures/font/arm_icon_03_16.png": {
+				"hash": "086bbe7a9375ab19b1a5a2451361179f7b282555",
+				"size": 509
+			},
+			"assets/ikony/textures/font/arm_icon_03_17.png": {
+				"hash": "455b3713d1b1d0cfcfffb1caef5c216807cf6dc6",
+				"size": 414
+			},
+			"assets/ikony/textures/font/arm_icon_03_18.png": {
+				"hash": "24377deff8251906f8e9729c73815f5b697d6a26",
+				"size": 579
+			},
+			"assets/ikony/textures/font/arm_icon_03_19.png": {
+				"hash": "67c3fbf4b5508be4136a20d064811e76fcb870af",
+				"size": 387
+			},
+			"assets/ikony/textures/font/arm_icon_03_20.png": {
+				"hash": "2965d45e83020e546e39f69daf5a77b90ff1ffd1",
+				"size": 551
+			},
+			"assets/ikony/textures/font/arm_icon_03_21.png": {
+				"hash": "6f92b0e2766067de0c6cb4c8c347e76b66adbb31",
+				"size": 544
+			},
+			"assets/ikony/textures/font/arm_icon_03_22.png": {
+				"hash": "78b1502f12d9e9e036c9bf7353beaf77a7a2a86f",
+				"size": 615
+			},
+			"assets/ikony/textures/font/arm_icon_03_23.png": {
+				"hash": "7aaef02b6d470e8b656ffdc02563379f56f309f6",
+				"size": 405
+			},
+			"assets/ikony/textures/font/arm_icon_03_24.png": {
+				"hash": "0a9a959ea878e15eb348b364c11f0677ca10595e",
+				"size": 531
+			},
+			"assets/ikony/textures/font/arm_icon_03_25.png": {
+				"hash": "39d83e8130dff6318a74cdccac8c3c76cef25c3c",
+				"size": 447
+			},
+			"assets/ikony/textures/font/arm_icon_03_26.png": {
+				"hash": "3c0da5465e41d2ab4ebcf504abffe865d8942167",
+				"size": 459
+			},
+			"assets/ikony/textures/font/arm_icon_03_27.png": {
+				"hash": "206d687c79d0f7cde9e85177a034081708f2c60f",
+				"size": 432
+			},
+			"assets/ikony/textures/font/arm_icon_03_28.png": {
+				"hash": "5c709f98ba14cbd9de1915031efb127736f18618",
+				"size": 257
+			},
+			"assets/ikony/textures/font/arm_icon_03_29.png": {
+				"hash": "6c298d1de2069ccc554e591bd5697a46189b77d1",
+				"size": 255
+			},
+			"assets/ikony/textures/font/arm_icon_03_30.png": {
+				"hash": "1813f4dd0a07c8021e40e758824c1ca45d4ed1e1",
+				"size": 330
+			},
+			"assets/ikony/textures/font/arm_icon_03_31.png": {
+				"hash": "6876fc05378a40edf52d6b6ed4a3d8c87db02707",
+				"size": 356
+			},
+			"assets/ikony/textures/font/arm_icon_03_32.png": {
+				"hash": "95293c00676c3e5e7bb9c6089f93b84eeb4e682d",
+				"size": 313
+			},
+			"assets/ikony/textures/font/arm_icon_03_33.png": {
+				"hash": "ba771dbfd3215f3c7c909c2c8edb8fdbc75d6216",
+				"size": 432
+			},
+			"assets/ikony/textures/font/arm_icon_03_34.png": {
+				"hash": "2cfbab7ea7da5d209e4b9ffa79ca55558cf9d208",
+				"size": 376
+			},
+			"assets/ikony/textures/font/arm_icon_03_35.png": {
+				"hash": "29f7bb70faa95791f68d18b5f4c72e43bd922015",
+				"size": 468
+			},
+			"assets/ikony/textures/font/arm_icon_03_36.png": {
+				"hash": "ce07bb6a70622ef96f53f83174f673ac09aac5b5",
+				"size": 335
+			},
+			"assets/ikony/textures/font/arm_icon_03_37.png": {
+				"hash": "1ef6f1403aae259a59d41e75ef00c48063cefbd1",
+				"size": 434
+			},
+			"assets/ikony/textures/font/arm_icon_03_38.png": {
+				"hash": "50ea13dd6e263204ad4d24b1864363cc1da087b1",
+				"size": 409
+			},
+			"assets/ikony/textures/font/arm_icon_03_39.png": {
+				"hash": "7ac6f5bff2e70f6508bc6dfac88060961780679c",
+				"size": 279
+			},
+			"assets/ikony/textures/font/arm_icon_03_40.png": {
+				"hash": "49279a71a0c4be2fc991a7e827bfe331a70e2f55",
+				"size": 281
+			},
+			"assets/ikony/textures/font/arm_icon_04_01.png": {
+				"hash": "d70d8778ba79c407cce827bcf0673b39ae1df5b0",
+				"size": 665
+			},
+			"assets/ikony/textures/font/arm_icon_04_02.png": {
+				"hash": "fe59878515cb8704430f3c3bbeda8b20c7115f49",
+				"size": 499
+			},
+			"assets/ikony/textures/font/arm_icon_04_03.png": {
+				"hash": "7947c55486457c4a30af0dd5d93e989cd3be0d4e",
+				"size": 491
+			},
+			"assets/ikony/textures/font/arm_icon_04_04.png": {
+				"hash": "cc1bab2e42965a3eb11cf6bcda8d9e72e49b088a",
+				"size": 605
+			},
+			"assets/ikony/textures/font/arm_icon_04_05.png": {
+				"hash": "1068329560647e6333c2e64de4fc9d67a1899ec2",
+				"size": 571
+			},
+			"assets/ikony/textures/font/arm_icon_04_06.png": {
+				"hash": "44a0b12bfa93256a21c3114d37db77328b19c9a4",
+				"size": 647
+			},
+			"assets/ikony/textures/font/arm_icon_04_07.png": {
+				"hash": "de2bbd90a4f8041cd0d3b2c2f39595e99ecf5ed1",
+				"size": 616
+			},
+			"assets/ikony/textures/font/arm_icon_04_08.png": {
+				"hash": "a9631d6771cfd90b0727fdd007c8433113881d4e",
+				"size": 509
+			},
+			"assets/ikony/textures/font/arm_icon_04_09.png": {
+				"hash": "b2efdff8559107a54e7028986496ce37231e339d",
+				"size": 560
+			},
+			"assets/ikony/textures/font/arm_icon_04_10.png": {
+				"hash": "96cac53e7b1dbfb4be198f62a36056ad37a93718",
+				"size": 513
+			},
+			"assets/ikony/textures/font/arm_icon_04_11.png": {
+				"hash": "a07c81b6e3c989d25e50bc372238f5491cd8d2dc",
+				"size": 566
+			},
+			"assets/ikony/textures/font/arm_icon_04_12.png": {
+				"hash": "c53d3a63236ad7f7590c577b12f32c7b75c31c91",
+				"size": 586
+			},
+			"assets/ikony/textures/font/arm_icon_04_13.png": {
+				"hash": "d2f32df9a33fbfb6281eb8ef4ac33cc8ccc2bd80",
+				"size": 584
+			},
+			"assets/ikony/textures/font/arm_icon_04_14.png": {
+				"hash": "e4dedd46e02ff5bd7637c72d638118e782c8dfc2",
+				"size": 473
+			},
+			"assets/ikony/textures/font/arm_icon_04_15.png": {
+				"hash": "385758fb38da6041b7788dc0fd972fe58348ae27",
+				"size": 601
+			},
+			"assets/ikony/textures/font/arm_icon_04_16.png": {
+				"hash": "ed4e7ad937a21854bfc40f0373bade4e1ac7778c",
+				"size": 537
+			},
+			"assets/ikony/textures/font/arm_icon_04_17.png": {
+				"hash": "1fb202ecf49e0997f69d6363599fd7363a57a7dc",
+				"size": 578
+			},
+			"assets/ikony/textures/font/arm_icon_04_18.png": {
+				"hash": "0b8c3dde776bc2ecf2598aa4aac6ab7cc0e57e15",
+				"size": 504
+			},
+			"assets/ikony/textures/font/arm_icon_04_19.png": {
+				"hash": "43dcb4c36841f50a88ece31894fb78d87bdda51b",
+				"size": 647
+			},
+			"assets/ikony/textures/font/arm_icon_04_20.png": {
+				"hash": "2858c2fd2c91d98f0b1b8173eaf4364cb5631753",
+				"size": 503
+			},
+			"assets/ikony/textures/font/arm_icon_04_21.png": {
+				"hash": "0ae3e50ec6a87dd55bdb9c9a08940e9b32968c78",
+				"size": 578
+			},
+			"assets/ikony/textures/font/arm_icon_04_22.png": {
+				"hash": "f4218f86b69284b6edfa7fb3259bf86e9337c0a1",
+				"size": 518
+			},
+			"assets/ikony/textures/font/arm_icon_04_23.png": {
+				"hash": "011d135eb942aec7fb2e558b0a4fa07106b02ddd",
+				"size": 408
+			},
+			"assets/ikony/textures/font/arm_icon_04_24.png": {
+				"hash": "867f2d941858b280ba8a09f02f4fa6fa98273795",
+				"size": 512
+			},
+			"assets/minecraft/font/default.json": {
+				"hash": "3cd7ef08e0af74efa841e7764f8a0ea05aed350c",
+				"size": 16442
+			},
+			"assets/rangi/textures/font/admin.png": {
+				"hash": "1e9f3fcb88328ae6f785c9941f666fce8f8846e9",
+				"size": 4248
+			},
+			"assets/rangi/textures/font/gracz.png": {
+				"hash": "efcf55576b56a5d0ca5cdacd25b429ece38ca922",
+				"size": 4011
+			},
+			"assets/rangi/textures/font/helper.png": {
+				"hash": "d5657416a5668dfd40fd515fc1fc22d70e1b0e5b",
+				"size": 4516
+			},
+			"assets/rangi/textures/font/legenda.png": {
+				"hash": "0faa7040fedb6df1f23ea2699375781a5129f583",
+				"size": 5767
+			},
+			"assets/rangi/textures/font/lider.png": {
+				"hash": "1453b40cad8cd226525c20a6cae0fc6cc93ba822",
+				"size": 4185
+			},
+			"assets/rangi/textures/font/media.png": {
+				"hash": "fd14f71600ed055673d88af1c83cc8ba7d5f97cd",
+				"size": 4318
+			},
+			"assets/rangi/textures/font/mod.png": {
+				"hash": "ff6702420de466501268f9d688913511e6487dca",
+				"size": 4407
+			},
+			"assets/rangi/textures/font/mvip.png": {
+				"hash": "af52cb8212988d4c52d7564f8af1a83db1caff73",
+				"size": 4348
+			},
+			"assets/rangi/textures/font/npc.png": {
+				"hash": "1d2283671d66ac080b08635eadf42312f31e3b2c",
+				"size": 4312
+			},
+			"assets/rangi/textures/font/owner.png": {
+				"hash": "e255049b9b4230a9427a6a291f6ac6f59085ce04",
+				"size": 3946
+			},
+			"assets/rangi/textures/font/staff.png": {
+				"hash": "997f674e2a93a380c95d62bd5a24072f50dc31d8",
+				"size": 3984
+			},
+			"assets/rangi/textures/font/svip.png": {
+				"hash": "8afa16e22181f520d6edeccebc3a6b1a449e0255",
+				"size": 4235
+			},
+			"assets/rangi/textures/font/technik.png": {
+				"hash": "00bc4afb68ffce491346af72a90b0d231bdbc3ff",
+				"size": 4526
+			},
+			"assets/rangi/textures/font/vip.png": {
+				"hash": "d7c4fe0295809b79d249c2e4ca2f53231df17515",
+				"size": 4044
+			},
+			"assets/waluta/textures/font/cobblecoins.png": {
+				"hash": "c666943cade2a7ad83ca05938cbd8438ef1b476f",
+				"size": 338
+			},
+			"assets/waluta/textures/font/dollar.png": {
+				"hash": "de03c66a737abf39ebbefecc413bc9e6bfabe588",
+				"size": 339
+			},
+			"assets/waluta/textures/font/eventcoins.png": {
+				"hash": "7abd587c0a83ed57fe77ed336603a3c844893afc",
+				"size": 352
+			}
+		}
+	}
+}
