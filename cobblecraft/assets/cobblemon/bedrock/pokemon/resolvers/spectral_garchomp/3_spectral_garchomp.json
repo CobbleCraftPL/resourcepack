@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:garchomp",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "cc_spectral"
+      ],
+      "poser": "cobblemon:spectral_garchomp",
+      "model": "cobblemon:spectral_garchomp.geo",
+      "texture": "cobblemon:textures/pokemon/spectral_garchomp/spectral_garchomp.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/spectral_garchomp/spectral_garchomp_emissive.png",
+          "translucent": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_spectral"
+      ],
+      "texture": "cobblemon:textures/pokemon/spectral_garchomp/spectral_garchomp_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/spectral_garchomp/spectral_garchomp_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "lootr.message.refresh_start": "",
+  "lootr.message.refresh_in": "",
+  "lootr.message.refreshed": "",
+
+  "lootr.message.should_sneak": "Zniszczenie tego bloku uniemożliwi innym zebranie łupów! Rób to tylko w razie potrzeby.",
+  "lootr.message.should_sneak2": "Aby mimo to zniszczyć blok, kucaj podczas niszczenia.",
+  "lootr.message.cart_should_sneak": "Zniszczenie tego wagonika uniemożliwi innym zebranie łupów! Rób to tylko w razie potrzeby.",
+  "lootr.message.cart_should_sneak2": "Aby mimo to zniszczyć wagonik, kucaj podczas atakowania.",
+  "lootr.message.cannot_break": "Bloków i bytów Lootr nie można niszczyć.",
+  "lootr.message.cannot_break_sneak": "W trybie kreatywnym musisz kucać, aby niszczyć bloki i byty Lootr.",
+
+  "lootr.message.decay_start": "Pojemnik zaczyna się kruszyć pod twoim dotykiem! Rozpadnie się całkowicie za %s sekund.",
+  "lootr.message.decay_in": "Ten pojemnik rozpadnie się całkowicie za %s sekund.",
+  "lootr.message.decayed": "Rozpadający się pojemnik kruszy się pod twoim dotykiem!"
+}

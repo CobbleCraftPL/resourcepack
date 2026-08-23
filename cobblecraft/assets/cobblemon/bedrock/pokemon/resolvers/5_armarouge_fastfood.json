@@ -1,0 +1,73 @@
+{
+  "species": "cobblemon:armarouge",
+  "order": 5,
+  "variations": [
+    {
+      "aspects": [
+        "cc_fastfood"
+      ],
+      "model": "cobblemon:armarouge_fastfood.geo",
+      "texture": {
+        "frames": [
+          "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_1.png",
+          "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_2.png",
+          "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_3.png",
+          "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_4.png"
+        ],
+        "fps": 8,
+        "loop": true
+      },
+      "layers": [
+        {
+          "name": "flame",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_emissive_1.png",
+              "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_emissive_2.png",
+              "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_emissive_3.png",
+              "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_emissive_4.png"
+            ],
+            "fps": 8,
+            "loop": true
+          },
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fastfood",
+        "shiny"
+      ],
+      "model": "cobblemon:armarouge_fastfood.geo",
+      "texture": {
+        "frames": [
+          "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_shiny_1.png",
+          "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_shiny_2.png",
+          "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_shiny_3.png",
+          "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_shiny_4.png"
+        ],
+        "fps": 8,
+        "loop": true
+      },
+      "layers": [
+        {
+          "name": "flame",
+          "texture": {
+            "frames": [
+              "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_emissive_shiny_1.png",
+              "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_emissive_shiny_2.png",
+              "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_emissive_shiny_3.png",
+              "cobblemon:textures/pokemon/fastfood/armarouge_fastfood_emissive_shiny_4.png"
+            ],
+            "fps": 8,
+            "loop": true
+          },
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

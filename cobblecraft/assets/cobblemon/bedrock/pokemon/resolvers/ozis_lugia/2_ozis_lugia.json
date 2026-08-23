@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:lugia",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "cc_ozis"
+      ],
+      "model": "cobblemon:ozis_lugia.geo",
+      "texture": "cobblemon:textures/pokemon/ozis_lugia/ozis_lugia.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_ozis"
+      ],
+      "texture": "cobblemon:textures/pokemon/ozis_lugia/ozis_lugia_shiny.png",
+      "layers": []
+    }
+  ]
+}

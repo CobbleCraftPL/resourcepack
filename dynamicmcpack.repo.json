@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 16,
+	"build": 18,
 	"name": "CobbleCraft",
 	"contents": [
 		{
 			"url": "cobblecraft/content.json",
-			"hash": "adeb09c209e9f565a973caa323342bef52c2fca3",
+			"hash": "8603466436220d982553be6123cca0e68fc1548f",
 			"id": "cobblecraft",
 			"required": true
 		}

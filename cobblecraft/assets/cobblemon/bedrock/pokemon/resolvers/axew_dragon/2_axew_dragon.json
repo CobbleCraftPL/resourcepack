@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:axew",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "cc_dragon"
+      ],
+      "poser": "cobblemon:axew_dragon",
+      "model": "cobblemon:axew_dragon.geo",
+      "texture": "cobblemon:textures/pokemon/axew_dragon/axew_dragon.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/axew_dragon/axew_dragon_emissive.png",
+          "translucent": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_dragon"
+      ],
+      "texture": "cobblemon:textures/pokemon/axew_dragon/axew_dragon_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/axew_dragon/axew_dragon_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

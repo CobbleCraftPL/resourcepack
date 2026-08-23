@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:gible",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "cc_spectral"
+      ],
+      "poser": "cobblemon:spectral_gible",
+      "model": "cobblemon:spectral_gible.geo",
+      "texture": "cobblemon:textures/pokemon/spectral_gible/spectral_gible.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/spectral_gible/spectral_gible_emissive.png",
+          "translucent": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_spectral"
+      ],
+      "texture": "cobblemon:textures/pokemon/spectral_gible/spectral_gible_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/spectral_gible/spectral_gible_shiny_emissive.png",
+          "translucent": false
+        }
+      ]
+    }
+  ]
+}

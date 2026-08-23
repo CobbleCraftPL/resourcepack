@@ -1,0 +1,36 @@
+{
+  "species": "cobblemon:tyrantrum",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "cc_ozis"
+      ],
+      "model": "cobblemon:ozis_tyrantrum.geo",
+      "texture": "cobblemon:textures/pokemon/ozis_tyrantrum/ozis_tyrantrum.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ozis_tyrantrum/ozis_tyrantrum_emissive.png",
+          "emissive": true,
+          "translucent": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_ozis"
+      ],
+      "texture": "cobblemon:textures/pokemon/ozis_tyrantrum/ozis_tyrantrum_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/ozis_tyrantrum/ozis_tyrantrum_shiny_emissive.png",
+          "emissive": true,
+          "translucent": false
+        }
+      ]
+    }
+  ]
+}

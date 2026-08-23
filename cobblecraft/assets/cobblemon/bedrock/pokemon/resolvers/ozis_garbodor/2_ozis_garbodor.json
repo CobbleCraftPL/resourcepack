@@ -1,0 +1,36 @@
+{
+  "species": "cobblemon:garbodor",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "cc_ozis"
+      ],
+      "model": "cobblemon:ozis_garbodor.geo",
+      "texture": "cobblemon:textures/pokemon/ozis_garbodor/ozis_garbodor.png",
+      "layers": [
+        {
+          "name": "transparency",
+          "texture": "cobblemon:textures/pokemon/ozis_garbodor/ozis_garbodor_transparency.png",
+          "emissive": false,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_ozis"
+      ],
+      "texture": "cobblemon:textures/pokemon/ozis_garbodor/ozis_garbodor_shiny.png",
+      "layers": [
+        {
+          "name": "transparency",
+          "texture": "cobblemon:textures/pokemon/ozis_garbodor/ozis_garbodor_transparency.png",
+          "emissive": false,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

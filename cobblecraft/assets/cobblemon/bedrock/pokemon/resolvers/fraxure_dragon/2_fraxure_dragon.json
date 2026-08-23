@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:fraxure",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "cc_dragon"
+      ],
+      "poser": "cobblemon:fraxure_dragon",
+      "model": "cobblemon:fraxure_dragon.geo",
+      "texture": "cobblemon:textures/pokemon/fraxure_dragon/fraxure_dragon.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/fraxure_dragon/fraxure_dragon_emissive.png",
+          "translucent": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_dragon"
+      ],
+      "texture": "cobblemon:textures/pokemon/fraxure_dragon/fraxure_dragon_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/fraxure_dragon/fraxure_dragon_shiny_emissive.png",
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}
