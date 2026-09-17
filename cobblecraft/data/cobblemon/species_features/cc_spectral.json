@@ -1,8 +1,0 @@
-{
-  "keys": [
-    "cc_spectral"
-  ],
-  "type": "flag",
-  "isAspect": true,
-  "default": false
-}
