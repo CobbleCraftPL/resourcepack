@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:skarmory",
+  "order": 8,
+  "variations": [
+    {
+      "aspects": [
+        "cc_sun"
+      ],
+      "poser": "cobblemon:sun_skarmory",
+      "model": "cobblemon:sun_skarmory.geo",
+      "texture": "cobblemon:textures/pokemon/sun/sun_skarmory.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/sun/sun_skarmory_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_sun"
+      ],
+      "texture": "cobblemon:textures/pokemon/sun/sun_skarmory_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/sun/sun_skarmory_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:pikachu",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "cc_summer"
+      ],
+      "poser": "cobblemon:pikachu",
+      "model": "cobblemon:summer_pikachu.geo",
+      "texture": "cobblemon:textures/pokemon/summer/summer_pikachu.png",
+      "layers": []
+    }
+  ]
+}

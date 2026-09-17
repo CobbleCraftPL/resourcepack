@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:vaporeon",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "cc_summer"
+      ],
+      "poser": "cobblemon:vaporeon",
+      "model": "cobblemon:summer_vaporeon.geo",
+      "texture": "cobblemon:textures/pokemon/summer/summer_vaporeon.png",
+      "layers": []
+    }
+  ]
+}

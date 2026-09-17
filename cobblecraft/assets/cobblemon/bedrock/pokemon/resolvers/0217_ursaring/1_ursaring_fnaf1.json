@@ -1,0 +1,35 @@
+{
+  "species": "cobblemon:ursaring",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "cc_fnaf1"
+      ],
+      "poser": "cobblemon:ursaring_fnaf1",
+      "model": "cobblemon:ursaring_fnaf1.geo",
+      "texture": "cobblemon:textures/pokemon/0217_ursaring/fnaf/ursaringfreddy_fnaf1.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0217_ursaring/fnaf/ursaringfreddy_fnaf1_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf1",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0217_ursaring/fnaf/ursaringfreddy_fnaf1_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0217_ursaring/fnaf/ursaringfreddy_fnaf1_e.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

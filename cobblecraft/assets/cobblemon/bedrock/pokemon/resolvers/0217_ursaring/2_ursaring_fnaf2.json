@@ -1,0 +1,66 @@
+{
+  "species": "cobblemon:ursaring",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "cc_fnaf2"
+      ],
+      "poser": "cobblemon:ursaring_fnaf2",
+      "model": "cobblemon:ursaring_fnaf2.geo",
+      "texture": "cobblemon:textures/pokemon/0217_ursaring/fnaf2/ursaringfreddy_fnaf2.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0217_ursaring/fnaf2/ursaringfreddy_fnaf2_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0217_ursaring/fnaf2/ursaringfreddy_fnaf2_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0217_ursaring/fnaf2/ursaringfreddy_fnaf2_e_shiny.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2toy"
+      ],
+      "poser": "cobblemon:ursaring_fnaf2_toy",
+      "model": "cobblemon:ursaring_fnaf2_toy.geo",
+      "texture": "cobblemon:textures/pokemon/0217_ursaring/fnaf2/toy/toy_freddy.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0217_ursaring/fnaf2/toy/toy_freddy_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2toy",
+        "shiny"
+      ],
+      "poser": "cobblemon:ursaring_fnaf2_toy",
+      "model": "cobblemon:ursaring_fnaf2_toy.geo",
+      "texture": "cobblemon:textures/pokemon/0217_ursaring/fnaf2/toy/toy_freddy_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0217_ursaring/fnaf2/toy/toy_freddy_shiny_e.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

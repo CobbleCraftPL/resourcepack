@@ -1,0 +1,34 @@
+{
+  "portraitScale": 2,
+  "portraitTranslation": [-0.2, 3.5, 0],
+  "profileScale": 0.37,
+  "profileTranslation": [0, 1.22, 0],
+  "animations": {
+    "cry": "q.bedrock_stateful('delphoxfnaf2', 'cry')"
+  },
+  "poses": {
+    "portrait": {
+      "poseTypes": ["PORTRAIT"],
+      "isBattle": false,
+      "animations": ["q.bedrock('delphoxfnaf2', 'ground_idle')"]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": ["q.bedrock('delphoxfnaf2', 'ground_idle')"],
+      "quirks": [
+        "q.bedrock_quirk('delphoxfnaf2', q.array('quirk_ground_idle', 'quirk_ground_idle2','quirk_ground_idle3'), 5, 15, 1)"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": ["q.bedrock('delphoxfnaf2', 'ground_walk')"]
+    },
+
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('delphoxfnaf2', 'ground_sleep')"],
+      "quirks": []
+    }
+  }
+}

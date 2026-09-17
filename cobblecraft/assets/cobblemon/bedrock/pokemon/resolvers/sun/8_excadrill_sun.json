@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:excadrill",
+  "order": 8,
+  "variations": [
+    {
+      "aspects": [
+        "cc_sun"
+      ],
+      "poser": "cobblemon:sun_excadrill",
+      "model": "cobblemon:sun_excadrill.geo",
+      "texture": "cobblemon:textures/pokemon/sun/sun_excadrill.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/sun/sun_excadrill_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_sun"
+      ],
+      "texture": "cobblemon:textures/pokemon/sun/sun_excadrill_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/sun/sun_excadrill_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

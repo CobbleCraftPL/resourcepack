@@ -1,0 +1,27 @@
+{
+  "portraitScale": 1.1,
+  "portraitTranslation": [-0.3, 0.55, 0.0],
+  "profileScale": 0.6,
+  "profileTranslation": [0.0, 0.77, 0.0],
+  "rootBone": "gengar",
+  "animations": {
+    "cry": "q.bedrock_stateful('sun_gengar', 'cry')"
+  },
+  "poses": {
+    "standing": {
+      "poseTypes": ["STAND", "FLOAT", "HOVER", "NONE", "PORTRAIT", "PROFILE"],
+      "animations": ["q.bedrock('sun_gengar', 'ground_idle')"],
+      "quirks": ["q.bedrock_quirk('sun_gengar', 'blink')"]
+    },
+    "walking": {
+      "poseTypes": ["WALK", "FLY"],
+      "animations": ["q.bedrock('sun_gengar', 'air_idle')"],
+      "quirks": ["q.bedrock_quirk('sun_gengar', 'blink')"]
+    },
+     "fly": {
+     "poseTypes": ["FLY"],
+     "animations": ["q.bedrock('sun_gengar', 'air_fly')"],
+     "quirks": ["q.bedrock_quirk('sun_gengar', 'blink')"]
+   }
+  }
+}

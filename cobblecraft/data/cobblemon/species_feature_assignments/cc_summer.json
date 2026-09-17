@@ -1,0 +1,13 @@
+{
+  "pokemon": [
+    "blastoise",
+    "dugtrio",
+    "gardevoir",
+    "lopunny",
+    "pikachu",
+    "vaporeon"
+  ],
+  "features": [
+    "cc_summer"
+  ]
+}

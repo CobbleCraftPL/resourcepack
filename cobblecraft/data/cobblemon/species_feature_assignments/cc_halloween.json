@@ -1,0 +1,11 @@
+{
+  "pokemon": [
+    "pikachu",
+    "raichu",
+    "dragonite",
+    "umbreon"
+  ],
+  "features": [
+    "cc_halloween"
+  ]
+}

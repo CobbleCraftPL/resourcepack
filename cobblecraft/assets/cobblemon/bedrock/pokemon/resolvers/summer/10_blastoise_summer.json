@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:blastoise",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "cc_summer"
+      ],
+      "poser": "cobblemon:blastoise",
+      "model": "cobblemon:summer_blastoise.geo",
+      "texture": "cobblemon:textures/pokemon/summer/summer_blastoise.png",
+      "layers": []
+    }
+  ]
+}

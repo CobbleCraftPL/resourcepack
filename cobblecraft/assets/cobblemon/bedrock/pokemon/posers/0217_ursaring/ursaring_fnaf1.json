@@ -1,0 +1,64 @@
+{
+  "portraitScale": 1.6,
+  "portraitTranslation": [-0.26, 2.6, 0.65],
+  "profileScale": 0.5,
+  "profileTranslation": [0.0, 1.1, 0],
+  "animations": {
+    "cry": "q.bedrock_stateful('ursaringfnaf1', 'cry')",
+    "recoil": "q.bedrock_stateful('ursaringfnaf1', 'recoil')"
+  },
+  "poses": {
+    "portrait": {
+      "poseTypes": ["PORTRAIT"],
+      "isBattle": false,
+      "animations": ["q.bedrock('ursaringfnaf1', 'ground_idle')"]
+    },
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["q.bedrock('ursaringfnaf1', 'battle_idle')"],
+      "quirks": ["q.bedrock_quirk('ursaringfnaf1', 'blinky')"]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PROFILE"],
+      "isBattle": false,
+      "animations": ["q.bedrock('ursaringfnaf1', 'ground_idle')"],
+      "quirks": [
+        "q.bedrock_quirk('ursaringfnaf1', 'blinky')",
+        "q.bedrock_quirk('ursaringfnaf1', q.array('quirk_ground_idle', 'quirk_ground_idle2', 'quirk_ground_idle3', 'quirk_ground_idle4'), 5, 15, 1)"
+      ]
+    },
+
+    "walking": {
+      "poseTypes": ["WALK", "SWIM"],
+      "isBattle": false,
+      "condition": "!q.in_air && !q.is_sprinting",
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('ursaringfnaf1', 'ground_walk')"
+      ],
+      "quirks": ["q.bedrock_quirk('ursaringfnaf1', 'blinky')"],
+      "transformTicks": 5
+    },
+
+    "run": {
+      "poseTypes": ["WALK"],
+      "isBattle": false,
+      "condition": "!q.in_air && q.is_sprinting",
+      "animations": [
+        "q.look('head')",
+        "q.bedrock('ursaringfnaf1', 'ground_run')"
+      ],
+      "quirks": ["q.bedrock_quirk('ursaringfnaf1', 'blinky')"],
+      "transformTicks": 5
+    },
+
+    "sleep": {
+      "poseTypes": ["SLEEP"],
+      "animations": ["q.bedrock('ursaringfnaf1', 'ground_sleep')"],
+      "quirks": [
+        "q.bedrock_quirk('ursaringfnaf1', q.array('quirk_ground_sleep'), 5, 15, 1)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "species": "cobblemon:lopunny",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "cc_fnaf2"
+      ],
+      "poser": "cobblemon:lopunnyfnaf2",
+      "model": "cobblemon:bonnie_fnaf2.geo",
+      "texture": "cobblemon:textures/pokemon/0428_lopunny/fnaf2/lopunnybonnie.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0428_lopunny/fnaf2/lopunnybonnie_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2",
+        "shiny"
+      ],
+      "poser": "cobblemon:lopunnyfnaf2",
+      "model": "cobblemon:bonnie_fnaf2.geo",
+      "texture": "cobblemon:textures/pokemon/0428_lopunny/fnaf2/lopunnybonnie_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0428_lopunny/fnaf2/lopunnybonnie_e_shiny.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2toy"
+      ],
+      "poser": "cobblemon:lopunnyfnaf2_toy",
+      "model": "cobblemon:bonnie_fnaf2_toy.geo",
+      "texture": "cobblemon:textures/pokemon/0428_lopunny/fnaf2/toy/lopunnybonnie_toy.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0428_lopunny/fnaf2/toy/lopunnybonnie_toy_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2toy",
+        "shiny"
+      ],
+      "poser": "cobblemon:lopunnyfnaf2_toy",
+      "model": "cobblemon:bonnie_fnaf2_toy.geo",
+      "texture": "cobblemon:textures/pokemon/0428_lopunny/fnaf2/toy/lopunnybonnie_toy_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0428_lopunny/fnaf2/toy/lopunnybonnie_toy_shiny_e.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

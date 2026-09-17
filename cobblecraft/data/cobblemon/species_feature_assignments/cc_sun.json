@@ -1,0 +1,12 @@
+{
+  "pokemon": [
+    "rayquaza",
+    "tyranitar",
+    "excadrill",
+    "skarmory",
+    "gengar"
+  ],
+  "features": [
+    "cc_sun"
+  ]
+}

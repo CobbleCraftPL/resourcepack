@@ -1,0 +1,8 @@
+{
+  "keys": [
+    "cc_skeleton_overlord"
+  ],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

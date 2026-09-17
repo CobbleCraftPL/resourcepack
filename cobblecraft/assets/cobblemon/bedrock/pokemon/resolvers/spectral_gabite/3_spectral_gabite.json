@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:gabite",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "cc_spectral"
+      ],
+      "poser": "cobblemon:spectral_gabite",
+      "model": "cobblemon:spectral_gabite.geo",
+      "texture": "cobblemon:textures/pokemon/spectral_gabite/spectral_gabite.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/spectral_gabite/spectral_gabite_emissive.png",
+          "translucent": false
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_spectral"
+      ],
+      "texture": "cobblemon:textures/pokemon/spectral_gabite/spectral_gabite_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/spectral_gabite/spectral_gabite_shiny_emissive.png",
+          "translucent": false
+        }
+      ]
+    }
+  ]
+}

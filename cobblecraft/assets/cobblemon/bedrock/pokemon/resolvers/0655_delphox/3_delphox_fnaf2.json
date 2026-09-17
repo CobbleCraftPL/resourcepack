@@ -1,0 +1,66 @@
+{
+  "species": "cobblemon:delphox",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "cc_fnaf2"
+      ],
+      "poser": "cobblemon:delphoxfnaf2",
+      "model": "cobblemon:foxydelphoxfnaf2.geo",
+      "texture": "cobblemon:textures/pokemon/0655_delphox/fnaf2/delphoxfoxyfnaf2.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0655_delphox/fnaf2/delphoxfoxyfnaf2_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0655_delphox/fnaf2/delphoxfoxyfnaf2_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0655_delphox/fnaf2/delphoxfoxyfnaf2_e_shiny.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2toy"
+      ],
+      "poser": "cobblemon:mangledelphox",
+      "model": "cobblemon:mangledelphox.geo",
+      "texture": "cobblemon:textures/pokemon/0655_delphox/fnaf2/mangle/mangle.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0655_delphox/fnaf2/mangle/mangle_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2toy",
+        "shiny"
+      ],
+      "poser": "cobblemon:mangledelphox",
+      "model": "cobblemon:mangledelphox.geo",
+      "texture": "cobblemon:textures/pokemon/0655_delphox/fnaf2/mangle/mangle_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0655_delphox/fnaf2/mangle/mangle_shiny_e.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

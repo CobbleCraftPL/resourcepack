@@ -4,6 +4,18 @@
 		"parent": "",
 		"remote_parent": "cobblecraft",
 		"files": {
+			"CREDITS-fnaf.txt": {
+				"hash": "ab35ddc7de55737ccfaa4752b27d9c4e7dba82a5",
+				"size": 120
+			},
+			"LICENSE-biggdr.txt": {
+				"hash": "f0ceb494858e59d35ecca056a57b6102a7c86028",
+				"size": 765
+			},
+			"LICENSE-darzoth.txt": {
+				"hash": "cfb580ab0cd53594012748eaf8a5bd9c56abf69a",
+				"size": 1789
+			},
 			"pack.mcmeta": {
 				"hash": "030a83233da6bef186fd347fcbc5daeae1afb084",
 				"size": 171
@@ -11,6 +23,1518 @@
 			"pack.png": {
 				"hash": "9a8e61b5273b890c5a99c8bfbdb92b54fad14ce8",
 				"size": 9101
+			},
+			"README-skiny.txt": {
+				"hash": "f57bce4e9a197347dc428815a239dabd30f7f77d",
+				"size": 5448
+			},
+			"assets/cobblemon/sounds.json": {
+				"hash": "ffbd218a560aa3f51028e1acae00ccf2a6921ef9",
+				"size": 12839
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/skeleton_overlord_armarouge.animation.json": {
+				"hash": "27b77f29b94af8cdb5c788018ff0e49c207788dd",
+				"size": 218860
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0026_raichu/raichu_alolan_halloween.animation.json": {
+				"hash": "bc4fc09896944903627d127169ca6f468cb2da4f",
+				"size": 151725
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0026_raichu/raichu_halloween.animation.json": {
+				"hash": "0d96384cc66d8b0c0f48237c78ec7551185c1491",
+				"size": 5648
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0217_ursaring/ursaringfnaf1.animation.json": {
+				"hash": "7c3518dc6e54c74d415553939e7ad6feabdddca1",
+				"size": 111947
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0217_ursaring/ursaringfnaf2.animation.json": {
+				"hash": "01aaa514969f857c0d4bdbd58e8fda731ae3235c",
+				"size": 99100
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0217_ursaring/ursaringfnaf2toy.animation.json": {
+				"hash": "c1000b8df48b8fdd5c45ced517606d5dd862a63e",
+				"size": 128635
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0257_blaziken/blazikenchicafnaf.animation.json": {
+				"hash": "45a62b9d7baacc4d5a127acce06c97bc7965ab60",
+				"size": 102100
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0257_blaziken/blazikenchicafnaf2.animation.json": {
+				"hash": "c07cb043de6799f3c39330cfb2ecc70139cfe741",
+				"size": 123231
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0257_blaziken/blazikenchicafnaf2toy.animation.json": {
+				"hash": "6663daf75aefbcf15b6d31cb29a9361171df8cad",
+				"size": 96478
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0428_lopunny/lopunnyfnaf.animation.json": {
+				"hash": "27ab6c679a177b7f2f04442cd0cb712e042a695b",
+				"size": 67149
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0428_lopunny/lopunnyfnaf2.animation.json": {
+				"hash": "f24b2ef88dce751ec1c3ffdd8a1653d6e7301ced",
+				"size": 72769
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0428_lopunny/lopunnyfnaf2toy.animation.json": {
+				"hash": "b5ef6f0c323dc80d95dfdfc3c5f3195e869cd8cd",
+				"size": 72124
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0655_delphox/delphoxfnaf.animation.json": {
+				"hash": "ff1d54bd64342403996ace006c10a604376f50a9",
+				"size": 57705
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0655_delphox/delphoxfnaf2.animation.json": {
+				"hash": "4459f28e80a41114d4b056f1807302c068baa9df",
+				"size": 63534
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0655_delphox/mangledelphox.animation.json": {
+				"hash": "2e6516040545f95f9d582dc85675739b0b61bbfd",
+				"size": 59918
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/0908_meowscarada/meowscaradapuppet.animation.json": {
+				"hash": "828b12c4a75aac568215ae7424c3ab54e9a8aab4",
+				"size": 114647
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/axew_dragon/axew_dragon.animation.json": {
+				"hash": "9b1439b9b1231d8aebbc05170b89377f91098d7a",
+				"size": 84593
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/fraxure_dragon/fraxure_dragon.animation.json": {
+				"hash": "9e786adf79d62d75551428011a0f24a16a5b24f6",
+				"size": 11088
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/haxorus_dragon/haxorus_dragon.animation.json": {
+				"hash": "87c817d732919e211b461760e4e064cad6ed3b83",
+				"size": 42683
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/spectral_gabite/spectral_gabite.animation.json": {
+				"hash": "7b0da5b558f0c5acfc9b571387a480a83dccd6c8",
+				"size": 10992
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/spectral_garchomp/spectral_garchomp.animation.json": {
+				"hash": "bf0f973338fc7cd022c7bb5e3356ef5b7cdc41b4",
+				"size": 485941
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/spectral_garchomp_mega/spectral_garchomp_mega.animation.json": {
+				"hash": "d6e563e4ced604fbf4d659f4aa04ba46cf1cf9ad",
+				"size": 492918
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/spectral_gible/spectral_gible.animation.json": {
+				"hash": "82a222e07a9c5567c1c9df9cae79f3d64f27dd39",
+				"size": 4543
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/summer/summer_lopunny.animation.json": {
+				"hash": "815754d7d9a4bb921d6c89fcf8d9a5d24f4626cb",
+				"size": 66213
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/sun/sun_excadrill.animation.json": {
+				"hash": "e2e5ee0b81fcd942af816313be2479ebe46f9915",
+				"size": 115436
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/sun/sun_gengar.animation.json": {
+				"hash": "3b1705eeae2d2297f3339b7c33f95df25c69742a",
+				"size": 1701
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/sun/sun_rayquaza.animation.json": {
+				"hash": "5321eb7e00edae729d4f4313ed4dd3c266dc2281",
+				"size": 4448
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/sun/sun_skarmory.animation.json": {
+				"hash": "b5e5f49b35d3b038f3d5b2add68de6eee594ee10",
+				"size": 213714
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/sun/sun_tyranitar.animation.json": {
+				"hash": "2dbfa986590ad2afddbcf7f09b2c5e6c9de1742b",
+				"size": 12705
+			},
+			"assets/cobblemon/bedrock/pokemon/models/armarouge_fastfood.geo.json": {
+				"hash": "8297c7d03faa0506298a6a038774a90de9bd4997",
+				"size": 160206
+			},
+			"assets/cobblemon/bedrock/pokemon/models/axew_dragon.geo.json": {
+				"hash": "3c35f322a88158e9bdfcaef7c2d60eec835af4f0",
+				"size": 14625
+			},
+			"assets/cobblemon/bedrock/pokemon/models/ceruledge_sugar.geo.json": {
+				"hash": "60e7358349ee6255c6bf857fc772a5c214d05b0d",
+				"size": 74627
+			},
+			"assets/cobblemon/bedrock/pokemon/models/fraxure_dragon.geo.json": {
+				"hash": "386a5e11618524a3253e4d6f0f508354c2636ef9",
+				"size": 17589
+			},
+			"assets/cobblemon/bedrock/pokemon/models/haxorus_dragon.geo.json": {
+				"hash": "04714a2858456066c96e2bdac5b1f6a57ecaddb7",
+				"size": 66762
+			},
+			"assets/cobblemon/bedrock/pokemon/models/spectral_gabite.geo.json": {
+				"hash": "e776c92a893f51666760c2225838d69265973f36",
+				"size": 15921
+			},
+			"assets/cobblemon/bedrock/pokemon/models/spectral_garchomp.geo.json": {
+				"hash": "2f4996a3986addc1d2e2b3062181a6025dd46298",
+				"size": 23588
+			},
+			"assets/cobblemon/bedrock/pokemon/models/spectral_garchomp_mega.geo.json": {
+				"hash": "5bdb31df124bb2cd0927250ed0c6a761ad2b430f",
+				"size": 88250
+			},
+			"assets/cobblemon/bedrock/pokemon/models/spectral_gible.geo.json": {
+				"hash": "a08f2501ed06c2290e52638542b43c2294f60798",
+				"size": 12376
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0025_pikachu/pikachu_alola_bias_halloween.geo.json": {
+				"hash": "becc7c583c9587fd13c1c0ffe987bbe718c1864a",
+				"size": 17847
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0025_pikachu/pikachu_halloween.geo.json": {
+				"hash": "889251771adeaa09ce07f1abd7d4fdfccd6aa038",
+				"size": 17836
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0026_raichu/raichu_alolan_halloween.geo.json": {
+				"hash": "82e4e9b41a1cfb9ed6eed2df10a0f9982ec9cc13",
+				"size": 21612
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0026_raichu/raichu_halloween.geo.json": {
+				"hash": "b6740dce9bae1b1d8b74240cb11346a223ede8b7",
+				"size": 19148
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0149_dragonite/dragonite_halloween.geo.json": {
+				"hash": "c752099875ba153d25828db34902cfc5953d9515",
+				"size": 58637
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0197_umbreon/umbreon_halloween.geo.json": {
+				"hash": "9031b0264f213b707a4b2cd3b3070d9b115b7177",
+				"size": 44968
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0217_ursaring/ursaring_fnaf1.geo.json": {
+				"hash": "353667053a2aee9acce89a044fcb7db5d919d482",
+				"size": 23285
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0217_ursaring/ursaring_fnaf2.geo.json": {
+				"hash": "e9949c1e901a932d7ce508db5f50fa757ff0cc40",
+				"size": 42869
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0217_ursaring/ursaring_fnaf2_toy.geo.json": {
+				"hash": "f807c8bd2d568af6c4e0c3f4bc7a7fb57f593d91",
+				"size": 23167
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0257_blaziken/chica_fnaf1.geo.json": {
+				"hash": "96d8536bef01492c9386edaf9bf05e9078c59e57",
+				"size": 29045
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0257_blaziken/chica_fnaf2.geo.json": {
+				"hash": "2e4dfbf325aa5eee05d6026ada36ee99222da4e7",
+				"size": 30132
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0257_blaziken/toychica_fnaf2.geo.json": {
+				"hash": "ee2b2d9f46f0c96c3f93fcc696bb6fbbff453a3a",
+				"size": 30014
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0428_lopunny/bonnie_fnaf1.geo.json": {
+				"hash": "04c9f5c4b5b97bdb524f29fdc6b0c21236a4295b",
+				"size": 30249
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0428_lopunny/bonnie_fnaf2.geo.json": {
+				"hash": "002778427bdc56822ba5444eb7cc01e7272377af",
+				"size": 29382
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0428_lopunny/bonnie_fnaf2_toy.geo.json": {
+				"hash": "c924a3339e9cf5ac2528b1e998b16075f2f04140",
+				"size": 29486
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0655_delphox/foxydelphox.geo.json": {
+				"hash": "102bd4ec7001ddaa9ac6d10c78148367b6372107",
+				"size": 30216
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0655_delphox/foxydelphoxfnaf2.geo.json": {
+				"hash": "00ef9320475817f722ae2f0621c347ce1829ca77",
+				"size": 47159
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0655_delphox/mangledelphox.geo.json": {
+				"hash": "b5583172087269167838f433717a705334a327ab",
+				"size": 29217
+			},
+			"assets/cobblemon/bedrock/pokemon/models/0908_meowscarada/puppet_meowscarada.geo.json": {
+				"hash": "442c9f82429cdadfa0df0f118e35542dda3a0309",
+				"size": 17782
+			},
+			"assets/cobblemon/bedrock/pokemon/models/skeleton_overlord_armaro/skeleton_overlord_armarouge.geo.json": {
+				"hash": "5f0ffbfe2eb904d867d8c248e0983bca18a12a4c",
+				"size": 39808
+			},
+			"assets/cobblemon/bedrock/pokemon/models/summer/summer_blastoise.geo.json": {
+				"hash": "8f9148f52551283c88c713f7ee0f829d9fdba20b",
+				"size": 39969
+			},
+			"assets/cobblemon/bedrock/pokemon/models/summer/summer_dugtrio.geo.json": {
+				"hash": "3857665d08a11029c9958211c42a4da8d0391ec9",
+				"size": 36130
+			},
+			"assets/cobblemon/bedrock/pokemon/models/summer/summer_gardevoir.geo.json": {
+				"hash": "09a2c13bce01ef7ef7fdab1baecc4c08b86133d8",
+				"size": 92134
+			},
+			"assets/cobblemon/bedrock/pokemon/models/summer/summer_lopunny.geo.json": {
+				"hash": "dc043558dabc8427e6a8d006c1d01262b3491b2d",
+				"size": 134815
+			},
+			"assets/cobblemon/bedrock/pokemon/models/summer/summer_pikachu.geo.json": {
+				"hash": "02a8816a13c25144902ebbe2bed0b92bef7bccfe",
+				"size": 31698
+			},
+			"assets/cobblemon/bedrock/pokemon/models/summer/summer_vaporeon.geo.json": {
+				"hash": "b486c5c43cfb77bd5f31579938914152cf34556e",
+				"size": 49297
+			},
+			"assets/cobblemon/bedrock/pokemon/models/sun/sun_excadrill.geo.json": {
+				"hash": "9622b6cf1b03e803f9c11f3ca3465fb9ac9bb806",
+				"size": 19907
+			},
+			"assets/cobblemon/bedrock/pokemon/models/sun/sun_gengar.geo.json": {
+				"hash": "369c3ca86f309c1bced33cad3f3157092aabfd9b",
+				"size": 15431
+			},
+			"assets/cobblemon/bedrock/pokemon/models/sun/sun_rayquaza.geo.json": {
+				"hash": "1056ea2a1c4f4c79d9c0986bd8d4be37e6dd0c9e",
+				"size": 24875
+			},
+			"assets/cobblemon/bedrock/pokemon/models/sun/sun_skarmory.geo.json": {
+				"hash": "44ee70398bb20d2dd1f97c6d69d2a5a7c8433e89",
+				"size": 16344
+			},
+			"assets/cobblemon/bedrock/pokemon/models/sun/sun_tyranitar.geo.json": {
+				"hash": "af77d24f18a5f602cdc256095399fa5c33c0f201",
+				"size": 18521
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/ska.json": {
+				"hash": "e6b6e006f347bce23e0d612ba2b2b53dc7483674",
+				"size": 2273
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0026_raichu/raichu_alolan_halloween.json": {
+				"hash": "fe8752217591e7beb5e842dd1643810ff21da86d",
+				"size": 4230
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0026_raichu/raichu_halloween.json": {
+				"hash": "89acfb6150a0a9077be95395ac9da048eb437b88",
+				"size": 490
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0217_ursaring/ursaring_fnaf1.json": {
+				"hash": "ec312c95895d8f5a7543900aa3cd9b8c2bb17451",
+				"size": 1944
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0217_ursaring/ursaring_fnaf2.json": {
+				"hash": "6e83909c62083faa8955a6262e455e3cb5b913fa",
+				"size": 1940
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0217_ursaring/ursaring_fnaf2_toy.json": {
+				"hash": "dd81eab39edda5ea1ca6c8cc3eeaa88a6715b185",
+				"size": 1986
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0257_blaziken/blazikenfnaf1.json": {
+				"hash": "d4628454d5666335c7c99d9b9aa8abbe18ff23fa",
+				"size": 981
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0257_blaziken/blazikenfnaf2.json": {
+				"hash": "a43514f1c546b0333152483f3c7882f8e683291b",
+				"size": 1030
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0257_blaziken/blazikenfnaf2_toy.json": {
+				"hash": "9281ae809353c2251fd53b6ce8692cb593c8a217",
+				"size": 1004
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0428_lopunny/lopunnyfnaf.json": {
+				"hash": "2d3cd7f6bb98c15717b2078cceeacddc92a898ea",
+				"size": 986
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0428_lopunny/lopunnyfnaf2.json": {
+				"hash": "6282e9f3c8d53cbe9a5cdc0bd844321b010a3d47",
+				"size": 992
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0428_lopunny/lopunnyfnaf2_toy.json": {
+				"hash": "1d6aa957409d5a098e2219c4dfa44bd250e7aec8",
+				"size": 988
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0655_delphox/delphoxfnaf.json": {
+				"hash": "b0cb358d06f5779503c34e9a8a37052f5bfc7d13",
+				"size": 889
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0655_delphox/delphoxfnaf2.json": {
+				"hash": "f0c357bbb7ec2d4073f029f14f6d49c248dcf678",
+				"size": 956
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0655_delphox/mangledelphox.json": {
+				"hash": "e4167d55104f58d314dc87df1123cc443aa089cb",
+				"size": 894
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/0908_meowscarada/meowscaradafnaf2.json": {
+				"hash": "79a5bd0cd0d2b847fd3201b5938e15ee161b8891",
+				"size": 1309
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/axew_dragon/axew_dragon.json": {
+				"hash": "f5bfb8b7c202e4b9a0d9588097ce25fa84ff0367",
+				"size": 2389
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/fraxure_dragon/fraxure_dragon.json": {
+				"hash": "0bee45546eead6ce62ebb55d6be93ce7822eadfd",
+				"size": 1105
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/haxorus_dragon/haxorus_dragon.json": {
+				"hash": "0c117de9d632362adb0260cc8373e8f1efbab99d",
+				"size": 1361
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/spectral_gabite/spectral_gabite.json": {
+				"hash": "896cb03ff984fc9542b2e74411999475a0bb74fb",
+				"size": 984
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/spectral_garchomp/spectral_garchomp.json": {
+				"hash": "1494a36f0d83c1fe68f003e8842183d0e4e4c0d4",
+				"size": 13059
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/spectral_garchomp_mega/spectral_garchomp_mega.json": {
+				"hash": "e16cc3237e84f95e06d5f65c37eda4a564c271f3",
+				"size": 13414
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/spectral_gible/spectral_gible.json": {
+				"hash": "5583c37b7a91fb5f14854e381cc347888ab65b26",
+				"size": 752
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/summer/summer_lopunny.json": {
+				"hash": "ce4173daa8969f192e2202c047c59ed191cb19d7",
+				"size": 1308
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/sun/sun_excadrill.json": {
+				"hash": "07443fa366ebcea77c7c87a12a27c5c883c041c2",
+				"size": 1247
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/sun/sun_gengar.json": {
+				"hash": "9ae74f4e8a800e2dda964c2b8186ad99c35da6a0",
+				"size": 824
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/sun/sun_rayquaza.json": {
+				"hash": "852448dbd58e4ef34a74a0bc753193535060467a",
+				"size": 527
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/sun/sun_skarmory.json": {
+				"hash": "9b8f394eaa461ca9399ee899a0d4974c6fe1d307",
+				"size": 1506
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/sun/sun_tyranitar.json": {
+				"hash": "19aba6b7f959ea20227abde758cae005b1a145be",
+				"size": 777
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/5_armarouge_fastfood.json": {
+				"hash": "893a6334b20ff813d30d1a4fc81da4b6e1170dcd",
+				"size": 2354
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/5_ceruledge_sugar.json": {
+				"hash": "3c653df1e89a30570cb32dee6098bad6fa8f2e98",
+				"size": 3882
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/skeleton_overlord_armarouge.json": {
+				"hash": "2684bc209a9dc92f09502c7f24406e7ca2046fff",
+				"size": 4298
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0025_pikachu/2_pikachu_halloween.json": {
+				"hash": "05dff297b04b6221819c1e6a216925d0242df83e",
+				"size": 729
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0025_pikachu/3_pikachu_alolan_bias_halloween.json": {
+				"hash": "3bd34b681055d11e0fa72ec2991c660edca7ce6c",
+				"size": 805
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0026_raichu/2_raichu_halloween.json": {
+				"hash": "22d9edbd27b1920a57265b3b3a0a20c5f0fe0a2e",
+				"size": 730
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0026_raichu/3_raichu_alolan_halloween.json": {
+				"hash": "fd69ef117a0ce20656c75aa80a1800deec5b78d7",
+				"size": 801
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0149_dragonite/1_dragonite_halloween.json": {
+				"hash": "40c4156d39f5288006e4046bebf3e70dee77431c",
+				"size": 747
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0197_umbreon/1_umbreon_halloween.json": {
+				"hash": "312ee7e58d28fa90af472403db8743024192f76f",
+				"size": 938
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0217_ursaring/1_ursaring_fnaf1.json": {
+				"hash": "c554799210cc5f76953741076b4d26ec8780eb82",
+				"size": 889
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0217_ursaring/2_ursaring_fnaf2.json": {
+				"hash": "bbea010f40246b8191b5040cba09078348d3cef8",
+				"size": 1812
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0257_blaziken/2_blaziken_fnaf1.json": {
+				"hash": "86653fe2d3bed29c9d38ae4a485e427a305fbc40",
+				"size": 857
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0257_blaziken/3_blaziken_fnaf2.json": {
+				"hash": "0f2013e9f1b92f24f3bf6a6402d03e8733d6f365",
+				"size": 1786
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0428_lopunny/2_lopunny_fnaf1.json": {
+				"hash": "9c46fe24700629c6c368f1f154919f0092843804",
+				"size": 678
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0428_lopunny/3_lopunny_fnaf2.json": {
+				"hash": "2113f659ef185ba70bd3f081e0d3bb29c23fb2fe",
+				"size": 1877
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0655_delphox/2_delphox_fnaf1.json": {
+				"hash": "173a69d04ec51fa2f220ab75b3e4586056bece4f",
+				"size": 671
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0655_delphox/3_delphox_fnaf2.json": {
+				"hash": "3599e37414b416dbb4cd982cfc5612e2185956c7",
+				"size": 1763
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/0908_meowscarada/1_meowscarada_fnaf2.json": {
+				"hash": "0196b6b3bc258ecd94ac908d88e8dae40803fe03",
+				"size": 864
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/axew_dragon/2_axew_dragon.json": {
+				"hash": "de1b79d7272a8545843dc61abf04f24f78865b1b",
+				"size": 900
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/fraxure_dragon/2_fraxure_dragon.json": {
+				"hash": "cda5ec8a783a685faaf2b225b715580df15c3519",
+				"size": 933
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/haxorus_dragon/2_haxorus_dragon.json": {
+				"hash": "cf8628bbb9930a3909c7eba59637b899aee2ac43",
+				"size": 933
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/spectral_gabite/3_spectral_gabite.json": {
+				"hash": "4cc446e8559640d8ddd6b2aa36ebe880177a8249",
+				"size": 947
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/spectral_garchomp/3_spectral_garchomp.json": {
+				"hash": "ab8590c715a00334986a1a7af76e5bc0bef91245",
+				"size": 968
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/spectral_garchomp_mega/3_spectral_garchomp_mega.json": {
+				"hash": "54931de38958ccb5cc43dfebfeed18326543f7d9",
+				"size": 1050
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/spectral_gible/3_spectral_gible.json": {
+				"hash": "c60aee410212964bc4094fcbf5121559a6158996",
+				"size": 936
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_blastoise_summer.json": {
+				"hash": "8b466deab956df993ed872fb93ddd15a5dc43c93",
+				"size": 318
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_dugtrio_summer.json": {
+				"hash": "85447fce4e340228d85dc46ec9cf79c7d905a19c",
+				"size": 310
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_gardevoir_summer.json": {
+				"hash": "b94b59135fedd98e7f0c0e56a489a2a6fa208792",
+				"size": 318
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_lopunny_summer.json": {
+				"hash": "71823fca95d1f916c8d50b0ff3d3da514df209ce",
+				"size": 317
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_pikachu_summer.json": {
+				"hash": "b2e38d49798a68efc0824e6595ab7442c0675a3c",
+				"size": 310
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_vaporeon_summer.json": {
+				"hash": "2beceff01c99534dbc6cd71a1a4c3e5c853c2a96",
+				"size": 314
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/sun/8_excadrill_sun.json": {
+				"hash": "e3ef6a06e2773ef92148c244c7b2e34a39978b41",
+				"size": 878
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/sun/8_gengar_sun.json": {
+				"hash": "94d414614a90f31c402a20cb2fe024c34027572c",
+				"size": 859
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/sun/8_rayquaza_sun.json": {
+				"hash": "a9efd03397d6d4e979a129d1aaaac966593739a6",
+				"size": 871
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/sun/8_skarmory_sun.json": {
+				"hash": "2cce668d00ede685849a3200c87258e38fd0ea08",
+				"size": 871
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/sun/8_tyranitar_sun.json": {
+				"hash": "3740e7cf66221a3c3ac847bdc325a71f28a40fb6",
+				"size": 878
+			},
+			"assets/cobblemon/sounds/pokemon/blazikenchica/blazikenchica_arm.ogg": {
+				"hash": "6cb67303f030befcbf7d37cd78cd0fe7cf5c7263",
+				"size": 26293
+			},
+			"assets/cobblemon/sounds/pokemon/blazikenchica/blazikenchica_blinky.ogg": {
+				"hash": "18f2b143b92f97a40a146f06eade5bbe09b480e3",
+				"size": 21385
+			},
+			"assets/cobblemon/sounds/pokemon/blazikenchica/blazikenchica_cry.ogg": {
+				"hash": "b87a4ccf046c984a662622a8e1be6cf4da9963a8",
+				"size": 45495
+			},
+			"assets/cobblemon/sounds/pokemon/blazikenchica/blazikenchica_footsteps.ogg": {
+				"hash": "ca57877e5d4b96d6fdb44e13441ff62deb2583fe",
+				"size": 18618
+			},
+			"assets/cobblemon/sounds/pokemon/blazikenchica/blazikenchica_glitch.ogg": {
+				"hash": "83e86a559d787ce622edb7a1c3cb4ccf0698ea3d",
+				"size": 77805
+			},
+			"assets/cobblemon/sounds/pokemon/blazikenchica/blazikenchica_maj.ogg": {
+				"hash": "11515d8fb94299d2115faa3be210b974ffa5aae1",
+				"size": 28848
+			},
+			"assets/cobblemon/sounds/pokemon/blazikenchica/blazikenchica_min1.ogg": {
+				"hash": "458c108618d6c62100588ae14ef0cbb61475cb02",
+				"size": 26969
+			},
+			"assets/cobblemon/sounds/pokemon/blazikenchica/blazikenchica_min2.ogg": {
+				"hash": "fd3f8a16211b85547858f326e6b645b20ec7a410",
+				"size": 29380
+			},
+			"assets/cobblemon/sounds/pokemon/delphoxfnaf/delphoxfnaf_arm.ogg": {
+				"hash": "ac1f2ca983c7b681653ec95e982c27c473873342",
+				"size": 26294
+			},
+			"assets/cobblemon/sounds/pokemon/delphoxfnaf/delphoxfnaf_blinky.ogg": {
+				"hash": "18f2b143b92f97a40a146f06eade5bbe09b480e3",
+				"size": 21385
+			},
+			"assets/cobblemon/sounds/pokemon/delphoxfnaf/delphoxfnaf_cry.ogg": {
+				"hash": "5760178e9c95a10b73429f96073f67e3fa30ea8a",
+				"size": 14546
+			},
+			"assets/cobblemon/sounds/pokemon/delphoxfnaf/delphoxfnaf_footsteps.ogg": {
+				"hash": "ca57877e5d4b96d6fdb44e13441ff62deb2583fe",
+				"size": 18618
+			},
+			"assets/cobblemon/sounds/pokemon/delphoxfnaf/delphoxfnaf_glitch.ogg": {
+				"hash": "83e86a559d787ce622edb7a1c3cb4ccf0698ea3d",
+				"size": 77805
+			},
+			"assets/cobblemon/sounds/pokemon/delphoxfnaf/delphoxfnaf_maj.ogg": {
+				"hash": "11515d8fb94299d2115faa3be210b974ffa5aae1",
+				"size": 28848
+			},
+			"assets/cobblemon/sounds/pokemon/delphoxfnaf/delphoxfnaf_min1.ogg": {
+				"hash": "458c108618d6c62100588ae14ef0cbb61475cb02",
+				"size": 26969
+			},
+			"assets/cobblemon/sounds/pokemon/delphoxfnaf/delphoxfnaf_min2.ogg": {
+				"hash": "fd3f8a16211b85547858f326e6b645b20ec7a410",
+				"size": 29380
+			},
+			"assets/cobblemon/sounds/pokemon/delphoxfnaf/delphoxfnaf_sing.ogg": {
+				"hash": "83bd1b66e5898b002a153479e5f8680c7c8ce334",
+				"size": 51421
+			},
+			"assets/cobblemon/sounds/pokemon/lopunnyfnaf/lopunnyfnaf_arm.ogg": {
+				"hash": "ac1f2ca983c7b681653ec95e982c27c473873342",
+				"size": 26294
+			},
+			"assets/cobblemon/sounds/pokemon/lopunnyfnaf/lopunnyfnaf_blinky.ogg": {
+				"hash": "18f2b143b92f97a40a146f06eade5bbe09b480e3",
+				"size": 21385
+			},
+			"assets/cobblemon/sounds/pokemon/lopunnyfnaf/lopunnyfnaf_cry.ogg": {
+				"hash": "77d8cf223460ac5aa96aef2e05d04eaab4b11084",
+				"size": 51672
+			},
+			"assets/cobblemon/sounds/pokemon/lopunnyfnaf/lopunnyfnaf_footsteps.ogg": {
+				"hash": "ca57877e5d4b96d6fdb44e13441ff62deb2583fe",
+				"size": 18618
+			},
+			"assets/cobblemon/sounds/pokemon/lopunnyfnaf/lopunnyfnaf_glitch.ogg": {
+				"hash": "e0add73b5aa549c1efdf6fef2df91baa58b1138c",
+				"size": 53654
+			},
+			"assets/cobblemon/sounds/pokemon/lopunnyfnaf/lopunnyfnaf_maj.ogg": {
+				"hash": "11515d8fb94299d2115faa3be210b974ffa5aae1",
+				"size": 28848
+			},
+			"assets/cobblemon/sounds/pokemon/lopunnyfnaf/lopunnyfnaf_min1.ogg": {
+				"hash": "458c108618d6c62100588ae14ef0cbb61475cb02",
+				"size": 26969
+			},
+			"assets/cobblemon/sounds/pokemon/lopunnyfnaf/lopunnyfnaf_min2.ogg": {
+				"hash": "fd3f8a16211b85547858f326e6b645b20ec7a410",
+				"size": 29380
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf1/ursaringfnaf1_arm.ogg": {
+				"hash": "ac1f2ca983c7b681653ec95e982c27c473873342",
+				"size": 26294
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf1/ursaringfnaf1_blinky.ogg": {
+				"hash": "18f2b143b92f97a40a146f06eade5bbe09b480e3",
+				"size": 21385
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf1/ursaringfnaf1_circus.ogg": {
+				"hash": "52aedf5fb039589244e17924b8cbfd538bb37171",
+				"size": 204463
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf1/ursaringfnaf1_cry.ogg": {
+				"hash": "4b815f1a04dc79e3ca8b4c8b8039db8667f47125",
+				"size": 27705
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf1/ursaringfnaf1_footsteps.ogg": {
+				"hash": "ca57877e5d4b96d6fdb44e13441ff62deb2583fe",
+				"size": 18618
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf1/ursaringfnaf1_glitch.ogg": {
+				"hash": "071a00029d2c7a714a07b94b238a6e475e0efed7",
+				"size": 24030
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf1/ursaringfnaf1_honk.ogg": {
+				"hash": "553a6e4963a55d3403ed5e672a3a8050928f61c2",
+				"size": 9825
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf1/ursaringfnaf1_horror.ogg": {
+				"hash": "b12a199cbe7f5f7ad337ec8f3307b7e68c3260ab",
+				"size": 25585
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf1/ursaringfnaf1_maj.ogg": {
+				"hash": "11515d8fb94299d2115faa3be210b974ffa5aae1",
+				"size": 28848
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf1/ursaringfnaf1_min1.ogg": {
+				"hash": "458c108618d6c62100588ae14ef0cbb61475cb02",
+				"size": 26969
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf1/ursaringfnaf1_min2.ogg": {
+				"hash": "fd3f8a16211b85547858f326e6b645b20ec7a410",
+				"size": 29380
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf1/ursaringfnaf1_toreador.ogg": {
+				"hash": "746dfd801ffcfdaa63e47c696d7846c9f6b8889d",
+				"size": 50658
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_bonniecry.ogg": {
+				"hash": "4977fc5d2324b673447913b03d4e5c5959e1f5d9",
+				"size": 43167
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_chicamov.ogg": {
+				"hash": "018d95d02b826b627d641f9ffa96293b2c4626d2",
+				"size": 24710
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_chicamov2.ogg": {
+				"hash": "0d2cdbccf02bc8e7028474b1dada36d65f6b5eda",
+				"size": 26521
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_chicavoice.ogg": {
+				"hash": "a4e679b774be96a669aa35ad20a78699a68ce124",
+				"size": 41749
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_close.ogg": {
+				"hash": "7c1321f7c8fcd33268b86b2e7b4e0ced9cb371e8",
+				"size": 13149
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_ear.ogg": {
+				"hash": "894e27859cd17c6eaac28c6bddd7fcec73186da5",
+				"size": 22067
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_foxydumdum.ogg": {
+				"hash": "57f0ad778471ef782d3059d0d89c7dbd977681ad",
+				"size": 42890
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_foxyvoice.ogg": {
+				"hash": "680acfd5b843af76c2788b83af6338faa5ac82f6",
+				"size": 23208
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_freddyvoicetoy.ogg": {
+				"hash": "35817f41849ae04481ce08e360f824e169f9f0a7",
+				"size": 31902
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_jumpscare.ogg": {
+				"hash": "a01c92ce1838159f827f16697ebe0fb78d2e8d29",
+				"size": 10969
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_laugh.ogg": {
+				"hash": "3a122531e971e9f628459d41f875c39f893a8b4f",
+				"size": 26886
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_manglecry.ogg": {
+				"hash": "af8f113d27ed685edd5264c9623d98b31ceebcee",
+				"size": 17235
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_mouth.ogg": {
+				"hash": "b8417cb2ecf089dace6f3178babec8754a17085b",
+				"size": 13659
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_open.ogg": {
+				"hash": "83f65735574ad95defc872133d9098d6f45caddf",
+				"size": 13857
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_puppet.ogg": {
+				"hash": "822c365a58a1afbf89ee938c18c642d2cd4b36cc",
+				"size": 16516
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_puppetbox1.ogg": {
+				"hash": "e6d37ae61037682b938bf963603f1dba70400f37",
+				"size": 65723
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_puppetbox2.ogg": {
+				"hash": "ba59fdec5c23e52f95d77efeb52b23d17f557c1f",
+				"size": 26502
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_puppetbox3.ogg": {
+				"hash": "60d7bfb61a562b8f8710b3bc9d16281804e300fa",
+				"size": 32579
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_puppetboxsound.ogg": {
+				"hash": "5eb1b0862e02165dd0e8ff8bf2623b23b8ea9380",
+				"size": 11731
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_puppetvoice.ogg": {
+				"hash": "d694387200619fa00002748660e79f561c014bf3",
+				"size": 38393
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_puppetvoice2.ogg": {
+				"hash": "13637e9eb557d76ff3b6ab061d9d1baec405b9d5",
+				"size": 66437
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_puppetvoice3.ogg": {
+				"hash": "9bd0c9f76dee6aa3bb5751b20dbc58e4ce7a13be",
+				"size": 50770
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_torso.ogg": {
+				"hash": "223ae115eb8a3aa8f7d038bcc435e1a42e958ef1",
+				"size": 35664
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_torso2.ogg": {
+				"hash": "b6f12caa5ec01db2e2ba12267699fc5950261c93",
+				"size": 27004
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_toybonniecry.ogg": {
+				"hash": "bee9307967275047486f36a3cc32afef3151f8cb",
+				"size": 31124
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_toychicacry.ogg": {
+				"hash": "d8b24d782a1f2b9dbe4a4a5b9014539db19c8b1a",
+				"size": 36691
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_toymov.ogg": {
+				"hash": "3af63557219370aa6f3275fec9e8707d37accea2",
+				"size": 20683
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_toymov2.ogg": {
+				"hash": "521ac0a3b9873c9c93d6fd37a8869134fad69605",
+				"size": 20111
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_toymov3.ogg": {
+				"hash": "078e3bbe662080087dbe5a37e0841abbe72d486f",
+				"size": 20781
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_toymov4.ogg": {
+				"hash": "31683a94fddfaa0510cb1e0660a6c655752626ba",
+				"size": 20934
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_toymov5.ogg": {
+				"hash": "4705a94dd32b76b67629ec25fcd0052853972632",
+				"size": 12154
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_windup.ogg": {
+				"hash": "43d54f496154762280a3fc2e666366a4f6f43e46",
+				"size": 40353
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_windup1.ogg": {
+				"hash": "98cbea2be98f964a6fa37f8da68d83e5454fff11",
+				"size": 14957
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_windup2.ogg": {
+				"hash": "8dadf214fa370e55d5205b5161bf8b482708de83",
+				"size": 16840
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_windup3.ogg": {
+				"hash": "52a43ad05c0ef3a848bfa7383a26abb589528b01",
+				"size": 21554
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_windup4.ogg": {
+				"hash": "78f66760b4a76c68231dbf39c756b5841da1cbde",
+				"size": 19502
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_windupend.ogg": {
+				"hash": "53f8f8942368a3cf92abf28ef3588b73eb4d1ade",
+				"size": 9790
+			},
+			"assets/cobblemon/sounds/pokemon/ursaringfnaf2/ursaringfnaf2_windupmid.ogg": {
+				"hash": "76eb00f27c7f37091181f2e32066d4519e149a20",
+				"size": 31021
+			},
+			"assets/cobblemon/textures/pokemon/0025_pikachu/pikachu_halloween.png": {
+				"hash": "4bde5f4cd3ad9b39606d2a02cf3779021b713c9a",
+				"size": 3088
+			},
+			"assets/cobblemon/textures/pokemon/0025_pikachu/pikachu_halloween_shiny.png": {
+				"hash": "ad1b317ef9aa94dcea7112a69547d3757215c17c",
+				"size": 3127
+			},
+			"assets/cobblemon/textures/pokemon/0025_pikachu/pikachu_halloween_shiny_emissive.png": {
+				"hash": "c62d11808b050b19963d45d24f75d147784f73e3",
+				"size": 1287
+			},
+			"assets/cobblemon/textures/pokemon/0026_raichu/raichu_alolan_halloween.png": {
+				"hash": "26038986712c0e5601c2604fdaaa74ca80c94eec",
+				"size": 3621
+			},
+			"assets/cobblemon/textures/pokemon/0026_raichu/raichu_alolan_halloween_shiny.png": {
+				"hash": "0b1b83a58d467738470f2adf9cf51d7e5f00df59",
+				"size": 3625
+			},
+			"assets/cobblemon/textures/pokemon/0026_raichu/raichu_alolan_halloween_shiny_emissive.png": {
+				"hash": "00bbf08838e2d8292c8a81138cc72c1f791ddbee",
+				"size": 1678
+			},
+			"assets/cobblemon/textures/pokemon/0026_raichu/raichu_halloween.png": {
+				"hash": "c2d816d05053f36d89d97e10f1820ace73acb491",
+				"size": 3670
+			},
+			"assets/cobblemon/textures/pokemon/0026_raichu/raichu_halloween_shiny.png": {
+				"hash": "a3922ce318c5030385367a9569e0ed85f46112af",
+				"size": 3667
+			},
+			"assets/cobblemon/textures/pokemon/0026_raichu/raichu_halloween_shiny_emissive.png": {
+				"hash": "03d9e0399f54f3170975ce48f9a4a7101a60637f",
+				"size": 1413
+			},
+			"assets/cobblemon/textures/pokemon/0149_dragonite/dragonite_halloween.png": {
+				"hash": "d41e9138d533b78369db41864977d3b61339df9d",
+				"size": 9698
+			},
+			"assets/cobblemon/textures/pokemon/0149_dragonite/dragonite_halloween_shiny.png": {
+				"hash": "2af0edac5300508634f88d7629f7b3d02c9723b5",
+				"size": 9806
+			},
+			"assets/cobblemon/textures/pokemon/0149_dragonite/dragonite_halloween_shiny_emissive.png": {
+				"hash": "4d413335a8cec30d3699b797c610cbb4d79ed776",
+				"size": 3377
+			},
+			"assets/cobblemon/textures/pokemon/0197_umbreon/umbreon_halloween.png": {
+				"hash": "42ab7e723fe4b03c5817c0cb2e7bfbf87c7eda7c",
+				"size": 3368
+			},
+			"assets/cobblemon/textures/pokemon/0197_umbreon/umbreon_halloween_emissive.png": {
+				"hash": "54936b31ac95c994ae312cba84e11923a19856c5",
+				"size": 1184
+			},
+			"assets/cobblemon/textures/pokemon/0197_umbreon/umbreon_halloween_shiny.png": {
+				"hash": "4cb701737871e1a07858b1677911e584badc2430",
+				"size": 3499
+			},
+			"assets/cobblemon/textures/pokemon/0197_umbreon/umbreon_halloween_shiny_emissive.png": {
+				"hash": "81eb14c7049d53c8354ff626d1184e0fdafc0fd7",
+				"size": 1191
+			},
+			"assets/cobblemon/textures/pokemon/0217_ursaring/fnaf/ursaringfreddy_fnaf1.png": {
+				"hash": "9372dde7eeac1fff1945ca8c175818ec2cf5b1ea",
+				"size": 8455
+			},
+			"assets/cobblemon/textures/pokemon/0217_ursaring/fnaf/ursaringfreddy_fnaf1_e.png": {
+				"hash": "9a5cd7d34be17862014e9fd19b556ce04d64677f",
+				"size": 216
+			},
+			"assets/cobblemon/textures/pokemon/0217_ursaring/fnaf/ursaringfreddy_fnaf1_shiny.png": {
+				"hash": "19eed1522458954e93b3366bb5dd5f3b9c39a6c8",
+				"size": 8300
+			},
+			"assets/cobblemon/textures/pokemon/0217_ursaring/fnaf2/ursaringfreddy_fnaf2.png": {
+				"hash": "f701b7c74d9a06c5eed166c289ee8e6dc47f490c",
+				"size": 15062
+			},
+			"assets/cobblemon/textures/pokemon/0217_ursaring/fnaf2/ursaringfreddy_fnaf2_e.png": {
+				"hash": "bc5abe1a4d745ead35254aefb1c9a23d07517dcc",
+				"size": 1298
+			},
+			"assets/cobblemon/textures/pokemon/0217_ursaring/fnaf2/ursaringfreddy_fnaf2_e_shiny.png": {
+				"hash": "48acfdef20728e19584082fb3ae25daaafaf0f0c",
+				"size": 902
+			},
+			"assets/cobblemon/textures/pokemon/0217_ursaring/fnaf2/ursaringfreddy_fnaf2_shiny.png": {
+				"hash": "0297213dc1e27c24ccb7ce66735522901013b7d0",
+				"size": 14966
+			},
+			"assets/cobblemon/textures/pokemon/0217_ursaring/fnaf2/toy/toy_freddy.png": {
+				"hash": "c2386eef827d42c1f3cd941184e2759728cb9e0e",
+				"size": 8038
+			},
+			"assets/cobblemon/textures/pokemon/0217_ursaring/fnaf2/toy/toy_freddy_e.png": {
+				"hash": "5fedbd8b0169b463a34e2e2acf2588fca66c570a",
+				"size": 698
+			},
+			"assets/cobblemon/textures/pokemon/0217_ursaring/fnaf2/toy/toy_freddy_shiny.png": {
+				"hash": "c1b7b374fb2bc6121e0377e510cd0372b5b88c86",
+				"size": 1886
+			},
+			"assets/cobblemon/textures/pokemon/0217_ursaring/fnaf2/toy/toy_freddy_shiny_e.png": {
+				"hash": "212c00853e883c3839b4cf9967ade0ef511a02de",
+				"size": 936
+			},
+			"assets/cobblemon/textures/pokemon/0257_blaziken/fnaf/blazikenchica.png": {
+				"hash": "3587752c0648e7559158369ee85c1a8554bb22d0",
+				"size": 10638
+			},
+			"assets/cobblemon/textures/pokemon/0257_blaziken/fnaf/blazikenchica_e.png": {
+				"hash": "8952168055d84779b4dedda4c12b95aadacd2532",
+				"size": 1211
+			},
+			"assets/cobblemon/textures/pokemon/0257_blaziken/fnaf/blazikenchica_shiny.png": {
+				"hash": "cebade55dc6ba06d8514dbff5ae7b4acffbc80f4",
+				"size": 10569
+			},
+			"assets/cobblemon/textures/pokemon/0257_blaziken/fnaf2/blazikenchicafnaf2.png": {
+				"hash": "5df1ed8407998e78f8eb24e00f30373020eb9d20",
+				"size": 13017
+			},
+			"assets/cobblemon/textures/pokemon/0257_blaziken/fnaf2/blazikenchicafnaf2_e.png": {
+				"hash": "7eee0e45f91048243dff0c4061b9941b49d49759",
+				"size": 1022
+			},
+			"assets/cobblemon/textures/pokemon/0257_blaziken/fnaf2/blazikenchicafnaf2_e_shiny.png": {
+				"hash": "18a7a5228195d2e159a36345b3e968d30baa6f10",
+				"size": 993
+			},
+			"assets/cobblemon/textures/pokemon/0257_blaziken/fnaf2/blazikenchicafnaf2_shiny.png": {
+				"hash": "e358e27e77359e56c73ade07104606204cd5cd78",
+				"size": 13131
+			},
+			"assets/cobblemon/textures/pokemon/0257_blaziken/fnaf2/toy/toy_chica.png": {
+				"hash": "274f644ebc82874c3d4c649e5996e0855a10da8d",
+				"size": 11222
+			},
+			"assets/cobblemon/textures/pokemon/0257_blaziken/fnaf2/toy/toy_chica_e.png": {
+				"hash": "9922db4f8afe562ec1de8faaae61c216d7e6ff06",
+				"size": 1493
+			},
+			"assets/cobblemon/textures/pokemon/0257_blaziken/fnaf2/toy/toy_chica_shiny.png": {
+				"hash": "60fba11bcb4a5812ca959f4ae4cfb722d7457091",
+				"size": 3087
+			},
+			"assets/cobblemon/textures/pokemon/0257_blaziken/fnaf2/toy/toy_chica_shiny_e.png": {
+				"hash": "2b52ab8f2713a714a2dee9c3a1ad32f0667369ef",
+				"size": 994
+			},
+			"assets/cobblemon/textures/pokemon/0428_lopunny/fnaf/lopunnybonnie.png": {
+				"hash": "ed9d6b629d72c9fcf9f8ebde9b101c9ce94798f8",
+				"size": 11022
+			},
+			"assets/cobblemon/textures/pokemon/0428_lopunny/fnaf/lopunnybonnie_e.png": {
+				"hash": "d05fee122780f3ea44092e579065a5c8e67d2a30",
+				"size": 534
+			},
+			"assets/cobblemon/textures/pokemon/0428_lopunny/fnaf/lopunnybonnie_shiny.png": {
+				"hash": "11062075516aa45b4d5e6f58184c4e1cb58c5509",
+				"size": 10911
+			},
+			"assets/cobblemon/textures/pokemon/0428_lopunny/fnaf2/lopunnybonnie.png": {
+				"hash": "5aba9b0c7f158a3fd379fd0b4f208ccdab9ff05e",
+				"size": 11451
+			},
+			"assets/cobblemon/textures/pokemon/0428_lopunny/fnaf2/lopunnybonnie_e.png": {
+				"hash": "d75c719dbd6c751ca6a843c9994b33d96fa11afb",
+				"size": 1272
+			},
+			"assets/cobblemon/textures/pokemon/0428_lopunny/fnaf2/lopunnybonnie_e_shiny.png": {
+				"hash": "a73b17a11293a522c85c9d7f08d613800ec0fc0c",
+				"size": 883
+			},
+			"assets/cobblemon/textures/pokemon/0428_lopunny/fnaf2/lopunnybonnie_shiny.png": {
+				"hash": "5ebaef4da135995dd9df29ef053060146166d007",
+				"size": 11501
+			},
+			"assets/cobblemon/textures/pokemon/0428_lopunny/fnaf2/toy/lopunnybonnie_toy.png": {
+				"hash": "6a6b6b719d315e93512da19894844d3148ff9831",
+				"size": 10843
+			},
+			"assets/cobblemon/textures/pokemon/0428_lopunny/fnaf2/toy/lopunnybonnie_toy_e.png": {
+				"hash": "7a27c44c8fe6089dcb3c6064176b015d3afa0d44",
+				"size": 1096
+			},
+			"assets/cobblemon/textures/pokemon/0428_lopunny/fnaf2/toy/lopunnybonnie_toy_shiny.png": {
+				"hash": "22e304cf4e5ec264c1d09877b5d5b67f04160046",
+				"size": 2646
+			},
+			"assets/cobblemon/textures/pokemon/0428_lopunny/fnaf2/toy/lopunnybonnie_toy_shiny_e.png": {
+				"hash": "dd006dd408b34d4e25174e48e5b9732ebb70bf75",
+				"size": 953
+			},
+			"assets/cobblemon/textures/pokemon/0655_delphox/fnaf/delphoxfoxy.png": {
+				"hash": "877af51b19e79eb0c035c4a8fbcc0dbb109e0e9f",
+				"size": 12053
+			},
+			"assets/cobblemon/textures/pokemon/0655_delphox/fnaf/delphoxfoxy_e.png": {
+				"hash": "497002520a35b7fd451d860557b394a9dc9d174d",
+				"size": 412
+			},
+			"assets/cobblemon/textures/pokemon/0655_delphox/fnaf/delphoxfoxy_shiny.png": {
+				"hash": "81a0e229821843a0d7477bf4dec8c0de10f15010",
+				"size": 11984
+			},
+			"assets/cobblemon/textures/pokemon/0655_delphox/fnaf2/delphoxfoxyfnaf2.png": {
+				"hash": "70e16930791b80a6c9d6286a8d7994e5110fb1a7",
+				"size": 16001
+			},
+			"assets/cobblemon/textures/pokemon/0655_delphox/fnaf2/delphoxfoxyfnaf2_e.png": {
+				"hash": "2fa350ea6ea9f591d95d1861d33d0fa60eaf2a8f",
+				"size": 921
+			},
+			"assets/cobblemon/textures/pokemon/0655_delphox/fnaf2/delphoxfoxyfnaf2_e_shiny.png": {
+				"hash": "ca015f771b059b91cf8e77755aa919d93f1e2426",
+				"size": 880
+			},
+			"assets/cobblemon/textures/pokemon/0655_delphox/fnaf2/delphoxfoxyfnaf2_shiny.png": {
+				"hash": "566a5023fdf3f27e3386096a9c9c63d99fa9ee2f",
+				"size": 15806
+			},
+			"assets/cobblemon/textures/pokemon/0655_delphox/fnaf2/mangle/mangle.png": {
+				"hash": "a558d8d474b7a4bc5d90d6a0dfefc3541841d810",
+				"size": 10264
+			},
+			"assets/cobblemon/textures/pokemon/0655_delphox/fnaf2/mangle/mangle_e.png": {
+				"hash": "740f562fa26a236192568c3e550c72b5235ec052",
+				"size": 1230
+			},
+			"assets/cobblemon/textures/pokemon/0655_delphox/fnaf2/mangle/mangle_shiny.png": {
+				"hash": "6fb7ffbda35dc0283885002b6d4c1b8cc0b67a0a",
+				"size": 2660
+			},
+			"assets/cobblemon/textures/pokemon/0655_delphox/fnaf2/mangle/mangle_shiny_e.png": {
+				"hash": "911703116bdd6eb3ed56c4795e70df2643f4b228",
+				"size": 981
+			},
+			"assets/cobblemon/textures/pokemon/0908_meowscarada/fnaf2/puppet.png": {
+				"hash": "558de0fd3d6254d213ee3659a381a1c43c521815",
+				"size": 11385
+			},
+			"assets/cobblemon/textures/pokemon/0908_meowscarada/fnaf2/puppet_e.png": {
+				"hash": "2010a660127a1a739e78f7cb1766fdf66e0c70e4",
+				"size": 979
+			},
+			"assets/cobblemon/textures/pokemon/0908_meowscarada/fnaf2/puppet_e_shiny.png": {
+				"hash": "00f056411156dcc5b22267e7de76216a0fa033a4",
+				"size": 982
+			},
+			"assets/cobblemon/textures/pokemon/0908_meowscarada/fnaf2/puppet_shiny.png": {
+				"hash": "f7a7f5e036f1e70287bec93854a72377fbb720e1",
+				"size": 11326
+			},
+			"assets/cobblemon/textures/pokemon/axew_dragon/axew_dragon.png": {
+				"hash": "5b3799e06195e9fb08d24d51ab9b7918069614dd",
+				"size": 2854
+			},
+			"assets/cobblemon/textures/pokemon/axew_dragon/axew_dragon_emissive.png": {
+				"hash": "a01373200dec4b174d443b740c3dcb7e2c8264ea",
+				"size": 961
+			},
+			"assets/cobblemon/textures/pokemon/axew_dragon/axew_dragon_shiny.png": {
+				"hash": "03ec1b7b064203797c2c17f6119cd60b08442216",
+				"size": 2816
+			},
+			"assets/cobblemon/textures/pokemon/axew_dragon/axew_dragon_shiny_emissive.png": {
+				"hash": "bc03b46338f9ecd6a903c15ccbaf4d05bdb5498c",
+				"size": 972
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_1.png": {
+				"hash": "b47ed14f431b146231519ae46c564523efde439b",
+				"size": 2170
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_2.png": {
+				"hash": "fc767f813a678b8a55e523ec923aec0ae45dd963",
+				"size": 1967
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_3.png": {
+				"hash": "287ea9fc55714edf451fc27da057e21aa2e98ba3",
+				"size": 2111
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_4.png": {
+				"hash": "7b0608b4333b66f8133a9ed2536e3fa1f6bb5e98",
+				"size": 1811
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_5.png": {
+				"hash": "5bde91ceb6d9dbc263d0a29d1d80a367eb7792d1",
+				"size": 2321
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_6.png": {
+				"hash": "fc767f813a678b8a55e523ec923aec0ae45dd963",
+				"size": 1967
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_7.png": {
+				"hash": "287ea9fc55714edf451fc27da057e21aa2e98ba3",
+				"size": 2111
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_8.png": {
+				"hash": "7b0608b4333b66f8133a9ed2536e3fa1f6bb5e98",
+				"size": 1811
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_shiny_1.png": {
+				"hash": "f5f5e403290d331d22c55941e17692c3f4816381",
+				"size": 2152
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_shiny_2.png": {
+				"hash": "3b70f59cefd9eaddf045829b7020d8b72f3fa7e6",
+				"size": 1970
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_shiny_3.png": {
+				"hash": "20f85c216b0dee5b01537c205912829e07037772",
+				"size": 2098
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_shiny_4.png": {
+				"hash": "993bddcd10e72f6a7face0a9b0ca3bbdf898139e",
+				"size": 1892
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_shiny_5.png": {
+				"hash": "df7eb229a1f5cfdef51eac611f1ec44848bc30ce",
+				"size": 2287
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_shiny_6.png": {
+				"hash": "3beba379a6172bc22a4307324fd14094f67511ba",
+				"size": 1927
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_shiny_7.png": {
+				"hash": "20f85c216b0dee5b01537c205912829e07037772",
+				"size": 2098
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_emissive_sugar_shiny_8.png": {
+				"hash": "b77f191f7e610d0f09020cf5348b34399cf8011f",
+				"size": 1868
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_1.png": {
+				"hash": "e453b22dd82b2978af7c686cc1169763703047e2",
+				"size": 8217
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_2.png": {
+				"hash": "0eab11d2174b84998fd5e57d1f8a6892b339734a",
+				"size": 8055
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_3.png": {
+				"hash": "05efcb7b8aa345013fdb65bfb478d29978c0d826",
+				"size": 7807
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_4.png": {
+				"hash": "86c375e5f7c6f2ae8c351c6ffd3f080ecb2bc3dd",
+				"size": 7756
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_5.png": {
+				"hash": "e453b22dd82b2978af7c686cc1169763703047e2",
+				"size": 8217
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_6.png": {
+				"hash": "0eab11d2174b84998fd5e57d1f8a6892b339734a",
+				"size": 8055
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_7.png": {
+				"hash": "05efcb7b8aa345013fdb65bfb478d29978c0d826",
+				"size": 7807
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_8.png": {
+				"hash": "86c375e5f7c6f2ae8c351c6ffd3f080ecb2bc3dd",
+				"size": 7756
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_shiny_1.png": {
+				"hash": "58cb5c8a37cd63fed7a0fbd68f326de3b22c4212",
+				"size": 8186
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_shiny_2.png": {
+				"hash": "199b7440d9a799a35aa137f438fe5a978be8e0c8",
+				"size": 8043
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_shiny_3.png": {
+				"hash": "2cac37839e83b00060f1680c729e6dc9a1b1da7d",
+				"size": 7824
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_shiny_4.png": {
+				"hash": "d7d4303901c71904a48376b5c5c4aecc6a91ad86",
+				"size": 7776
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_shiny_5.png": {
+				"hash": "87acc86cb86aae2a402551c588df6992164fd993",
+				"size": 8162
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_shiny_6.png": {
+				"hash": "c7fc1b370d4333974c4d62d7c07879dc1fcbd943",
+				"size": 8024
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_shiny_7.png": {
+				"hash": "eb78e1c7d1fd2170bd093e47fd305dfc4a20b8f6",
+				"size": 7841
+			},
+			"assets/cobblemon/textures/pokemon/ceruledge_sugar/ceruledge_sugar_shiny_8.png": {
+				"hash": "a5b6d450d8700288f8f6eb8b9550a68d9cce81d3",
+				"size": 7764
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_1.png": {
+				"hash": "707d3db1c77327539919347a12846345272e1d8c",
+				"size": 7767
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_2.png": {
+				"hash": "5d23fd823606d02bf64535bcb8c281ce6316d1b2",
+				"size": 7716
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_3.png": {
+				"hash": "36ae6efeefc9d99a757f4120e6e1d35f95466639",
+				"size": 7760
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_4.png": {
+				"hash": "172a08cbb4c660739c022cc09fce7be7600dedaf",
+				"size": 7718
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_emissive_1.png": {
+				"hash": "c582ced81f91d4111cdc4051f75d310f29d676ae",
+				"size": 1085
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_emissive_2.png": {
+				"hash": "724a9df25b3fcc2b54c286565d9d3f2d907c386f",
+				"size": 1045
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_emissive_3.png": {
+				"hash": "ca8ccb6de9686529119ac09f9ac224977dfd2466",
+				"size": 1068
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_emissive_4.png": {
+				"hash": "5840b8ed5c6bb6857abcbd1eeedfe56213d6c5a5",
+				"size": 1063
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_emissive_shiny_1.png": {
+				"hash": "5a589a18ffe396212c8d313e65b20b773f54c048",
+				"size": 1105
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_emissive_shiny_2.png": {
+				"hash": "a53e338bb2b16360298b59fa740ce6bc6b005159",
+				"size": 1083
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_emissive_shiny_3.png": {
+				"hash": "a8674240643ec07ac3195345b9a1c533b87ac644",
+				"size": 1080
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_emissive_shiny_4.png": {
+				"hash": "838ed81643170b54a0ec2446deee8d788a1c8ab4",
+				"size": 1072
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_shiny_1.png": {
+				"hash": "a14435c582a71993f6ebc81360d0ce891a0fa7e4",
+				"size": 7434
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_shiny_2.png": {
+				"hash": "6f80ba6c8769d1df374678f5c48444dcd38bdd7f",
+				"size": 7420
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_shiny_3.png": {
+				"hash": "e5bb56793a8ba7d5a56b8feb76c2c2ae56392b69",
+				"size": 7388
+			},
+			"assets/cobblemon/textures/pokemon/fastfood/armarouge_fastfood_shiny_4.png": {
+				"hash": "1a43bbd41c6691ffc703fc9b973d384f207d6c53",
+				"size": 7375
+			},
+			"assets/cobblemon/textures/pokemon/fraxure_dragon/fraxure_dragon.png": {
+				"hash": "623de03b23f2fc7088c3964681324fa6f568e80c",
+				"size": 7812
+			},
+			"assets/cobblemon/textures/pokemon/fraxure_dragon/fraxure_dragon_emissive.png": {
+				"hash": "8ca05fbf1509047fe171571d824857f9d2aea689",
+				"size": 1842
+			},
+			"assets/cobblemon/textures/pokemon/fraxure_dragon/fraxure_dragon_shiny.png": {
+				"hash": "004ae6c232a985972bafe9c43912254ddb2f2a5b",
+				"size": 7621
+			},
+			"assets/cobblemon/textures/pokemon/fraxure_dragon/fraxure_dragon_shiny_emissive.png": {
+				"hash": "331913957e76cf4aa532f89ead02c658916509a2",
+				"size": 1841
+			},
+			"assets/cobblemon/textures/pokemon/haxorus_dragon/haxorus_dragon.png": {
+				"hash": "c583916d057424862c601681fc9c3d695c7c5e62",
+				"size": 16597
+			},
+			"assets/cobblemon/textures/pokemon/haxorus_dragon/haxorus_dragon_emissive.png": {
+				"hash": "a89d41d9a927610cb695e1b255c69e08e660c076",
+				"size": 3567
+			},
+			"assets/cobblemon/textures/pokemon/haxorus_dragon/haxorus_dragon_shiny.png": {
+				"hash": "be9f66418d580a3604ede20d27ab12a13096fce1",
+				"size": 16781
+			},
+			"assets/cobblemon/textures/pokemon/haxorus_dragon/haxorus_dragon_shiny_emissive.png": {
+				"hash": "f95e396edaa4032bb862874711b2162fa29a8fdf",
+				"size": 3593
+			},
+			"assets/cobblemon/textures/pokemon/skeleton_overlord_armarouge/skeleton_overlord_armarouge.png": {
+				"hash": "666e33b7a745d52370f4663b8ff5a1e5adc5c311",
+				"size": 18115
+			},
+			"assets/cobblemon/textures/pokemon/spectral_gabite/spectral_gabite.png": {
+				"hash": "20b22a7c735af67b466e147a10804ea2311c65a8",
+				"size": 4214
+			},
+			"assets/cobblemon/textures/pokemon/spectral_gabite/spectral_gabite_emissive.png": {
+				"hash": "f4837605a91135673109dc254b22137fce04fa4b",
+				"size": 1056
+			},
+			"assets/cobblemon/textures/pokemon/spectral_gabite/spectral_gabite_shiny.png": {
+				"hash": "c12d089b024b1fa6a9eefbb1ab794d1764652f32",
+				"size": 4242
+			},
+			"assets/cobblemon/textures/pokemon/spectral_gabite/spectral_gabite_shiny_emissive.png": {
+				"hash": "42872cacf34d03d5592a4a7d0c8c032a83ecbc62",
+				"size": 1073
+			},
+			"assets/cobblemon/textures/pokemon/spectral_garchomp/spectral_garchomp.png": {
+				"hash": "473484fdc31ffe866c9d19deb235b9f0086a38d2",
+				"size": 7722
+			},
+			"assets/cobblemon/textures/pokemon/spectral_garchomp/spectral_garchomp_emissive.png": {
+				"hash": "b92eb575918a8128214ab90dc34aa1db8356a7f8",
+				"size": 1958
+			},
+			"assets/cobblemon/textures/pokemon/spectral_garchomp/spectral_garchomp_shiny.png": {
+				"hash": "57fb93ab9e41010100f41c276645b6be9b42c8eb",
+				"size": 7717
+			},
+			"assets/cobblemon/textures/pokemon/spectral_garchomp/spectral_garchomp_shiny_emissive.png": {
+				"hash": "7975c58dc5718fa29664100282007f992b0f1ade",
+				"size": 1944
+			},
+			"assets/cobblemon/textures/pokemon/spectral_garchomp_mega/spectral_garchomp_mega.png": {
+				"hash": "4694feedd69eab3cbf018380dd1ab50b9994389d",
+				"size": 11509
+			},
+			"assets/cobblemon/textures/pokemon/spectral_garchomp_mega/spectral_garchomp_mega_emissive.png": {
+				"hash": "7c357230b9aaa0aab03b1da676012a57a064ddf2",
+				"size": 4307
+			},
+			"assets/cobblemon/textures/pokemon/spectral_garchomp_mega/spectral_garchomp_mega_shiny.png": {
+				"hash": "a7e5b7708af17b63c788450de5969c9e7ab95b26",
+				"size": 11530
+			},
+			"assets/cobblemon/textures/pokemon/spectral_garchomp_mega/spectral_garchomp_mega_shiny_emissive.png": {
+				"hash": "fff564860c5b8c9f183f47f2d103e53e4a155aac",
+				"size": 4313
+			},
+			"assets/cobblemon/textures/pokemon/spectral_gible/spectral_gible.png": {
+				"hash": "4f740814c8666638e94ab95191435e6a8dd8c204",
+				"size": 3605
+			},
+			"assets/cobblemon/textures/pokemon/spectral_gible/spectral_gible_emissive.png": {
+				"hash": "7113d0871a7b6e9e4b97b15459994f80e32e00fa",
+				"size": 1020
+			},
+			"assets/cobblemon/textures/pokemon/spectral_gible/spectral_gible_shiny.png": {
+				"hash": "0f6da6965b796072831911fdda74372e348efc04",
+				"size": 3625
+			},
+			"assets/cobblemon/textures/pokemon/spectral_gible/spectral_gible_shiny_emissive.png": {
+				"hash": "6ed8a450ec627cb84865431efe5e0e9b119c9603",
+				"size": 1038
+			},
+			"assets/cobblemon/textures/pokemon/summer/summer_blastoise.png": {
+				"hash": "35be58c81e8b27e587e8ebe591204b7168ab3f1e",
+				"size": 19932
+			},
+			"assets/cobblemon/textures/pokemon/summer/summer_dugtrio.png": {
+				"hash": "1d13196f945803ddd563f4b07d9b9f22ad83d425",
+				"size": 7926
+			},
+			"assets/cobblemon/textures/pokemon/summer/summer_gardevoir.png": {
+				"hash": "7a2dad93dc86b62443da08af9be84d8c0abb8c6d",
+				"size": 7246
+			},
+			"assets/cobblemon/textures/pokemon/summer/summer_lopunny.png": {
+				"hash": "af853913d73e3e264ce43c1277c731f66fa5c2ae",
+				"size": 10877
+			},
+			"assets/cobblemon/textures/pokemon/summer/summer_pikachu.png": {
+				"hash": "e0c919d4ded072f7cf90819ee19800185872ed2d",
+				"size": 5957
+			},
+			"assets/cobblemon/textures/pokemon/summer/summer_vaporeon.png": {
+				"hash": "96334cf63e7c16449c537684ec688ebed0f4bbfb",
+				"size": 6931
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_excadrill.png": {
+				"hash": "ea2fdd6e76c58812db248b8ce8d38cc41a9a4c2c",
+				"size": 17122
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_excadrill_emissive.png": {
+				"hash": "f8cde1bb6bf5cb64e174c36b223799f2bdb1402f",
+				"size": 8663
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_excadrill_shiny.png": {
+				"hash": "3d72727144ccd4b829298f2e754d73cd30cd063e",
+				"size": 16557
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_excadrill_shiny_emissive.png": {
+				"hash": "5de1903f94f66cdf26fbbc733eddbe720adc6380",
+				"size": 8313
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_gengar.png": {
+				"hash": "5f88684b054e88e96c2c28150b1babe86ecf92bc",
+				"size": 14803
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_gengar_emissives.png": {
+				"hash": "0264bcf294399d6171a21c942310c3f783c1d499",
+				"size": 7375
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_gengar_shiny.png": {
+				"hash": "6a600c47586339189393c50488edec8e2ac8056c",
+				"size": 14396
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_gengar_shiny_emissives.png": {
+				"hash": "a62348e1c4cce6db1fc4fb168d653f026adfc877",
+				"size": 6920
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_rayquaza.png": {
+				"hash": "5701e23bb7e6bc2e7c9446fc604c25f8082795b1",
+				"size": 43128
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_rayquaza_emissive.png": {
+				"hash": "4ebfb27891b47bf1cde67c864191f3c15d115172",
+				"size": 21833
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_rayquaza_shiny.png": {
+				"hash": "2bc00346fab28b4fa7852cb4384fc572eb51ff18",
+				"size": 36820
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_rayquaza_shiny_emissive.png": {
+				"hash": "e9e77307d4c0b65bb6a612668abefeb418e685b0",
+				"size": 20701
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_skarmory.png": {
+				"hash": "33f818721a78282f351b9c6464447eb984c495a6",
+				"size": 12579
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_skarmory_emissive.png": {
+				"hash": "183109f39c5138da20f1df7d3d8d8bf2539c065d",
+				"size": 9422
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_skarmory_shiny.png": {
+				"hash": "6f68367e985a3ccaeee134a0df7992e5935974f7",
+				"size": 12240
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_skarmory_shiny_emissive.png": {
+				"hash": "594bd6bda582a862c959ca28e5ec08d0c0a62484",
+				"size": 8996
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_tyranitar.png": {
+				"hash": "1c7587f001c1782dbf2d6dc6dd9bff21d8756a82",
+				"size": 30226
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_tyranitar_emissive.png": {
+				"hash": "290ad73091de3c4f69ec327405d743a7e78d38c9",
+				"size": 9210
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_tyranitar_shiny.png": {
+				"hash": "a203a44e822f210b3ce29efa380dce8205c1ec92",
+				"size": 29757
+			},
+			"assets/cobblemon/textures/pokemon/sun/sun_tyranitar_shiny_emissive.png": {
+				"hash": "0d33fc202401d6815349534484ed7257f2a74f90",
+				"size": 8711
 			},
 			"assets/ikony/textures/font/arm_icon_01_01.png": {
 				"hash": "4000a98851c6ac8cb31b52de21e990eef67c91a1",
@@ -536,6 +2060,10 @@
 				"hash": "4afe9a604c534148529d5ac7da8c2b88bec6ce30",
 				"size": 1051
 			},
+			"assets/mega_showdown/textures/item/garchompite_r.png": {
+				"hash": "fb33c6f5c6f4e5d97c4b19bf1bdc74b624079154",
+				"size": 355
+			},
 			"assets/minecraft/font/default.json": {
 				"hash": "71ef41d407def0007cbed78fdb456d5be192f19a",
 				"size": 16660
@@ -611,6 +2139,94 @@
 			"assets/waluta/textures/font/eventcoins.png": {
 				"hash": "7abd587c0a83ed57fe77ed336603a3c844893afc",
 				"size": 352
+			},
+			"data/cobblemon/species_features/cc_dragon.json": {
+				"hash": "7d92395884b5bc67c4b28be78c3d186e61698e23",
+				"size": 94
+			},
+			"data/cobblemon/species_features/cc_fastfood.json": {
+				"hash": "52376f1392a459daedd52b6bdc23af0b46c40dda",
+				"size": 96
+			},
+			"data/cobblemon/species_features/cc_fnaf1.json": {
+				"hash": "87dc7372f789e624d82478ef0a2976150c2c352c",
+				"size": 93
+			},
+			"data/cobblemon/species_features/cc_fnaf2.json": {
+				"hash": "da45d4e53e39560d1c4b476b209b76a2a07ebb5b",
+				"size": 93
+			},
+			"data/cobblemon/species_features/cc_fnaf2toy.json": {
+				"hash": "43d735dd4d35598a3b433989b976e5d1ba04cccd",
+				"size": 96
+			},
+			"data/cobblemon/species_features/cc_halloween.json": {
+				"hash": "cfd7f78f70fe724b67632b0e5b0c6d58aa64e677",
+				"size": 97
+			},
+			"data/cobblemon/species_features/cc_skeleton_overlord.json": {
+				"hash": "890811ef39fe38a99095d225d44904572bacd82e",
+				"size": 105
+			},
+			"data/cobblemon/species_features/cc_spectral.json": {
+				"hash": "17c9001767865a0a258e151d88c41e5a929f889e",
+				"size": 96
+			},
+			"data/cobblemon/species_features/cc_sugar.json": {
+				"hash": "22456b84e3ed79f08c8c5051ef6d4e9a31b93314",
+				"size": 93
+			},
+			"data/cobblemon/species_features/cc_summer.json": {
+				"hash": "d4082aa68b6b648363b038ea375715f275c1a692",
+				"size": 94
+			},
+			"data/cobblemon/species_features/cc_sun.json": {
+				"hash": "d74c1c7d6f530773991d26cb5b981b05a0316123",
+				"size": 91
+			},
+			"data/cobblemon/species_feature_assignments/cc_dragon.json": {
+				"hash": "c87992bac9e9cea61b4a17022928264837df2502",
+				"size": 101
+			},
+			"data/cobblemon/species_feature_assignments/cc_fastfood.json": {
+				"hash": "740300c89f00c2ba44786f157b4e1e63bf3d3984",
+				"size": 78
+			},
+			"data/cobblemon/species_feature_assignments/cc_fnaf1.json": {
+				"hash": "ec08eb9b45117bff27f2050623bdad1ae845aaaf",
+				"size": 120
+			},
+			"data/cobblemon/species_feature_assignments/cc_fnaf2.json": {
+				"hash": "071de6c60772408d151471f4208e2bd0501a409b",
+				"size": 139
+			},
+			"data/cobblemon/species_feature_assignments/cc_fnaf2toy.json": {
+				"hash": "7cbd85363855374b35717a616a1fb934bfdff420",
+				"size": 123
+			},
+			"data/cobblemon/species_feature_assignments/cc_halloween.json": {
+				"hash": "09ee82682aa1006bb2d4739c67d8e612c233d81a",
+				"size": 123
+			},
+			"data/cobblemon/species_feature_assignments/cc_skeleton_overlord.json": {
+				"hash": "b6958613df8f95ac81c71b3572d4354e7efb7a2e",
+				"size": 87
+			},
+			"data/cobblemon/species_feature_assignments/cc_spectral.json": {
+				"hash": "d82bf087d5de5d5351f473fdfd5ef483d4b1ff75",
+				"size": 104
+			},
+			"data/cobblemon/species_feature_assignments/cc_sugar.json": {
+				"hash": "96b09a6e64c851428f5736fce743dbe377d7bbc5",
+				"size": 75
+			},
+			"data/cobblemon/species_feature_assignments/cc_summer.json": {
+				"hash": "cecc7f47b6fe88bc286608d55725ec1b22dc2170",
+				"size": 154
+			},
+			"data/cobblemon/species_feature_assignments/cc_sun.json": {
+				"hash": "7725d96b00d6273c1304cb24fd03d7ea95664ef0",
+				"size": 136
 			}
 		}
 	}

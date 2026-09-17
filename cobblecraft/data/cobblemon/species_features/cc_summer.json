@@ -1,0 +1,8 @@
+{
+  "keys": [
+    "cc_summer"
+  ],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

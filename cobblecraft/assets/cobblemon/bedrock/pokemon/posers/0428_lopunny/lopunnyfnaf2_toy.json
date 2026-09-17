@@ -1,0 +1,36 @@
+{
+  "portraitScale": 2,
+  "portraitTranslation": [-0.42, 2.25, 0],
+  "profileScale": 0.45,
+  "profileTranslation": [0.01, 1.12, 0],
+  "animations": {
+    "cry": "q.bedrock_primary('lopunnyfnaf2toy', 'cry')"
+  },
+  "poses": {
+    "portrait": {
+      "poseTypes": ["PORTRAIT"],
+      "isBattle": false,
+      "animations": ["q.bedrock('lopunnyfnaf2toy', 'ground_idle')"]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": ["q.bedrock('lopunnyfnaf2toy', 'ground_idle')"],
+      "quirks": [
+        "q.bedrock_quirk('lopunnyfnaf2toy', 'blinky')",
+        "q.bedrock_primary_quirk('lopunnyfnaf2toy', q.array('ground_idle_quirk', 'glitch_quirk'), 5, 15, 1)"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": ["q.bedrock('lopunnyfnaf2toy', 'ground_walk')"],
+      "transformedParts": [
+        {
+          "part": "guitar",
+          "isVisible": false
+        }
+      ]
+    }
+  }
+}
+

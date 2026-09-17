@@ -1,0 +1,594 @@
+{
+  "pokemon.ursaringfnaf1.cry": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf1/ursaringfnaf1_cry",
+        "volume": 0.3
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf1.blinky": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf1/ursaringfnaf1_blinky",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf1.arm": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf1/ursaringfnaf1_arm",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf1.min1": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf1/ursaringfnaf1_min1",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf1.min2": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf1/ursaringfnaf1_min2",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf1.footsteps": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf1/ursaringfnaf1_footsteps",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf1.maj": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf1/ursaringfnaf1_maj",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf1.honk": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf1/ursaringfnaf1_honk",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf1.toreador": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf1/ursaringfnaf1_toreador",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf1.horror": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf1/ursaringfnaf1_horror",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf1.glitch": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf1/ursaringfnaf1_glitch",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.blazikenchica.cry": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/blazikenchica/blazikenchica_cry",
+        "volume": 0.3
+      }
+    ]
+  },
+  "pokemon.blazikenchica.blinky": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/blazikenchica/blazikenchica_blinky",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.blazikenchica.arm": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/blazikenchica/blazikenchica_arm",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.blazikenchica.min1": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/blazikenchica/blazikenchica_min1",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.blazikenchica.min2": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/blazikenchica/blazikenchica_min2",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.blazikenchica.footsteps": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/blazikenchica/blazikenchica_footsteps",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.blazikenchica.maj": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/blazikenchica/blazikenchica_maj",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.blazikenchica.glitch": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/blazikenchica/blazikenchica_glitch",
+        "volume": 0.08
+      }
+    ]
+  },
+  "pokemon.lopunnyfnaf.cry": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/lopunnyfnaf/lopunnyfnaf_cry",
+        "volume": 0.3
+      }
+    ]
+  },
+  "pokemon.lopunnyfnaf.blinky": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/lopunnyfnaf/lopunnyfnaf_blinky",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.lopunnyfnaf.arm": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/lopunnyfnaf/lopunnyfnaf_arm",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.lopunnyfnaf.min1": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/lopunnyfnaf/lopunnyfnaf_min1",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.lopunnyfnaf.min2": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/lopunnyfnaf/lopunnyfnaf_min2",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.lopunnyfnaf.footsteps": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/lopunnyfnaf/lopunnyfnaf_footsteps",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.lopunnyfnaf.maj": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/lopunnyfnaf/lopunnyfnaf_maj",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.lopunnyfnaf.glitch": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/lopunnyfnaf/lopunnyfnaf_glitch",
+        "volume": 0.08
+      }
+    ]
+  },
+  "pokemon.delphoxfnaf.cry": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/delphoxfnaf/delphoxfnaf_cry",
+        "volume": 0.3
+      }
+    ]
+  },
+  "pokemon.delphoxfnaf.blinky": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/delphoxfnaf/delphoxfnaf_blinky",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.delphoxfnaf.arm": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/delphoxfnaf/delphoxfnaf_arm",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.delphoxfnaf.min1": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/delphoxfnaf/delphoxfnaf_min1",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.delphoxfnaf.min2": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/delphoxfnaf/delphoxfnaf_min2",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.delphoxfnaf.footsteps": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/delphoxfnaf/delphoxfnaf_footsteps",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.delphoxfnaf.maj": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/delphoxfnaf/delphoxfnaf_maj",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.delphoxfnaf.glitch": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/delphoxfnaf/delphoxfnaf_glitch",
+        "volume": 0.08
+      }
+    ]
+  },
+  "pokemon.delphoxfnaf.sing": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/delphoxfnaf/delphoxfnaf_sing",
+        "volume": 0.08
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.bonniecry": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_bonniecry",
+        "volume": 0.35
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.chicamov": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_chicamov",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.chicamov2": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_chicamov2",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.chicavoice": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_chicavoice",
+        "volume": 0.4
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.close": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_close",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.ear": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_ear",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.foxydumdum": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_foxydumdum",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.foxyvoice": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_foxyvoice",
+        "volume": 0.7
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.jumpscare": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_jumpscare",
+        "volume": 0.7
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.laugh": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_laugh",
+        "volume": 1.5
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.mouth": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_mouth",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.open": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_open",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.puppet": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_puppet",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.puppetbox1": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_puppetbox1",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.puppetbox2": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_puppetbox2",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.puppetbox3": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_puppetbox3",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.puppetboxsound": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_puppetboxsound",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.puppetvoice": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_puppetvoice",
+        "volume": 0.66
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.puppetvoice2": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_puppetvoice2",
+        "volume": 0.66
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.puppetvoice3": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_puppetvoice3",
+        "volume": 0.66
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.torso": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_torso",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.torso2": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_torso2",
+        "volume": 0.12
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.windup": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_windup",
+        "volume": 0.2
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.windup1": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_windup1",
+        "volume": 0.2
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.windup2": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_windup2",
+        "volume": 0.2
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.windup3": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_windup3",
+        "volume": 0.2
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.windup4": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_windup4",
+        "volume": 0.2
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.windupend": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_windupend",
+        "volume": 0.5
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.windupmid": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_windupmid",
+        "volume": 0.2
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.freddyvoicetoy": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_freddyvoicetoy",
+        "volume": 0.7
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.toymov": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_toymov",
+        "volume": 0.2
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.toymov2": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_toymov2",
+        "volume": 0.2
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.toymov3": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_toymov3",
+        "volume": 0.2
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.toymov4": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_toymov4",
+        "volume": 0.2
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.toymov5": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_toymov",
+        "volume": 0.2
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.toybonniecry": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_toybonniecry",
+        "volume": 0.7
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.toychicacry": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_toychicacry",
+        "volume": 0.7
+      }
+    ]
+  },
+  "pokemon.ursaringfnaf2.manglecry": {
+    "sounds": [
+      {
+        "name": "cobblemon:pokemon/ursaringfnaf2/ursaringfnaf2_manglecry",
+        "volume": 0.7
+      }
+    ]
+  }
+}

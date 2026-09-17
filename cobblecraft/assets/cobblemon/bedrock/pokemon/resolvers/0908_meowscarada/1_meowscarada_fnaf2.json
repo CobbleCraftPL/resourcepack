@@ -1,0 +1,35 @@
+{
+  "species": "cobblemon:meowscarada",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "cc_fnaf2"
+      ],
+      "poser": "cobblemon:meowscaradafnaf2",
+      "model": "cobblemon:puppet_meowscarada.geo",
+      "texture": "cobblemon:textures/pokemon/0908_meowscarada/fnaf2/puppet.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0908_meowscarada/fnaf2/puppet_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0908_meowscarada/fnaf2/puppet_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0908_meowscarada/fnaf2/puppet_e_shiny.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

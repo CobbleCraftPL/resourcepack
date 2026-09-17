@@ -1,0 +1,66 @@
+{
+  "species": "cobblemon:blaziken",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "cc_fnaf2"
+      ],
+      "poser": "cobblemon:blazikenfnaf2",
+      "model": "cobblemon:chica_fnaf2.geo",
+      "texture": "cobblemon:textures/pokemon/0257_blaziken/fnaf2/blazikenchicafnaf2.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0257_blaziken/fnaf2/blazikenchicafnaf2_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0257_blaziken/fnaf2/blazikenchicafnaf2_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0257_blaziken/fnaf2/blazikenchicafnaf2_e_shiny.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2toy"
+      ],
+      "poser": "cobblemon:blazikenfnaf2_toy",
+      "model": "cobblemon:toychica_fnaf2.geo",
+      "texture": "cobblemon:textures/pokemon/0257_blaziken/fnaf2/toy/toy_chica.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0257_blaziken/fnaf2/toy/toy_chica_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf2toy",
+        "shiny"
+      ],
+      "poser": "cobblemon:blazikenfnaf2_toy",
+      "model": "cobblemon:toychica_fnaf2.geo",
+      "texture": "cobblemon:textures/pokemon/0257_blaziken/fnaf2/toy/toy_chica_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0257_blaziken/fnaf2/toy/toy_chica_shiny_e.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

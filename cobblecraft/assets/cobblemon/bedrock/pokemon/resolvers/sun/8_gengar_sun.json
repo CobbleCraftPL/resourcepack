@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:gengar",
+  "order": 8,
+  "variations": [
+    {
+      "aspects": [
+        "cc_sun"
+      ],
+      "poser": "cobblemon:sun_gengar",
+      "model": "cobblemon:sun_gengar.geo",
+      "texture": "cobblemon:textures/pokemon/sun/sun_gengar.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/sun/sun_gengar_emissives.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_sun"
+      ],
+      "texture": "cobblemon:textures/pokemon/sun/sun_gengar_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/sun/sun_gengar_shiny_emissives.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

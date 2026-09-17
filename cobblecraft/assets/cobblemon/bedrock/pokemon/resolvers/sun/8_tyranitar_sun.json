@@ -1,0 +1,37 @@
+{
+  "species": "cobblemon:tyranitar",
+  "order": 8,
+  "variations": [
+    {
+      "aspects": [
+        "cc_sun"
+      ],
+      "poser": "cobblemon:sun_tyranitar",
+      "model": "cobblemon:sun_tyranitar.geo",
+      "texture": "cobblemon:textures/pokemon/sun/sun_tyranitar.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/sun/sun_tyranitar_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_sun"
+      ],
+      "texture": "cobblemon:textures/pokemon/sun/sun_tyranitar_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/sun/sun_tyranitar_shiny_emissive.png",
+          "emissive": true,
+          "translucent": true
+        }
+      ]
+    }
+  ]
+}

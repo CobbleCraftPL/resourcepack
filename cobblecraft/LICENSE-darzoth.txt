@@ -1,0 +1,47 @@
+Darzoth Model & Texture License
+
+Contact:
+Discord: Darzoth
+Ko-fi: https://ko-fi.com/darzoth
+
+Email: straxsw@gmail.com
+
+1. Ownership
+
+The models and textures included in this pack are the intellectual property of Darzoth. All rights not expressly granted herein are reserved.
+
+2. Usage Restriction
+
+This content cannot be used, shared, or incorporated into any public or private project (including servers, mods, datapacks, or any form of distribution) unless a valid license has been obtained through direct payment to Darzoth.
+
+Any use without prior authorization is strictly prohibited.
+
+3. Commercial and Non-Commercial Use
+
+Both commercial and non-commercial use require a paid license.
+
+Commercial Use: Paid servers, monetized content, or projects involving direct or indirect profit.
+
+Non-Commercial Use: Free servers, community projects, or any public use without profit.
+
+All require explicit permission and payment.
+
+Licenses are non-transferable and limited to the specific individual or server who acquires them.
+The scope and terms of use will be defined on a case-by-case basis.
+
+4. Distribution
+
+Redistributing, reselling, or sharing the models or textures, in whole or in part, separately from your licensed project is strictly prohibited.
+
+5. Attribution
+
+You are encouraged to give credit to Darzoth when using the models and textures in your licensed projects, especially in public-facing content.
+
+6. Termination
+
+This license is terminated automatically if you fail to comply with its terms.
+Commercial or non-commercial licenses may be revoked for breach or violation of the agreement.
+
+7. Acceptance of Terms
+
+By purchasing, installing, or incorporating this model and texture pack, you agree to be legally bound by the terms and conditions set forth in this license.

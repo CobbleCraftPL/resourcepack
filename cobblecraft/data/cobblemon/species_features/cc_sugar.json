@@ -1,0 +1,8 @@
+{
+  "keys": [
+    "cc_sugar"
+  ],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

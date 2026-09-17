@@ -1,0 +1,15 @@
+{
+  "species": "cobblemon:lopunny",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "cc_summer"
+      ],
+      "poser": "cobblemon:summer_lopunny",
+      "model": "cobblemon:summer_lopunny.geo",
+      "texture": "cobblemon:textures/pokemon/summer/summer_lopunny.png",
+      "layers": []
+    }
+  ]
+}

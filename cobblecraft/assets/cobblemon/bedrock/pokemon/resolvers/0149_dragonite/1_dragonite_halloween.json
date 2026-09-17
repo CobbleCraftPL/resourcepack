@@ -1,0 +1,30 @@
+{
+  "species": "cobblemon:dragonite",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "cc_halloween"
+      ],
+      "poser": "cobblemon:dragonite",
+      "model": "cobblemon:dragonite_halloween.geo",
+      "texture": "cobblemon:textures/pokemon/0149_dragonite/dragonite_halloween.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "shiny",
+        "cc_halloween"
+      ],
+      "texture": "cobblemon:textures/pokemon/0149_dragonite/dragonite_halloween_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0149_dragonite/dragonite_halloween_shiny_emissive.png",
+          "emissive": true,
+          "translucent": false
+        }
+      ]
+    }
+  ]
+}

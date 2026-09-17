@@ -1,0 +1,29 @@
+{
+  "species": "cobblemon:lopunny",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "cc_fnaf1"
+      ],
+      "poser": "cobblemon:lopunnyfnaf",
+      "model": "cobblemon:bonnie_fnaf1.geo",
+      "texture": "cobblemon:textures/pokemon/0428_lopunny/fnaf/lopunnybonnie.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0428_lopunny/fnaf/lopunnybonnie_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "cc_fnaf1",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0428_lopunny/fnaf/lopunnybonnie_shiny.png",
+      "layers": []
+    }
+  ]
+}

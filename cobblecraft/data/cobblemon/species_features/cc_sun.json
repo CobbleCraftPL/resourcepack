@@ -1,0 +1,8 @@
+{
+  "keys": [
+    "cc_sun"
+  ],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

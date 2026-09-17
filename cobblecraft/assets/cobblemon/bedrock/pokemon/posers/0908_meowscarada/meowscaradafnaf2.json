@@ -1,0 +1,37 @@
+{
+  "portraitScale": 1.5,
+  "portraitTranslation": [-0.33, 4.5, 0.0],
+  "profileScale": 0.46,
+  "profileTranslation": [0.0, 1.1, 0.0],
+  "animations": {
+    "cry": "q.bedrock_stateful('meowscaradapuppet', 'cry')",
+    "recoil": "q.bedrock_stateful('meowscaradapuppet', 'recoil')",
+    "physical": "q.bedrock_primary('meowscaradapuppet', 'physical')",
+    "special": "q.bedrock_primary('meowscaradapuppet', 'special')"
+  },
+  "poses": {
+    "portrait": {
+      "poseTypes": ["PORTRAIT"],
+      "isBattle": false,
+      "animations": ["q.bedrock('meowscaradapuppet', 'battle_idle')"]
+    },
+    "battle-standing": {
+      "poseTypes": ["STAND"],
+      "isBattle": true,
+      "animations": ["q.bedrock('meowscaradapuppet', 'battle_idle')"],
+      "quirks": ["q.bedrock_quirk('meowscaradapuppet', 'blink')"]
+    },
+    "standing": {
+      "poseTypes": ["STAND", "NONE", "PORTRAIT", "PROFILE"],
+      "isBattle": false,
+      "animations": ["q.bedrock('meowscaradapuppet', 'ground_idle')"],
+      "quirks": [
+        "q.bedrock_primary_quirk('meowscaradapuppet', q.array('quirk_ground_idle', 'quirk_ground_idle2','quirk_ground_idle3'), 5, 15, 1, q.curve('symmetrical'))"
+      ]
+    },
+    "walking": {
+      "poseTypes": ["WALK"],
+      "animations": ["q.bedrock('meowscaradapuppet', 'ground_walk')"]
+    }
+  }
+}
