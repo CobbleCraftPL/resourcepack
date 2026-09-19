@@ -25,8 +25,8 @@
 				"size": 9101
 			},
 			"README-skiny.txt": {
-				"hash": "f57bce4e9a197347dc428815a239dabd30f7f77d",
-				"size": 5448
+				"hash": "5ee7224437bce418fe30e7b71a1d8f662854f061",
+				"size": 5608
 			},
 			"assets/cobblemon/sounds.json": {
 				"hash": "ffbd218a560aa3f51028e1acae00ccf2a6921ef9",
@@ -123,10 +123,6 @@
 			"assets/cobblemon/bedrock/pokemon/animations/spectral_gible/spectral_gible.animation.json": {
 				"hash": "82a222e07a9c5567c1c9df9cae79f3d64f27dd39",
 				"size": 4543
-			},
-			"assets/cobblemon/bedrock/pokemon/animations/summer/summer_lopunny.animation.json": {
-				"hash": "815754d7d9a4bb921d6c89fcf8d9a5d24f4626cb",
-				"size": 66213
 			},
 			"assets/cobblemon/bedrock/pokemon/animations/sun/sun_excadrill.animation.json": {
 				"hash": "e2e5ee0b81fcd942af816313be2479ebe46f9915",
@@ -273,12 +269,12 @@
 				"size": 36130
 			},
 			"assets/cobblemon/bedrock/pokemon/models/summer/summer_gardevoir.geo.json": {
-				"hash": "09a2c13bce01ef7ef7fdab1baecc4c08b86133d8",
-				"size": 92134
+				"hash": "57a41466a77f58c1469b5d010ea771204a3a6555",
+				"size": 51766
 			},
 			"assets/cobblemon/bedrock/pokemon/models/summer/summer_lopunny.geo.json": {
-				"hash": "dc043558dabc8427e6a8d006c1d01262b3491b2d",
-				"size": 134815
+				"hash": "be20ce7bcdda653984dae719511dfaceeeb99a4e",
+				"size": 124726
 			},
 			"assets/cobblemon/bedrock/pokemon/models/summer/summer_pikachu.geo.json": {
 				"hash": "02a8816a13c25144902ebbe2bed0b92bef7bccfe",
@@ -399,10 +395,6 @@
 			"assets/cobblemon/bedrock/pokemon/posers/spectral_gible/spectral_gible.json": {
 				"hash": "5583c37b7a91fb5f14854e381cc347888ab65b26",
 				"size": 752
-			},
-			"assets/cobblemon/bedrock/pokemon/posers/summer/summer_lopunny.json": {
-				"hash": "ce4173daa8969f192e2202c047c59ed191cb19d7",
-				"size": 1308
 			},
 			"assets/cobblemon/bedrock/pokemon/posers/sun/sun_excadrill.json": {
 				"hash": "07443fa366ebcea77c7c87a12a27c5c883c041c2",
@@ -537,8 +529,8 @@
 				"size": 318
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_lopunny_summer.json": {
-				"hash": "71823fca95d1f916c8d50b0ff3d3da514df209ce",
-				"size": 317
+				"hash": "cacecbdff19349b9126e64f4d35766178c442daa",
+				"size": 310
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_pikachu_summer.json": {
 				"hash": "b2e38d49798a68efc0824e6595ab7442c0675a3c",
@@ -1441,12 +1433,12 @@
 				"size": 7926
 			},
 			"assets/cobblemon/textures/pokemon/summer/summer_gardevoir.png": {
-				"hash": "7a2dad93dc86b62443da08af9be84d8c0abb8c6d",
-				"size": 7246
+				"hash": "272df3462a061bc5b05a2169df2c77c792f20fb7",
+				"size": 3132
 			},
 			"assets/cobblemon/textures/pokemon/summer/summer_lopunny.png": {
-				"hash": "af853913d73e3e264ce43c1277c731f66fa5c2ae",
-				"size": 10877
+				"hash": "27ff9313a5ff0ec1b67c31e267fef9ebcf3f6f3f",
+				"size": 4006
 			},
 			"assets/cobblemon/textures/pokemon/summer/summer_pikachu.png": {
 				"hash": "e0c919d4ded072f7cf90819ee19800185872ed2d",
@@ -2044,9 +2036,29 @@
 				"hash": "867f2d941858b280ba8a09f02f4fa6fa98273795",
 				"size": 512
 			},
+			"assets/ikony/textures/font/common_icon.png": {
+				"hash": "e5a91f87568c7230c49f6664c5171995c1c2fd62",
+				"size": 273
+			},
+			"assets/ikony/textures/font/epic_icon.png": {
+				"hash": "981dc27626593f22648b6dbae79bea8346ec6ee8",
+				"size": 221
+			},
 			"assets/ikony/textures/font/left_mouse.png": {
 				"hash": "fc4b5631049e98d3428c2828acca13d78615dc8d",
 				"size": 127
+			},
+			"assets/ikony/textures/font/legendary_icon.png": {
+				"hash": "88c23fa8f2ea8591451699bfe2eae11b2063f556",
+				"size": 229
+			},
+			"assets/ikony/textures/font/mythic_icon.png": {
+				"hash": "9a323487a85d7a42464916d731add51c5787cdb7",
+				"size": 263
+			},
+			"assets/ikony/textures/font/rare_icon.png": {
+				"hash": "e2a8e0c6a7f9ec24177381d09a4aad2083f7870e",
+				"size": 221
 			},
 			"assets/ikony/textures/font/right_mouse.png": {
 				"hash": "3adedb9ed7634c94373b8a01198a64449e52cd1b",
@@ -2065,12 +2077,12 @@
 				"size": 355
 			},
 			"assets/minecraft/font/default.json": {
-				"hash": "71ef41d407def0007cbed78fdb456d5be192f19a",
-				"size": 16660
+				"hash": "439b21382d038f32763cdc46bf6f4c0756411b68",
+				"size": 17214
 			},
 			"assets/minecraft/font/uniform.json": {
-				"hash": "71ef41d407def0007cbed78fdb456d5be192f19a",
-				"size": 16660
+				"hash": "439b21382d038f32763cdc46bf6f4c0756411b68",
+				"size": 17214
 			},
 			"assets/rangi/textures/font/admin.png": {
 				"hash": "1e9f3fcb88328ae6f785c9941f666fce8f8846e9",

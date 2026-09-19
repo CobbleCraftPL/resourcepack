@@ -6,7 +6,7 @@
       "aspects": [
         "cc_summer"
       ],
-      "poser": "cobblemon:summer_lopunny",
+      "poser": "cobblemon:lopunny",
       "model": "cobblemon:summer_lopunny.geo",
       "texture": "cobblemon:textures/pokemon/summer/summer_lopunny.png",
       "layers": []

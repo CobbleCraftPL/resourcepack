@@ -108,15 +108,16 @@ Zmiany wzgledem oryginalow:
 - Spectral Garchomp (+mega): poser szukal animacji "sleep", autor nazwal
   ja "sleep_WIP" — podpieta.
 
-Summer bylo dostarczone jako .bbmodel (zrodla Blockbench). Geometria,
-tekstury i animacje wyeksportowane skryptem, ktory na komisji ozis dawal
-wynik identyczny z eksportem z Blockbencha (5 modeli, 4269 klatek).
-- blastoise, dugtrio, gardevoir, pikachu, vaporeon: zbudowane na
-  NIETKNIETYM rigu Cobblemona (wszystkie kosci i pivoty jak w vanilli,
-  dolozone tylko akcesoria). Uzywaja vanillowego posera i animacji.
-  Wszystkie vanillowe lokatory sa na miejscu.
-- lopunny: zbudowany na innym, nowszym rigu (65 kosci z innym pivotem),
-  wiec ma WLASNE animacje (summer_lopunny) i wlasny poser.
+Summer bylo dostarczone jako .bbmodel (zrodla Blockbench). Geometria i tekstury
+wyeksportowane skryptem, ktory na komisji ozis dawal wynik identyczny z eksportem
+z Blockbencha (5 modeli, 4269 klatek).
+- Wszystkie 6 modeli siedzi na NIETKNIETYM rigu Cobblemona 1.8.1 (komplet kosci
+  i pivotow jak w vanilli, dolozone tylko akcesoria), wiec uzywaja vanillowych
+  poserow i animacji. Wszystkie vanillowe lokatory sa na miejscu.
+- Gardevoir (48) i Lopunny (12) mialy plaskie "kartki" (kwiatki, listki) z UV
+  ustawianym per scianka. Cobblemon czyta TYLKO box UV — przez to paczka w ogole
+  sie nie wczytywala ("Unable to load model"). Piksele tych kartek sa przeniesione
+  do paska doklejonego na dole tekstury i przepisane na box UV. Wyglad bez zmian.
 - Pikachu summer to model meski — samica tez go dostanie.
 - Model Pikachu/Dugtrio summer nadpisuje tez warianty (czapki Pikachu,
   Alolan Dugtrio) — z aspektem cc_summer zawsze widac letni model.
