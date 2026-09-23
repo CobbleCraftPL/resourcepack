@@ -10,6 +10,15 @@
       "model": "cobblemon:summer_dugtrio.geo",
       "texture": "cobblemon:textures/pokemon/summer/summer_dugtrio.png",
       "layers": []
+    },
+    {
+      "aspects": [
+        "dugtrio-cc_summer"
+      ],
+      "poser": "cobblemon:dugtrio",
+      "model": "cobblemon:summer_dugtrio.geo",
+      "texture": "cobblemon:textures/pokemon/summer/summer_dugtrio.png",
+      "layers": []
     }
   ]
 }

@@ -24,6 +24,29 @@
       ],
       "texture": "cobblemon:textures/pokemon/0655_delphox/fnaf/delphoxfoxy_shiny.png",
       "layers": []
+    },
+    {
+      "aspects": [
+        "delphox-cc_fnaf1"
+      ],
+      "poser": "cobblemon:delphoxfnaf",
+      "model": "cobblemon:foxydelphox.geo",
+      "texture": "cobblemon:textures/pokemon/0655_delphox/fnaf/delphoxfoxy.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0655_delphox/fnaf/delphoxfoxy_e.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "delphox-cc_fnaf1",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0655_delphox/fnaf/delphoxfoxy_shiny.png",
+      "layers": []
     }
   ]
 }

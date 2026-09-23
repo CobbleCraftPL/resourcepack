@@ -10,6 +10,15 @@
       "model": "cobblemon:summer_vaporeon.geo",
       "texture": "cobblemon:textures/pokemon/summer/summer_vaporeon.png",
       "layers": []
+    },
+    {
+      "aspects": [
+        "vaporeon-cc_summer"
+      ],
+      "poser": "cobblemon:vaporeon",
+      "model": "cobblemon:summer_vaporeon.geo",
+      "texture": "cobblemon:textures/pokemon/summer/summer_vaporeon.png",
+      "layers": []
     }
   ]
 }

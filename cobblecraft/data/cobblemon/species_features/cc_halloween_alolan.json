@@ -1,0 +1,8 @@
+{
+  "keys": [
+    "cc_halloween_alolan"
+  ],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

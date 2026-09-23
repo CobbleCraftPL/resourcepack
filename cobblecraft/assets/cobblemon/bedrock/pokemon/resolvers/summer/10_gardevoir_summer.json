@@ -10,6 +10,15 @@
       "model": "cobblemon:summer_gardevoir.geo",
       "texture": "cobblemon:textures/pokemon/summer/summer_gardevoir.png",
       "layers": []
+    },
+    {
+      "aspects": [
+        "gardevoir-cc_summer"
+      ],
+      "poser": "cobblemon:gardevoir",
+      "model": "cobblemon:summer_gardevoir.geo",
+      "texture": "cobblemon:textures/pokemon/summer/summer_gardevoir.png",
+      "layers": []
     }
   ]
 }

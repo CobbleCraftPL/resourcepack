@@ -1,0 +1,8 @@
+{
+  "keys": [
+    "cc_fnaf1_golden"
+  ],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

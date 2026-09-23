@@ -1,10 +1,13 @@
 skiny — paczka skinow Cobblemon serwera CobbleCraft
 ====================================================
 
-Ten ZIP jest jednoczesnie RESOURCE PACKIEM (assets/) i DATAPACKIEM (data/).
-Wrzuc go w OBA miejsca:
-  - serwer:  world/datapacks/          (zeby dzialaly aspekty i komendy)
-  - klient:  resourcepacks/            (zeby bylo widac modele)
+Skiny sa rozdzielone na dwa pliki:
+  - CobbleCraft.zip  = CLIENT SIDE: resource pack serwera (resource-pack= w
+                       server.properties). Modele, tekstury, animacje, dzwieki
+                       i nazwy przedmiotow skinow (assets/).
+  - skiny.zip        = SERVER SIDE: datapack do world/datapacks/. Definicje
+                       aspektow cc_* (data/), bez nich /pokegive ich nie zna.
+Po zmianie skinow podmien OBA pliki.
 
 Wszystkie aspekty maja prefiks "cc_" — nie koliduja z innymi paczkami
 skinow, ktore czesto uzywaja nazw typu "halloween" czy "dragon".
@@ -62,6 +65,13 @@ SKINY
 11) cc_summer            Summer (stroje letnie)
     blastoise, dugtrio, gardevoir, lopunny, pikachu, vaporeon
 
+12) cc_ozis              Event (komisja ozis, ManiquesitoJR)
+    garbodor, ludicolo, lugia, tyrantrum
+    Czyste remodele na rigu Cobblemona - bez wlasnych poserow, dziedzicza
+    vanillowe animacje. Tyrantrum: siedzenie przednie jak w Cobblemonie 1.8.1.
+    Garbodor byl robiony pod rig 1.7.3 (w 1.8.1 doszly peleryna/uszy) -
+    animacje z 1.8.1 dzialaja, ale moga wygladac troche inaczej.
+
 Przyklady:
      /pokegive <gracz> garchomp cc_spectral=true shiny=true
      /pokegive <gracz> delphox cc_fnaf2toy=true
@@ -71,6 +81,27 @@ Przyklady:
 Na jednym pokemonie wlaczaj tylko JEDEN skin. Lopunny, Delphox, Ursaring,
 Blaziken, Pikachu i Armarouge maja po kilka skinow — przy kilku naraz
 wygrywa ten o wyzszym "order" w resolverze.
+
+
+NAZWY SKINOW I PRZEDMIOTY (mod cobblecraftadditions)
+----------------------------------------------------
+Skin mozna dac na dwa sposoby:
+  1) komenda z aspektem motywu (jak wyzej):  /pokegive <gracz> rayquaza cc_sun=true
+  2) przedmiot kosmetyku zakladany pokemonowi (kolo interakcji -> "Change
+     cosmetic item"). Przedmiot (cobblecraftadditions:cosmetic_common/rare/epic/
+     mythic/legendary) trzyma tekst <gatunek>-<aspekt>, np. "rayquaza-cc_sun".
+     Mod (wersja z 2026-09-23) nadaje aspekt cc_sun TYLKO gdy pokemon jest tego
+     gatunku - na innym przedmiot nic nie robi. Gatunek to id Cobblemona bez formy
+     (Alolan Raichu to "raichu").
+Dodatkowe aspekty dla osobnych przedmiotow:
+  cc_halloween_alolan  Szkielet Alolan Raichu (tylko forma Alolan)
+  cc_fnaf1_golden      Golden Freddy (model FNAF1 ze zlota tekstura shiny)
+
+Nazwa/opis przedmiotu: assets/skiny/lang/en_us.json + pl_pl.json (identyczne, po
+polsku), klucze cobblecraftadditions.skin.<pokemon>-<aspekt>.name/.lore,
+formatowanie MiniMessage. Nazwa BEZ koloru - kolor nadaje rzadkosc przedmiotu.
+43 skiny. Lista z rzadkosciami i komendami /give: przedmioty-skinow.txt i .csv
+(obok paczki w Desktop\txt).
 
 
 LICENCJE
@@ -86,7 +117,7 @@ JAK ZBUDOWANA JEST PAKA
 -----------------------
 Zrodla: Desktop\txt\skiny  +  z poprzedniej paczki (Desktop\skiny\CobbleCraft.zip)
 tylko: halloween, fastfood, sugar, dragon, spectral.
-Komisja ozis (eevee, garbodor, ludicolo, lugia, tyrantrum) NIE jest juz w paczce.
+Z komisji ozis wracaja garbodor, ludicolo, lugia, tyrantrum (Eevee NIE).
 Komunikaty Lootr przeniesione do paczki CobbleCraft (Desktop\txt).
 
 Zmiany wzgledem oryginalow:

@@ -10,6 +10,15 @@
       "model": "cobblemon:summer_lopunny.geo",
       "texture": "cobblemon:textures/pokemon/summer/summer_lopunny.png",
       "layers": []
+    },
+    {
+      "aspects": [
+        "lopunny-cc_summer"
+      ],
+      "poser": "cobblemon:lopunny",
+      "model": "cobblemon:summer_lopunny.geo",
+      "texture": "cobblemon:textures/pokemon/summer/summer_lopunny.png",
+      "layers": []
     }
   ]
 }

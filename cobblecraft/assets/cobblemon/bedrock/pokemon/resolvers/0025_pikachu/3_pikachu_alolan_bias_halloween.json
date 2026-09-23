@@ -27,6 +27,32 @@
           "translucent": false
         }
       ]
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "pikachu-cc_halloween"
+      ],
+      "poser": "cobblemon:pikachu_alolan",
+      "model": "cobblemon:pikachu_alola_bias_halloween.geo",
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_halloween.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "region-bias-alola",
+        "shiny",
+        "pikachu-cc_halloween"
+      ],
+      "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_halloween_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0025_pikachu/pikachu_halloween_shiny_emissive.png",
+          "emissive": true,
+          "translucent": false
+        }
+      ]
     }
   ]
 }

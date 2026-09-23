@@ -10,6 +10,15 @@
       "model": "cobblemon:summer_pikachu.geo",
       "texture": "cobblemon:textures/pokemon/summer/summer_pikachu.png",
       "layers": []
+    },
+    {
+      "aspects": [
+        "pikachu-cc_summer"
+      ],
+      "poser": "cobblemon:pikachu",
+      "model": "cobblemon:summer_pikachu.geo",
+      "texture": "cobblemon:textures/pokemon/summer/summer_pikachu.png",
+      "layers": []
     }
   ]
 }

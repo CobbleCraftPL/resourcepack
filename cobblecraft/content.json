@@ -25,8 +25,8 @@
 				"size": 9101
 			},
 			"README-skiny.txt": {
-				"hash": "5ee7224437bce418fe30e7b71a1d8f662854f061",
-				"size": 5608
+				"hash": "5498124f83e35d3f7996dc10aa024e980d43094a",
+				"size": 7379
 			},
 			"assets/cobblemon/sounds.json": {
 				"hash": "ffbd218a560aa3f51028e1acae00ccf2a6921ef9",
@@ -163,6 +163,22 @@
 			"assets/cobblemon/bedrock/pokemon/models/haxorus_dragon.geo.json": {
 				"hash": "04714a2858456066c96e2bdac5b1f6a57ecaddb7",
 				"size": 66762
+			},
+			"assets/cobblemon/bedrock/pokemon/models/ozis_garbodor.geo.json": {
+				"hash": "02996b54f38fdaadb08f26e02d641fa15769350b",
+				"size": 42593
+			},
+			"assets/cobblemon/bedrock/pokemon/models/ozis_ludicolo.geo.json": {
+				"hash": "76f8ecf5d30c8b6d101276cda01425bcf6937f47",
+				"size": 58048
+			},
+			"assets/cobblemon/bedrock/pokemon/models/ozis_lugia.geo.json": {
+				"hash": "be8b91f2096a12b25b921e7caa0b76b9ef616e36",
+				"size": 114450
+			},
+			"assets/cobblemon/bedrock/pokemon/models/ozis_tyrantrum.geo.json": {
+				"hash": "d981af4d5c277707bde06229e4747f4efe95d96d",
+				"size": 58696
 			},
 			"assets/cobblemon/bedrock/pokemon/models/spectral_gabite.geo.json": {
 				"hash": "e776c92a893f51666760c2225838d69265973f36",
@@ -417,152 +433,168 @@
 				"size": 777
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/5_armarouge_fastfood.json": {
-				"hash": "893a6334b20ff813d30d1a4fc81da4b6e1170dcd",
-				"size": 2354
+				"hash": "dd4d7bb4dbfd54e5b7892256748c1fc3882c4062",
+				"size": 4653
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/5_ceruledge_sugar.json": {
-				"hash": "3c653df1e89a30570cb32dee6098bad6fa8f2e98",
-				"size": 3882
+				"hash": "56873e4d546c7bd7e925b31bbb9e2369cbc94329",
+				"size": 7709
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/skeleton_overlord_armarouge.json": {
-				"hash": "2684bc209a9dc92f09502c7f24406e7ca2046fff",
-				"size": 4298
+				"hash": "4aa3bd62fe2704fb387b8948fced883017474686",
+				"size": 8541
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0025_pikachu/2_pikachu_halloween.json": {
-				"hash": "05dff297b04b6221819c1e6a216925d0242df83e",
-				"size": 729
+				"hash": "98101a5762e0dd556202b45e9332ff116814caf1",
+				"size": 1401
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0025_pikachu/3_pikachu_alolan_bias_halloween.json": {
-				"hash": "3bd34b681055d11e0fa72ec2991c660edca7ce6c",
-				"size": 805
+				"hash": "bae89ab9db8e0c957628753926a1be95cc5641ac",
+				"size": 1553
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0026_raichu/2_raichu_halloween.json": {
-				"hash": "22d9edbd27b1920a57265b3b3a0a20c5f0fe0a2e",
-				"size": 730
+				"hash": "7de053ab1753e00e6de86e0dfde54b13e8053c43",
+				"size": 1402
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0026_raichu/3_raichu_alolan_halloween.json": {
-				"hash": "fd69ef117a0ce20656c75aa80a1800deec5b78d7",
-				"size": 801
+				"hash": "aece690284fa449401c8b6b5a4381f408a3c8237",
+				"size": 3044
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0149_dragonite/1_dragonite_halloween.json": {
-				"hash": "40c4156d39f5288006e4046bebf3e70dee77431c",
-				"size": 747
+				"hash": "a3da0ecb8c07273c6266364d5a178a588cd6b280",
+				"size": 1439
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0197_umbreon/1_umbreon_halloween.json": {
-				"hash": "312ee7e58d28fa90af472403db8743024192f76f",
-				"size": 938
+				"hash": "0a044f29ffcf6e9888c86b0bdd9753aa1167beb3",
+				"size": 1819
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0217_ursaring/1_ursaring_fnaf1.json": {
-				"hash": "c554799210cc5f76953741076b4d26ec8780eb82",
-				"size": 889
+				"hash": "377c79b994afd891ab9fd3f640488e8b0ac6815d",
+				"size": 2639
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0217_ursaring/2_ursaring_fnaf2.json": {
-				"hash": "bbea010f40246b8191b5040cba09078348d3cef8",
-				"size": 1812
+				"hash": "bd15b290c029da69185ddc0a7d3414974bf7dc90",
+				"size": 3586
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0257_blaziken/2_blaziken_fnaf1.json": {
-				"hash": "86653fe2d3bed29c9d38ae4a485e427a305fbc40",
-				"size": 857
+				"hash": "22fd8ab6099f2b9c88ef01ec88730b91158a74f0",
+				"size": 1658
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0257_blaziken/3_blaziken_fnaf2.json": {
-				"hash": "0f2013e9f1b92f24f3bf6a6402d03e8733d6f365",
-				"size": 1786
+				"hash": "45df20de4fe75e487b5903aa42cbd5e285d48401",
+				"size": 3534
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0428_lopunny/2_lopunny_fnaf1.json": {
-				"hash": "9c46fe24700629c6c368f1f154919f0092843804",
-				"size": 678
+				"hash": "2dcebe4a08677db62c78b3ff1521776916a27fd3",
+				"size": 1299
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0428_lopunny/3_lopunny_fnaf2.json": {
-				"hash": "2113f659ef185ba70bd3f081e0d3bb29c23fb2fe",
-				"size": 1877
+				"hash": "748df19f1e9298c72c0c86d638d2253fe5ca90ea",
+				"size": 3713
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0655_delphox/2_delphox_fnaf1.json": {
-				"hash": "173a69d04ec51fa2f220ab75b3e4586056bece4f",
-				"size": 671
+				"hash": "2e681e141b6498cbb7b30a0a58d759b3b75ca757",
+				"size": 1285
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0655_delphox/3_delphox_fnaf2.json": {
-				"hash": "3599e37414b416dbb4cd982cfc5612e2185956c7",
-				"size": 1763
+				"hash": "45067238954d1b2f9f39c5e77a562414ef305ddb",
+				"size": 3485
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/0908_meowscarada/1_meowscarada_fnaf2.json": {
-				"hash": "0196b6b3bc258ecd94ac908d88e8dae40803fe03",
-				"size": 864
+				"hash": "209ab2b956b304250895892e7c4a60ddd102e167",
+				"size": 1675
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/axew_dragon/2_axew_dragon.json": {
-				"hash": "de1b79d7272a8545843dc61abf04f24f78865b1b",
-				"size": 900
+				"hash": "a9ceb8d4809c18a5d1f1e07430e6229c78f4f553",
+				"size": 1740
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/fraxure_dragon/2_fraxure_dragon.json": {
-				"hash": "cda5ec8a783a685faaf2b225b715580df15c3519",
-				"size": 933
+				"hash": "d8f831f1e9cf743be5318036c752a6369903b997",
+				"size": 1809
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/haxorus_dragon/2_haxorus_dragon.json": {
-				"hash": "cf8628bbb9930a3909c7eba59637b899aee2ac43",
-				"size": 933
+				"hash": "f992532ed9ae86afaa86cf2c2ad292d85eb2a2e7",
+				"size": 1809
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/ozis_garbodor/2_ozis_garbodor.json": {
+				"hash": "4b76557e1b75ae5d01f80638af161baeb6b8526f",
+				"size": 1722
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/ozis_ludicolo/2_ozis_ludicolo.json": {
+				"hash": "fff8695df5733eef5ed45988d0882816716acbf2",
+				"size": 858
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/ozis_lugia/2_ozis_lugia.json": {
+				"hash": "0232afebc646463e71e7cd44fa4c52b982f27799",
+				"size": 819
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/ozis_tyrantrum/2_ozis_tyrantrum.json": {
+				"hash": "0bc0549f9384920e9275b0cfd2a178e37cd2e130",
+				"size": 1723
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/spectral_gabite/3_spectral_gabite.json": {
-				"hash": "4cc446e8559640d8ddd6b2aa36ebe880177a8249",
-				"size": 947
+				"hash": "8e0dffe284a4d41868f78d4ccc263bfcdbb203ed",
+				"size": 1836
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/spectral_garchomp/3_spectral_garchomp.json": {
-				"hash": "ab8590c715a00334986a1a7af76e5bc0bef91245",
-				"size": 968
+				"hash": "ac9eb6e6e8c49d77ff54a04f5b905d1f1e609625",
+				"size": 1880
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/spectral_garchomp_mega/3_spectral_garchomp_mega.json": {
-				"hash": "54931de38958ccb5cc43dfebfeed18326543f7d9",
-				"size": 1050
+				"hash": "1bdf04f646dd8124a8efcb0444f76357e12819e5",
+				"size": 2044
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/spectral_gible/3_spectral_gible.json": {
-				"hash": "c60aee410212964bc4094fcbf5121559a6158996",
-				"size": 936
+				"hash": "7ac4313c98138db0db8ac885fa302e9f04916b92",
+				"size": 1813
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_blastoise_summer.json": {
-				"hash": "8b466deab956df993ed872fb93ddd15a5dc43c93",
-				"size": 318
+				"hash": "6623b51d907e0b77587e1ddae650b339dd767c74",
+				"size": 570
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_dugtrio_summer.json": {
-				"hash": "85447fce4e340228d85dc46ec9cf79c7d905a19c",
-				"size": 310
+				"hash": "80a2a1a87b665b7bf50525818b13137887bfbd75",
+				"size": 554
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_gardevoir_summer.json": {
-				"hash": "b94b59135fedd98e7f0c0e56a489a2a6fa208792",
-				"size": 318
+				"hash": "3ff46577bf5dc3988f2d8c811d9449cc9b11ee31",
+				"size": 570
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_lopunny_summer.json": {
-				"hash": "cacecbdff19349b9126e64f4d35766178c442daa",
-				"size": 310
+				"hash": "4312f92c2fbb325a189565553315e79038584904",
+				"size": 554
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_pikachu_summer.json": {
-				"hash": "b2e38d49798a68efc0824e6595ab7442c0675a3c",
-				"size": 310
+				"hash": "8e5ecd63107c3888ced6205ce96b58b27507d71d",
+				"size": 554
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/summer/10_vaporeon_summer.json": {
-				"hash": "2beceff01c99534dbc6cd71a1a4c3e5c853c2a96",
-				"size": 314
+				"hash": "de1027dd46b42bab7bc5f5314d7b57bc571595c0",
+				"size": 562
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/sun/8_excadrill_sun.json": {
-				"hash": "e3ef6a06e2773ef92148c244c7b2e34a39978b41",
-				"size": 878
+				"hash": "d036eabb5af396e7133374c573dd76a9894d7f7c",
+				"size": 1701
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/sun/8_gengar_sun.json": {
-				"hash": "94d414614a90f31c402a20cb2fe024c34027572c",
-				"size": 859
+				"hash": "bb309c256f5eacc6ecc43550abc6471b6ed5391e",
+				"size": 1660
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/sun/8_rayquaza_sun.json": {
-				"hash": "a9efd03397d6d4e979a129d1aaaac966593739a6",
-				"size": 871
+				"hash": "6b7bd12abdbf99a8ee6eaa1aa7e469751449f2fa",
+				"size": 1686
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/sun/8_skarmory_sun.json": {
-				"hash": "2cce668d00ede685849a3200c87258e38fd0ea08",
-				"size": 871
+				"hash": "cf1d362d88df859fe0eeba6b8f1a86fc6d86a7a1",
+				"size": 1686
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/sun/8_tyranitar_sun.json": {
-				"hash": "3740e7cf66221a3c3ac847bdc325a71f28a40fb6",
-				"size": 878
+				"hash": "c7c2ea6288dd799f0de7523d88ba0dda10978101",
+				"size": 1701
 			},
 			"assets/cobblemon/sounds/pokemon/blazikenchica/blazikenchica_arm.ogg": {
-				"hash": "6cb67303f030befcbf7d37cd78cd0fe7cf5c7263",
-				"size": 26293
+				"hash": "ac1f2ca983c7b681653ec95e982c27c473873342",
+				"size": 26294
 			},
 			"assets/cobblemon/sounds/pokemon/blazikenchica/blazikenchica_blinky.ogg": {
 				"hash": "18f2b143b92f97a40a146f06eade5bbe09b480e3",
@@ -1356,6 +1388,50 @@
 				"hash": "f95e396edaa4032bb862874711b2162fa29a8fdf",
 				"size": 3593
 			},
+			"assets/cobblemon/textures/pokemon/ozis_garbodor/ozis_garbodor.png": {
+				"hash": "8b79c1a46ee313359b82ee420f57960fc5539f07",
+				"size": 8739
+			},
+			"assets/cobblemon/textures/pokemon/ozis_garbodor/ozis_garbodor_shiny.png": {
+				"hash": "d9e8db118b8a3878742521e7c26b08d42a7ab1d3",
+				"size": 8656
+			},
+			"assets/cobblemon/textures/pokemon/ozis_garbodor/ozis_garbodor_transparency.png": {
+				"hash": "0892c758e130f93fe5c568340a859072ed579887",
+				"size": 2690
+			},
+			"assets/cobblemon/textures/pokemon/ozis_ludicolo/ozis_ludicolo.png": {
+				"hash": "514696b5b0720a893e51bfd129677aa1b5525d0a",
+				"size": 8982
+			},
+			"assets/cobblemon/textures/pokemon/ozis_ludicolo/ozis_ludicolo_shiny.png": {
+				"hash": "8fdbaa7640b43596b8f50ec02b5a5659066d6ec5",
+				"size": 8883
+			},
+			"assets/cobblemon/textures/pokemon/ozis_lugia/ozis_lugia.png": {
+				"hash": "fdcc4abb6f9aa03faaa695cc74cd2ed60ad18b79",
+				"size": 42702
+			},
+			"assets/cobblemon/textures/pokemon/ozis_lugia/ozis_lugia_shiny.png": {
+				"hash": "bbd26e2de04c98573872ec78ce209075a5984fc9",
+				"size": 42454
+			},
+			"assets/cobblemon/textures/pokemon/ozis_tyrantrum/ozis_tyrantrum.png": {
+				"hash": "2f16b3bcf1bd4ca597de4e71a63f19f7b0998df0",
+				"size": 38424
+			},
+			"assets/cobblemon/textures/pokemon/ozis_tyrantrum/ozis_tyrantrum_emissive.png": {
+				"hash": "2d3ad24f1b556e4ccb9a3160f011f7d7a010c8ba",
+				"size": 3270
+			},
+			"assets/cobblemon/textures/pokemon/ozis_tyrantrum/ozis_tyrantrum_shiny.png": {
+				"hash": "74e0ce08044bf4c4fdcd041ee8b9006946745dc9",
+				"size": 38639
+			},
+			"assets/cobblemon/textures/pokemon/ozis_tyrantrum/ozis_tyrantrum_shiny_emissive.png": {
+				"hash": "cc7dcfd279cfa3955c3f954f52ab8dc0c49c1371",
+				"size": 3205
+			},
 			"assets/cobblemon/textures/pokemon/skeleton_overlord_armarouge/skeleton_overlord_armarouge.png": {
 				"hash": "666e33b7a745d52370f4663b8ff5a1e5adc5c311",
 				"size": 18115
@@ -2081,7 +2157,7 @@
 				"size": 17214
 			},
 			"assets/minecraft/font/uniform.json": {
-				"hash": "439b21382d038f32763cdc46bf6f4c0756411b68",
+				"hash": "3f47e6e61d4698b8adb135f3e873e9b4d1ec0887",
 				"size": 17214
 			},
 			"assets/rangi/textures/font/admin.png": {
@@ -2140,6 +2216,14 @@
 				"hash": "d7c4fe0295809b79d249c2e4ca2f53231df17515",
 				"size": 4044
 			},
+			"assets/skiny/lang/en_us.json": {
+				"hash": "b18a9fa1325be5d9f787b7b98302fea0733fd96e",
+				"size": 6980
+			},
+			"assets/skiny/lang/pl_pl.json": {
+				"hash": "b18a9fa1325be5d9f787b7b98302fea0733fd96e",
+				"size": 6980
+			},
 			"assets/waluta/textures/font/cobblecoins.png": {
 				"hash": "c666943cade2a7ad83ca05938cbd8438ef1b476f",
 				"size": 338
@@ -2164,6 +2248,10 @@
 				"hash": "87dc7372f789e624d82478ef0a2976150c2c352c",
 				"size": 93
 			},
+			"data/cobblemon/species_features/cc_fnaf1_golden.json": {
+				"hash": "a80d848b316901e7ad744e44556239146c2e99d3",
+				"size": 100
+			},
 			"data/cobblemon/species_features/cc_fnaf2.json": {
 				"hash": "da45d4e53e39560d1c4b476b209b76a2a07ebb5b",
 				"size": 93
@@ -2175,6 +2263,14 @@
 			"data/cobblemon/species_features/cc_halloween.json": {
 				"hash": "cfd7f78f70fe724b67632b0e5b0c6d58aa64e677",
 				"size": 97
+			},
+			"data/cobblemon/species_features/cc_halloween_alolan.json": {
+				"hash": "1b60ffd14051354524df96aca508191a2c394f9b",
+				"size": 104
+			},
+			"data/cobblemon/species_features/cc_ozis.json": {
+				"hash": "5efaf83cc5777e055f1c8e60bf10a59c1f88b222",
+				"size": 92
 			},
 			"data/cobblemon/species_features/cc_skeleton_overlord.json": {
 				"hash": "890811ef39fe38a99095d225d44904572bacd82e",
@@ -2208,6 +2304,10 @@
 				"hash": "ec08eb9b45117bff27f2050623bdad1ae845aaaf",
 				"size": 120
 			},
+			"data/cobblemon/species_feature_assignments/cc_fnaf1_golden.json": {
+				"hash": "9a1d8b66008da70c4d9ace69e374c4ac43565afe",
+				"size": 81
+			},
 			"data/cobblemon/species_feature_assignments/cc_fnaf2.json": {
 				"hash": "071de6c60772408d151471f4208e2bd0501a409b",
 				"size": 139
@@ -2219,6 +2319,14 @@
 			"data/cobblemon/species_feature_assignments/cc_halloween.json": {
 				"hash": "09ee82682aa1006bb2d4739c67d8e612c233d81a",
 				"size": 123
+			},
+			"data/cobblemon/species_feature_assignments/cc_halloween_alolan.json": {
+				"hash": "d0b6e14fe3e6631ba9a75855247de22e600f9c97",
+				"size": 83
+			},
+			"data/cobblemon/species_feature_assignments/cc_ozis.json": {
+				"hash": "6a264675c7b73c77cd4b8e7a89fe13610868322c",
+				"size": 119
 			},
 			"data/cobblemon/species_feature_assignments/cc_skeleton_overlord.json": {
 				"hash": "b6958613df8f95ac81c71b3572d4354e7efb7a2e",
