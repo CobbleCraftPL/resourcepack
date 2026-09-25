@@ -8,6 +8,10 @@
 				"hash": "ab35ddc7de55737ccfaa4752b27d9c4e7dba82a5",
 				"size": 120
 			},
+			"dynamicmcpack.json": {
+				"hash": "d9dac951ceb1eda61c18021ce59bf9262852ee85",
+				"size": 440
+			},
 			"LICENSE-biggdr.txt": {
 				"hash": "f0ceb494858e59d35ecca056a57b6102a7c86028",
 				"size": 765
@@ -25,8 +29,8 @@
 				"size": 9101
 			},
 			"README-skiny.txt": {
-				"hash": "5498124f83e35d3f7996dc10aa024e980d43094a",
-				"size": 7379
+				"hash": "ea52d4ce7235eaec484cd527be85f65f1cca185b",
+				"size": 7721
 			},
 			"assets/cobblemon/sounds.json": {
 				"hash": "ffbd218a560aa3f51028e1acae00ccf2a6921ef9",
@@ -2217,12 +2221,12 @@
 				"size": 4044
 			},
 			"assets/skiny/lang/en_us.json": {
-				"hash": "b18a9fa1325be5d9f787b7b98302fea0733fd96e",
-				"size": 6980
+				"hash": "37cb473364281466d68b424afcacbcdce93ad031",
+				"size": 6368
 			},
 			"assets/skiny/lang/pl_pl.json": {
-				"hash": "b18a9fa1325be5d9f787b7b98302fea0733fd96e",
-				"size": 6980
+				"hash": "37cb473364281466d68b424afcacbcdce93ad031",
+				"size": 6368
 			},
 			"assets/waluta/textures/font/cobblecoins.png": {
 				"hash": "c666943cade2a7ad83ca05938cbd8438ef1b476f",

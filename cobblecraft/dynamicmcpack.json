@@ -1,0 +1,19 @@
+{
+  "current": {
+    "build": 23,
+    "known_contents": {
+      "cobblecraft": {
+        "url": "cobblecraft/content.json",
+        "hash": "59d06cc65b2091afa46aa7e4b36df9f4210e9d7e",
+        "required": true
+      }
+    },
+    "latest_updated": 1790190905
+  },
+  "remote": {
+    "type": "dynamic_repo",
+    "url": "https://raw.githubusercontent.com/CobbleCraftPL/resourcepack/main",
+    "sign_no_required": true
+  },
+  "formatVersion": 1
+}

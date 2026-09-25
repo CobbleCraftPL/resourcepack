@@ -93,6 +93,11 @@ Skin mozna dac na dwa sposoby:
      Mod (wersja z 2026-09-23) nadaje aspekt cc_sun TYLKO gdy pokemon jest tego
      gatunku - na innym przedmiot nic nie robi. Gatunek to id Cobblemona bez formy
      (Alolan Raichu to "raichu").
+Linie ewolucyjne maja JEDEN przedmiot na cala linie - tekst BEZ gatunku:
+  cc_spectral          Gible, Gabite, Garchomp (+ Mega)
+  cc_dragon            Axew, Fraxure, Haxorus
+  Mod nadaje taki aspekt kazdemu pokemonowi, ale model reaguje tylko u gatunkow
+  z linii. Przedmiot zostaje na pokemonie po ewolucji, wiec skin tez.
 Dodatkowe aspekty dla osobnych przedmiotow:
   cc_halloween_alolan  Szkielet Alolan Raichu (tylko forma Alolan)
   cc_fnaf1_golden      Golden Freddy (model FNAF1 ze zlota tekstura shiny)
@@ -100,7 +105,7 @@ Dodatkowe aspekty dla osobnych przedmiotow:
 Nazwa/opis przedmiotu: assets/skiny/lang/en_us.json + pl_pl.json (identyczne, po
 polsku), klucze cobblecraftadditions.skin.<pokemon>-<aspekt>.name/.lore,
 formatowanie MiniMessage. Nazwa BEZ koloru - kolor nadaje rzadkosc przedmiotu.
-43 skiny. Lista z rzadkosciami i komendami /give: przedmioty-skinow.txt i .csv
+39 przedmiotow (43 skiny). Lista z rzadkosciami i komendami /give: przedmioty-skinow.txt i .csv
 (obok paczki w Desktop\txt).
 
 
