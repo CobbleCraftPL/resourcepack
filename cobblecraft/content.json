@@ -2157,12 +2157,12 @@
 				"size": 355
 			},
 			"assets/minecraft/font/default.json": {
-				"hash": "3f47e6e61d4698b8adb135f3e873e9b4d1ec0887",
-				"size": 17214
+				"hash": "96d67926eb7a0b0892c7092f3cdce4e64279224d",
+				"size": 17322
 			},
 			"assets/minecraft/font/uniform.json": {
-				"hash": "3f47e6e61d4698b8adb135f3e873e9b4d1ec0887",
-				"size": 17214
+				"hash": "96d67926eb7a0b0892c7092f3cdce4e64279224d",
+				"size": 17322
 			},
 			"assets/rangi/textures/font/admin.png": {
 				"hash": "1e9f3fcb88328ae6f785c9941f666fce8f8846e9",
@@ -2199,6 +2199,10 @@
 			"assets/rangi/textures/font/npc.png": {
 				"hash": "1d2283671d66ac080b08635eadf42312f31e3b2c",
 				"size": 4312
+			},
+			"assets/rangi/textures/font/opiekun.png": {
+				"hash": "0d75d2a34085b08b0ec28f665f33ff47191e4b76",
+				"size": 3990
 			},
 			"assets/rangi/textures/font/owner.png": {
 				"hash": "e255049b9b4230a9427a6a291f6ac6f59085ce04",

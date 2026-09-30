@@ -14,6 +14,7 @@
     { "type": "bitmap", "file": "rangi:font/lider.png", "ascent": 9, "height": 10, "chars": ["\uE00C"] },
     { "type": "bitmap", "file": "rangi:font/gracz.png", "ascent": 9, "height": 10, "chars": ["\uE00D"] },
     { "type": "bitmap", "file": "rangi:font/npc.png", "ascent": 9, "height": 10, "chars": ["\uE00E"] },
+    { "type": "bitmap", "file": "rangi:font/opiekun.png", "ascent": 9, "height": 10, "chars": ["\uE00F"] },
     { "type": "bitmap", "file": "waluta:font/cobblecoins.png", "ascent": 8, "height": 9, "chars": ["\uE500"] },
     { "type": "bitmap", "file": "waluta:font/dollar.png", "ascent": 8, "height": 9, "chars": ["\uE501"] },
     { "type": "bitmap", "file": "waluta:font/eventcoins.png", "ascent": 8, "height": 9, "chars": ["\uE502"] },
