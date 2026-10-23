@@ -9,7 +9,7 @@
 				"size": 120
 			},
 			"dynamicmcpack.json": {
-				"hash": "d9dac951ceb1eda61c18021ce59bf9262852ee85",
+				"hash": "7e9c7659a2e50d665a72795ebe5e1659691ac1ae",
 				"size": 440
 			},
 			"LICENSE-biggdr.txt": {
@@ -2157,16 +2157,20 @@
 				"size": 355
 			},
 			"assets/minecraft/font/default.json": {
-				"hash": "96d67926eb7a0b0892c7092f3cdce4e64279224d",
-				"size": 17322
+				"hash": "3d2cbc39a3ee9a7c2fef88d4cf081e3c53cd900a",
+				"size": 19451
 			},
 			"assets/minecraft/font/uniform.json": {
-				"hash": "96d67926eb7a0b0892c7092f3cdce4e64279224d",
-				"size": 17322
+				"hash": "3d2cbc39a3ee9a7c2fef88d4cf081e3c53cd900a",
+				"size": 19451
 			},
 			"assets/rangi/textures/font/admin.png": {
 				"hash": "1e9f3fcb88328ae6f785c9941f666fce8f8846e9",
 				"size": 4248
+			},
+			"assets/rangi/textures/font/duszek.png": {
+				"hash": "ce5d6da6577e898ff2a6f1c6a853b715c92c8044",
+				"size": 3999
 			},
 			"assets/rangi/textures/font/gracz.png": {
 				"hash": "efcf55576b56a5d0ca5cdacd25b429ece38ca922",
@@ -2183,6 +2187,78 @@
 			"assets/rangi/textures/font/lider.png": {
 				"hash": "1453b40cad8cd226525c20a6cae0fc6cc93ba822",
 				"size": 4185
+			},
+			"assets/rangi/textures/font/lider_bug.png": {
+				"hash": "b2dac2c83001a8ebd9345a7cf61ea2839598046c",
+				"size": 4071
+			},
+			"assets/rangi/textures/font/lider_dark.png": {
+				"hash": "07ebba23316d005d19fd7347e83d5f66c15158b8",
+				"size": 3058
+			},
+			"assets/rangi/textures/font/lider_dragon.png": {
+				"hash": "da7e6a496cb98e056b145ccfc1549a719d8d40a9",
+				"size": 4118
+			},
+			"assets/rangi/textures/font/lider_electric.png": {
+				"hash": "4ad7579afc6d41b6cf6aca0f0eee1d599cf478ef",
+				"size": 4113
+			},
+			"assets/rangi/textures/font/lider_fairy.png": {
+				"hash": "fd18b6b6f4ee537730fee61a9bee3067d3f44e2b",
+				"size": 4237
+			},
+			"assets/rangi/textures/font/lider_fighting.png": {
+				"hash": "fe3bacc20eb5790852d938d14b4e6503a7547c35",
+				"size": 4216
+			},
+			"assets/rangi/textures/font/lider_fire.png": {
+				"hash": "5b07ef679906b93d85c3db7a872212678392aa4d",
+				"size": 4164
+			},
+			"assets/rangi/textures/font/lider_flying.png": {
+				"hash": "caa697e6f447f1481b3a21c7304a66b44ac8a6dc",
+				"size": 4098
+			},
+			"assets/rangi/textures/font/lider_ghost.png": {
+				"hash": "67b4056f326ad372fed10557ae2b4cb5d7d4d998",
+				"size": 4256
+			},
+			"assets/rangi/textures/font/lider_grass.png": {
+				"hash": "856dec55adee60a40d23b522b03a73afa4795e0a",
+				"size": 4096
+			},
+			"assets/rangi/textures/font/lider_ground.png": {
+				"hash": "8002a4f6dedbd5fba9ce89d3ef2540651f25f4c8",
+				"size": 4147
+			},
+			"assets/rangi/textures/font/lider_ice.png": {
+				"hash": "ca604870902d29f7b451896a670d731f5e7bf62c",
+				"size": 4164
+			},
+			"assets/rangi/textures/font/lider_normal.png": {
+				"hash": "3ba7fffd07beb7668417205bea911a0b638874de",
+				"size": 4400
+			},
+			"assets/rangi/textures/font/lider_poison.png": {
+				"hash": "e64441e0b8c5cd0ef97807566ada69e7fa34d7b1",
+				"size": 4101
+			},
+			"assets/rangi/textures/font/lider_psychic.png": {
+				"hash": "6821d0403a76f76e9f2ac9587d69691e10607697",
+				"size": 4057
+			},
+			"assets/rangi/textures/font/lider_rock.png": {
+				"hash": "4a8d0b63b8ea17903c2ddfdd4b40a72abe3e6d83",
+				"size": 4101
+			},
+			"assets/rangi/textures/font/lider_steel.png": {
+				"hash": "fc0f4fde788c9fe0c755fef0af08666628056e71",
+				"size": 3731
+			},
+			"assets/rangi/textures/font/lider_water.png": {
+				"hash": "11892084ccda665faf9e99c9b0b89a8ea5e916c8",
+				"size": 4352
 			},
 			"assets/rangi/textures/font/media.png": {
 				"hash": "fd14f71600ed055673d88af1c83cc8ba7d5f97cd",
@@ -2241,8 +2317,8 @@
 				"size": 339
 			},
 			"assets/waluta/textures/font/eventcoins.png": {
-				"hash": "7abd587c0a83ed57fe77ed336603a3c844893afc",
-				"size": 352
+				"hash": "8fb6fcf35769e33ba94da5025961a5319574d90f",
+				"size": 472
 			},
 			"data/cobblemon/species_features/cc_dragon.json": {
 				"hash": "7d92395884b5bc67c4b28be78c3d186e61698e23",

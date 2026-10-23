@@ -1,14 +1,14 @@
 {
   "current": {
-    "build": 23,
+    "build": 26,
     "known_contents": {
       "cobblecraft": {
         "url": "cobblecraft/content.json",
-        "hash": "59d06cc65b2091afa46aa7e4b36df9f4210e9d7e",
+        "hash": "ed3e51fd5fd73c03702b3406dabff5d8e48c1396",
         "required": true
       }
     },
-    "latest_updated": 1790190905
+    "latest_updated": 1791357269
   },
   "remote": {
     "type": "dynamic_repo",
