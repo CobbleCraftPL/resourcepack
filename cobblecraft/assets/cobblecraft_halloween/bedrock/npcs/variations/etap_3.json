@@ -1,0 +1,13 @@
+{
+    "name": "cobblecraft_halloween:etap_3",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:standard",
+            "model": "cobblemon:steve.geo",
+            "texture": "cobblecraft_halloween:textures/npcs/etap_3.png",
+            "layers": []
+        }
+    ]
+}

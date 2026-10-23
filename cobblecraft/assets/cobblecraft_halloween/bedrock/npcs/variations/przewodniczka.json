@@ -1,0 +1,13 @@
+{
+    "name": "cobblecraft_halloween:przewodniczka",
+    "order": 0,
+    "variations": [
+        {
+            "aspects": [],
+            "poser": "cobblemon:standard",
+            "model": "cobblemon:alex.geo",
+            "texture": "cobblecraft_halloween:textures/npcs/przewodniczka.png",
+            "layers": []
+        }
+    ]
+}

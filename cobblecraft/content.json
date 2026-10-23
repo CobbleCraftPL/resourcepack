@@ -32,6 +32,30 @@
 				"hash": "ea52d4ce7235eaec484cd527be85f65f1cca185b",
 				"size": 7721
 			},
+			"assets/cobblecraft_halloween/bedrock/npcs/variations/etap_2.json": {
+				"hash": "43819bd00b8febb66b39a7f7060247acf798d120",
+				"size": 320
+			},
+			"assets/cobblecraft_halloween/bedrock/npcs/variations/etap_3.json": {
+				"hash": "d3f8d6a784d3acfe5242faa90db0d194da8900bc",
+				"size": 321
+			},
+			"assets/cobblecraft_halloween/bedrock/npcs/variations/przewodniczka.json": {
+				"hash": "6f3bd2cc7a89f5f4760a1a680ea535fa1d6c7707",
+				"size": 334
+			},
+			"assets/cobblecraft_halloween/textures/npcs/etap_2.png": {
+				"hash": "8eec8880038693d73a81fa07bddb6509b0d0d092",
+				"size": 2557
+			},
+			"assets/cobblecraft_halloween/textures/npcs/etap_3.png": {
+				"hash": "06350620f2cb0a75f6604302c415084af0ad5a1b",
+				"size": 3086
+			},
+			"assets/cobblecraft_halloween/textures/npcs/przewodniczka.png": {
+				"hash": "7effc18101fb5e0bc8a5266ce3f5bc72def04cc0",
+				"size": 3882
+			},
 			"assets/cobblemon/sounds.json": {
 				"hash": "ffbd218a560aa3f51028e1acae00ccf2a6921ef9",
 				"size": 12839
