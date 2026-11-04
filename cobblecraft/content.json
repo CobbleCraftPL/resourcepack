@@ -32,6 +32,14 @@
 				"hash": "ea52d4ce7235eaec484cd527be85f65f1cca185b",
 				"size": 7721
 			},
+			"assets/cobblecraftadditions/textures/item/badge/psychic.png": {
+				"hash": "ab610e1ee938035115b60f1f5c5deea8410035d2",
+				"size": 7154
+			},
+			"assets/cobblecraftadditions/textures/item/badge/psychic.png.mcmeta": {
+				"hash": "682728e61fe9922873ca45d45f3cee85d499add0",
+				"size": 95
+			},
 			"assets/cobblecraft_halloween/bedrock/npcs/variations/etap_2.json": {
 				"hash": "43819bd00b8febb66b39a7f7060247acf798d120",
 				"size": 320
