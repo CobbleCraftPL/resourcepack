@@ -6,7 +6,7 @@
       "aspects": [
         "cc_spectral"
       ],
-      "poser": "cobblemon:spectral_gible",
+      "poser": "cobblemon:gible",
       "model": "cobblemon:spectral_gible.geo",
       "texture": "cobblemon:textures/pokemon/spectral_gible/spectral_gible.png",
       "layers": [
@@ -37,7 +37,7 @@
       "aspects": [
         "gible-cc_spectral"
       ],
-      "poser": "cobblemon:spectral_gible",
+      "poser": "cobblemon:gible",
       "model": "cobblemon:spectral_gible.geo",
       "texture": "cobblemon:textures/pokemon/spectral_gible/spectral_gible.png",
       "layers": [

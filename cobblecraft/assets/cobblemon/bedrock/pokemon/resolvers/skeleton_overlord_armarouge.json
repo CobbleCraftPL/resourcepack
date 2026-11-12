@@ -6,7 +6,7 @@
       "aspects": [
         "cc_skeleton_overlord"
       ],
-      "poser": "cobblemon:ska",
+      "poser": "cobblemon:armarouge",
       "model": "cobblemon:skeleton_overlord_armarouge.geo",
       "texture": {
         "frames": [
@@ -89,7 +89,7 @@
       "aspects": [
         "armarouge-cc_skeleton_overlord"
       ],
-      "poser": "cobblemon:ska",
+      "poser": "cobblemon:armarouge",
       "model": "cobblemon:skeleton_overlord_armarouge.geo",
       "texture": {
         "frames": [

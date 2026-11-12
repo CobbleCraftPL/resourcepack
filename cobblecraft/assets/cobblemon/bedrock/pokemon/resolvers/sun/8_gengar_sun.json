@@ -6,7 +6,7 @@
       "aspects": [
         "cc_sun"
       ],
-      "poser": "cobblemon:sun_gengar",
+      "poser": "cobblemon:gengar",
       "model": "cobblemon:sun_gengar.geo",
       "texture": "cobblemon:textures/pokemon/sun/sun_gengar.png",
       "layers": [
@@ -37,7 +37,7 @@
       "aspects": [
         "gengar-cc_sun"
       ],
-      "poser": "cobblemon:sun_gengar",
+      "poser": "cobblemon:gengar",
       "model": "cobblemon:sun_gengar.geo",
       "texture": "cobblemon:textures/pokemon/sun/sun_gengar.png",
       "layers": [

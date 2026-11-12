@@ -7980,6 +7980,48 @@
               ]
             }
           ]
+        },
+        {
+          "name": "locator_eye_left",
+          "parent": "pupil_left",
+          "pivot": [
+            2.25,
+            38.85,
+            -3.15
+          ],
+          "locators": {
+            "eye_left": [
+              2.25,
+              38.85,
+              -3.15
+            ],
+            "eye2": [
+              2.25,
+              38.85,
+              -3.15
+            ]
+          }
+        },
+        {
+          "name": "locator_eye_right",
+          "parent": "pupil_right",
+          "pivot": [
+            -2.25,
+            38.85,
+            -3.15
+          ],
+          "locators": {
+            "eye_right": [
+              -2.25,
+              38.85,
+              -3.15
+            ],
+            "eye1": [
+              -2.25,
+              38.85,
+              -3.15
+            ]
+          }
         }
       ]
     }

@@ -6,7 +6,7 @@
       "aspects": [
         "cc_spectral"
       ],
-      "poser": "cobblemon:spectral_garchomp",
+      "poser": "cobblemon:garchomp",
       "model": "cobblemon:spectral_garchomp.geo",
       "texture": "cobblemon:textures/pokemon/spectral_garchomp/spectral_garchomp.png",
       "layers": [
@@ -37,7 +37,7 @@
       "aspects": [
         "garchomp-cc_spectral"
       ],
-      "poser": "cobblemon:spectral_garchomp",
+      "poser": "cobblemon:garchomp",
       "model": "cobblemon:spectral_garchomp.geo",
       "texture": "cobblemon:textures/pokemon/spectral_garchomp/spectral_garchomp.png",
       "layers": [

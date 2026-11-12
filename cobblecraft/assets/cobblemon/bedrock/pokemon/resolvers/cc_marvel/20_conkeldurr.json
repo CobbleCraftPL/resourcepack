@@ -1,0 +1,44 @@
+{
+  "variations": [
+    {
+      "aspects": [
+        "cc_marvel"
+      ],
+      "model": "cobblemon:cc_marvel_conkeldurr.geo",
+      "poser": "cobblemon:conkeldurr",
+      "texture": "cobblemon:textures/pokemon/marvel/conkeldurr/conkeldurr_marvel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "cc_marvel",
+        "shiny"
+      ],
+      "model": "cobblemon:cc_marvel_conkeldurr.geo",
+      "poser": "cobblemon:conkeldurr",
+      "texture": "cobblemon:textures/pokemon/marvel/conkeldurr/conkeldurr_marvel_shiny.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "conkeldurr-cc_marvel"
+      ],
+      "model": "cobblemon:cc_marvel_conkeldurr.geo",
+      "poser": "cobblemon:conkeldurr",
+      "texture": "cobblemon:textures/pokemon/marvel/conkeldurr/conkeldurr_marvel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "conkeldurr-cc_marvel",
+        "shiny"
+      ],
+      "model": "cobblemon:cc_marvel_conkeldurr.geo",
+      "poser": "cobblemon:conkeldurr",
+      "texture": "cobblemon:textures/pokemon/marvel/conkeldurr/conkeldurr_marvel_shiny.png",
+      "layers": []
+    }
+  ],
+  "order": 20,
+  "species": "cobblemon:conkeldurr"
+}

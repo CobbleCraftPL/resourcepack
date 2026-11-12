@@ -1,0 +1,36 @@
+{
+  "variations": [
+    {
+      "aspects": [
+        "cc_marvel"
+      ],
+      "model": "cobblemon:cc_marvel_trevenant.geo",
+      "poser": "cobblemon:trevenant",
+      "texture": "cobblemon:textures/pokemon/marvel/trevenant/trevenant_marvel.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/marvel/trevenant/trevenant_emissive_marvel.png",
+          "emissive": true
+        }
+      ]
+    },
+    {
+      "aspects": [
+        "trevenant-cc_marvel"
+      ],
+      "model": "cobblemon:cc_marvel_trevenant.geo",
+      "poser": "cobblemon:trevenant",
+      "texture": "cobblemon:textures/pokemon/marvel/trevenant/trevenant_marvel.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/marvel/trevenant/trevenant_emissive_marvel.png",
+          "emissive": true
+        }
+      ]
+    }
+  ],
+  "order": 20,
+  "species": "cobblemon:trevenant"
+}

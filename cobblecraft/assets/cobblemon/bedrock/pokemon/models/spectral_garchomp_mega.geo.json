@@ -16,7 +16,7 @@
       },
       "bones": [
         {
-          "name": "garchomp_mega",
+          "name": "garchomp",
           "pivot": [
             0,
             0,
@@ -25,7 +25,7 @@
         },
         {
           "name": "locator_root",
-          "parent": "garchomp_mega",
+          "parent": "garchomp",
           "pivot": [
             0,
             0,
@@ -41,7 +41,7 @@
         },
         {
           "name": "locator_top",
-          "parent": "garchomp_mega",
+          "parent": "garchomp",
           "pivot": [
             0,
             43,
@@ -57,7 +57,7 @@
         },
         {
           "name": "body",
-          "parent": "garchomp_mega",
+          "parent": "garchomp",
           "pivot": [
             0,
             25.6,
@@ -1412,6 +1412,11 @@
               0,
               40.1,
               -7.25
+            ],
+            "jaw_upper": [
+              0,
+              40.1,
+              -7.25
             ]
           }
         },
@@ -1523,6 +1528,11 @@
           ],
           "locators": {
             "eye2": [
+              2.2,
+              41.1,
+              -5.9
+            ],
+            "eye_left": [
               2.2,
               41.1,
               -5.9
@@ -1872,6 +1882,11 @@
           ],
           "locators": {
             "eye1": [
+              -2.2,
+              41.1,
+              -5.9
+            ],
+            "eye_right": [
               -2.2,
               41.1,
               -5.9
@@ -2403,7 +2418,12 @@
                 0,
                 0
               ]
-            }
+            },
+            "jaw_lower": [
+              0,
+              40.075,
+              -5.95
+            ]
           }
         },
         {
@@ -2486,6 +2506,11 @@
           ],
           "locators": {
             "horn2": [
+              8,
+              43.1,
+              -6
+            ],
+            "horn_left": [
               8,
               43.1,
               -6
@@ -2573,6 +2598,11 @@
           ],
           "locators": {
             "horn1": [
+              -8,
+              43.1,
+              -6
+            ],
+            "horn_right": [
               -8,
               43.1,
               -6

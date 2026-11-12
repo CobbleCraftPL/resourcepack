@@ -1,0 +1,8 @@
+{
+  "type": "flag",
+  "keys": [
+    "cc_marvel"
+  ],
+  "isAspect": true,
+  "default": false
+}

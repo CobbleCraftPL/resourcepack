@@ -15,7 +15,8 @@
           "emissive": false,
           "translucent": true
         }
-      ]
+      ],
+      "poser": "cobblemon:cc_ozis_garbodor"
     },
     {
       "aspects": [
@@ -30,7 +31,8 @@
           "emissive": false,
           "translucent": true
         }
-      ]
+      ],
+      "poser": "cobblemon:cc_ozis_garbodor"
     },
     {
       "aspects": [
@@ -45,7 +47,8 @@
           "emissive": false,
           "translucent": true
         }
-      ]
+      ],
+      "poser": "cobblemon:cc_ozis_garbodor"
     },
     {
       "aspects": [
@@ -60,7 +63,8 @@
           "emissive": false,
           "translucent": true
         }
-      ]
+      ],
+      "poser": "cobblemon:cc_ozis_garbodor"
     }
   ]
 }

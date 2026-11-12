@@ -6,7 +6,7 @@
       "aspects": [
         "cc_halloween"
       ],
-      "poser": "cobblemon:raichu_halloween",
+      "poser": "cobblemon:raichu",
       "model": "cobblemon:raichu_halloween.geo",
       "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_halloween.png",
       "layers": []
@@ -30,7 +30,7 @@
       "aspects": [
         "raichu-cc_halloween"
       ],
-      "poser": "cobblemon:raichu_halloween",
+      "poser": "cobblemon:raichu",
       "model": "cobblemon:raichu_halloween.geo",
       "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_halloween.png",
       "layers": []

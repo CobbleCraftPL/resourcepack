@@ -7,7 +7,7 @@
         "cc_spectral",
         "mega"
       ],
-      "poser": "cobblemon:spectral_garchomp_mega",
+      "poser": "cobblemon:garchomp",
       "model": "cobblemon:spectral_garchomp_mega.geo",
       "texture": "cobblemon:textures/pokemon/spectral_garchomp_mega/spectral_garchomp_mega.png",
       "layers": [
@@ -40,7 +40,7 @@
         "garchomp-cc_spectral",
         "mega"
       ],
-      "poser": "cobblemon:spectral_garchomp_mega",
+      "poser": "cobblemon:garchomp",
       "model": "cobblemon:spectral_garchomp_mega.geo",
       "texture": "cobblemon:textures/pokemon/spectral_garchomp_mega/spectral_garchomp_mega.png",
       "layers": [

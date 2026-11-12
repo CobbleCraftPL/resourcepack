@@ -6,7 +6,7 @@
       "aspects": [
         "cc_spectral"
       ],
-      "poser": "cobblemon:spectral_gabite",
+      "poser": "cobblemon:gabite",
       "model": "cobblemon:spectral_gabite.geo",
       "texture": "cobblemon:textures/pokemon/spectral_gabite/spectral_gabite.png",
       "layers": [
@@ -37,7 +37,7 @@
       "aspects": [
         "gabite-cc_spectral"
       ],
-      "poser": "cobblemon:spectral_gabite",
+      "poser": "cobblemon:gabite",
       "model": "cobblemon:spectral_gabite.geo",
       "texture": "cobblemon:textures/pokemon/spectral_gabite/spectral_gabite.png",
       "layers": [

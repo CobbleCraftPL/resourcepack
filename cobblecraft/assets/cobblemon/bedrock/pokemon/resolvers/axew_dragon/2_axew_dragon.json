@@ -6,7 +6,7 @@
       "aspects": [
         "cc_dragon"
       ],
-      "poser": "cobblemon:axew_dragon",
+      "poser": "cobblemon:axew",
       "model": "cobblemon:axew_dragon.geo",
       "texture": "cobblemon:textures/pokemon/axew_dragon/axew_dragon.png",
       "layers": [
@@ -37,7 +37,7 @@
       "aspects": [
         "axew-cc_dragon"
       ],
-      "poser": "cobblemon:axew_dragon",
+      "poser": "cobblemon:axew",
       "model": "cobblemon:axew_dragon.geo",
       "texture": "cobblemon:textures/pokemon/axew_dragon/axew_dragon.png",
       "layers": [

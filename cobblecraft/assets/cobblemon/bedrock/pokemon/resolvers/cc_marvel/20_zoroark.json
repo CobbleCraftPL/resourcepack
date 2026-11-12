@@ -1,0 +1,24 @@
+{
+  "variations": [
+    {
+      "aspects": [
+        "cc_marvel"
+      ],
+      "model": "cobblemon:cc_marvel_zoroark.geo",
+      "poser": "cobblemon:zoroark",
+      "texture": "cobblemon:textures/pokemon/marvel/zoroark/zoroark_marvel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "zoroark-cc_marvel"
+      ],
+      "model": "cobblemon:cc_marvel_zoroark.geo",
+      "poser": "cobblemon:zoroark",
+      "texture": "cobblemon:textures/pokemon/marvel/zoroark/zoroark_marvel.png",
+      "layers": []
+    }
+  ],
+  "order": 20,
+  "species": "cobblemon:zoroark"
+}

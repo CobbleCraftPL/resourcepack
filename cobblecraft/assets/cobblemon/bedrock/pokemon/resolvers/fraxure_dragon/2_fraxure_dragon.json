@@ -6,7 +6,7 @@
       "aspects": [
         "cc_dragon"
       ],
-      "poser": "cobblemon:fraxure_dragon",
+      "poser": "cobblemon:fraxure",
       "model": "cobblemon:fraxure_dragon.geo",
       "texture": "cobblemon:textures/pokemon/fraxure_dragon/fraxure_dragon.png",
       "layers": [
@@ -37,7 +37,7 @@
       "aspects": [
         "fraxure-cc_dragon"
       ],
-      "poser": "cobblemon:fraxure_dragon",
+      "poser": "cobblemon:fraxure",
       "model": "cobblemon:fraxure_dragon.geo",
       "texture": "cobblemon:textures/pokemon/fraxure_dragon/fraxure_dragon.png",
       "layers": [

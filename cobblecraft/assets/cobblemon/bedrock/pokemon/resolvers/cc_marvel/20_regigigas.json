@@ -1,0 +1,44 @@
+{
+  "variations": [
+    {
+      "aspects": [
+        "cc_marvel"
+      ],
+      "model": "cobblemon:cc_marvel_regigigas.geo",
+      "poser": "atm_remodels:regigigas",
+      "texture": "cobblemon:textures/pokemon/marvel/regigigas/regigigas_marvel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "cc_marvel",
+        "shiny"
+      ],
+      "model": "cobblemon:cc_marvel_regigigas.geo",
+      "poser": "atm_remodels:regigigas",
+      "texture": "cobblemon:textures/pokemon/marvel/regigigas/regigigas_marvel_shiny.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "regigigas-cc_marvel"
+      ],
+      "model": "cobblemon:cc_marvel_regigigas.geo",
+      "poser": "atm_remodels:regigigas",
+      "texture": "cobblemon:textures/pokemon/marvel/regigigas/regigigas_marvel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "regigigas-cc_marvel",
+        "shiny"
+      ],
+      "model": "cobblemon:cc_marvel_regigigas.geo",
+      "poser": "atm_remodels:regigigas",
+      "texture": "cobblemon:textures/pokemon/marvel/regigigas/regigigas_marvel_shiny.png",
+      "layers": []
+    }
+  ],
+  "order": 20,
+  "species": "cobblemon:regigigas"
+}

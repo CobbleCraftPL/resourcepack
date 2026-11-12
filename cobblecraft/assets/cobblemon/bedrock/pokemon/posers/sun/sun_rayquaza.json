@@ -1,1 +1,90 @@
-{"portraitScale":1.11,"portraitTranslation":[-1.66,4.48,0],"profileScale":0.25,"profileTranslation":[0,1.5,-10],"rootBone":"rayquaza","animations":{},"poses":{"standing":{"poseTypes":["STAND","NONE","PORTRAIT","PROFILE"],"animations":["q.look('head_ai')","q.bedrock('sun_rayquaza', 'ground_idle')"],"quirks":["q.bedrock_quirk('sun_rayquaza', 'blink')"]},"walking":{"poseTypes":["WALK","SWIM"],"animations":["q.look('head_ai')","q.bedrock('sun_rayquaza', 'ground_idle')"],"quirks":["q.bedrock_quirk('sun_rayquaza', 'blink')"]}}}
+{
+  "portraitScale": 1.11,
+  "portraitTranslation": [
+    -1.66,
+    4.48,
+    0
+  ],
+  "profileScale": 0.25,
+  "profileTranslation": [
+    0,
+    1.5,
+    -10
+  ],
+  "rootBone": "rayquaza",
+  "animations": {},
+  "poses": {
+    "portrait": {
+      "poseTypes": [
+        "PORTRAIT",
+        "PROFILE",
+        "NONE"
+      ],
+      "animations": [
+        "q.bedrock('sun_rayquaza', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('sun_rayquaza', 'blink')"
+      ]
+    },
+    "ridden": {
+      "poseTypes": [
+        "FLY",
+        "HOVER",
+        "STAND",
+        "WALK",
+        "FLOAT",
+        "SWIM"
+      ],
+      "condition": "q.is_ridden",
+      "transformTicks": 10,
+      "animations": [
+        "q.look('head_ai')",
+        "q.bedrock('sun_rayquaza', 'air_fly')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('sun_rayquaza', 'blink')"
+      ]
+    },
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "FLOAT",
+        "HOVER"
+      ],
+      "condition": "!q.is_ridden",
+      "transformTicks": 15,
+      "animations": [
+        "q.look('head_ai')",
+        "q.bedrock('sun_rayquaza', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('sun_rayquaza', 'blink')"
+      ]
+    },
+    "flying": {
+      "poseTypes": [
+        "FLY",
+        "WALK",
+        "SWIM"
+      ],
+      "condition": "!q.is_ridden",
+      "transformTicks": 15,
+      "animations": [
+        "q.look('head_ai')",
+        "q.bedrock('sun_rayquaza', 'air_fly')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('sun_rayquaza', 'blink')"
+      ]
+    },
+    "sleeping": {
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "animations": [
+        "q.bedrock('sun_rayquaza', 'ground_idle')"
+      ]
+    }
+  }
+}

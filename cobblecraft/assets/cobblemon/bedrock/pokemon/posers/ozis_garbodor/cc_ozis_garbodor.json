@@ -1,0 +1,47 @@
+{
+  "animations": {
+    "cry": "q.bedrock_stateful('cc_ozis_garbodor', 'cry')"
+  },
+  "portraitScale": 1,
+  "portraitTranslation": [
+    -0.21,
+    1.51,
+    0
+  ],
+  "poses": {
+    "standing": {
+      "animations": [
+        "q.bedrock('cc_ozis_garbodor', 'ground_idle')"
+      ],
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('cc_ozis_garbodor', 'blink')"
+      ]
+    },
+    "walking": {
+      "animations": [
+        "q.bedrock('cc_ozis_garbodor', 'ground_idle')",
+        "q.biped_walk(0.66, 0.2, 'leg_left', 'leg_right')",
+        "q.bimanual_swing(0.66, 0.2, 'arm_left', 'arm_right')"
+      ],
+      "poseTypes": [
+        "WALK"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('cc_ozis_garbodor', 'blink')"
+      ]
+    }
+  },
+  "profileScale": 0.46,
+  "profileTranslation": [
+    -0.04,
+    1.07,
+    0
+  ],
+  "rootBone": "garbodor"
+}

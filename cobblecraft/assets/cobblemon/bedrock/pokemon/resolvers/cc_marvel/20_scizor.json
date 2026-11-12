@@ -1,0 +1,44 @@
+{
+  "variations": [
+    {
+      "aspects": [
+        "cc_marvel"
+      ],
+      "model": "cobblemon:cc_marvel_scizor.geo",
+      "poser": "cobblemon:scizor",
+      "texture": "cobblemon:textures/pokemon/marvel/scizor/scizor_marvel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "cc_marvel",
+        "shiny"
+      ],
+      "model": "cobblemon:cc_marvel_scizor.geo",
+      "poser": "cobblemon:scizor",
+      "texture": "cobblemon:textures/pokemon/marvel/scizor/scizor_marvel_shiny.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "scizor-cc_marvel"
+      ],
+      "model": "cobblemon:cc_marvel_scizor.geo",
+      "poser": "cobblemon:scizor",
+      "texture": "cobblemon:textures/pokemon/marvel/scizor/scizor_marvel.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "scizor-cc_marvel",
+        "shiny"
+      ],
+      "model": "cobblemon:cc_marvel_scizor.geo",
+      "poser": "cobblemon:scizor",
+      "texture": "cobblemon:textures/pokemon/marvel/scizor/scizor_marvel_shiny.png",
+      "layers": []
+    }
+  ],
+  "order": 20,
+  "species": "cobblemon:scizor"
+}

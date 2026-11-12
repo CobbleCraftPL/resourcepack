@@ -7,7 +7,7 @@
         "alolan",
         "cc_halloween"
       ],
-      "poser": "cobblemon:raichu_alolan_halloween",
+      "poser": "cobblemon:raichu_alolan",
       "model": "cobblemon:raichu_alolan_halloween.geo",
       "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_halloween.png",
       "layers": []
@@ -33,7 +33,7 @@
         "alolan",
         "cc_halloween_alolan"
       ],
-      "poser": "cobblemon:raichu_alolan_halloween",
+      "poser": "cobblemon:raichu_alolan",
       "model": "cobblemon:raichu_alolan_halloween.geo",
       "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_halloween.png",
       "layers": []
@@ -59,7 +59,7 @@
         "alolan",
         "raichu-cc_halloween"
       ],
-      "poser": "cobblemon:raichu_alolan_halloween",
+      "poser": "cobblemon:raichu_alolan",
       "model": "cobblemon:raichu_alolan_halloween.geo",
       "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_halloween.png",
       "layers": []
@@ -85,7 +85,7 @@
         "alolan",
         "raichu-cc_halloween_alolan"
       ],
-      "poser": "cobblemon:raichu_alolan_halloween",
+      "poser": "cobblemon:raichu_alolan",
       "model": "cobblemon:raichu_alolan_halloween.geo",
       "texture": "cobblemon:textures/pokemon/0026_raichu/raichu_alolan_halloween.png",
       "layers": []
