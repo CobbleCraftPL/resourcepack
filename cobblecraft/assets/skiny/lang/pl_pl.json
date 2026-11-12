@@ -94,5 +94,9 @@
   "cobblecraftadditions.skin.pikachu-cc_marvel.name": "Marvel Pikachu",
   "cobblecraftadditions.skin.pikachu-cc_marvel.lore": "<gray>Pasuje do: Pikachu",
   "cobblecraftadditions.skin.scrafty-cc_marvel.name": "Marvel Scrafty",
-  "cobblecraftadditions.skin.scrafty-cc_marvel.lore": "<gray>Pasuje do: Scrafty"
+  "cobblecraftadditions.skin.scrafty-cc_marvel.lore": "<gray>Pasuje do: Scrafty",
+  "cobblecraftadditions.skin.rowlet-cc_summer.name": "Wakacyjny Rowlet",
+  "cobblecraftadditions.skin.rowlet-cc_summer.lore": "<gray>Pasuje do: Rowlet",
+  "cobblecraftadditions.skin.pikachu-cc_rowlet_poncho.name": "Pikachu w Ponczu Rowleta",
+  "cobblecraftadditions.skin.pikachu-cc_rowlet_poncho.lore": "<gray>Pasuje do: Pikachu"
 }

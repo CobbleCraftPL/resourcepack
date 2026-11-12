@@ -1,0 +1,44 @@
+{
+  "species": "cobblemon:rowlet",
+  "order": 10,
+  "variations": [
+    {
+      "aspects": [
+        "cc_summer"
+      ],
+      "poser": "cobblemon:rowlet_summer",
+      "model": "cobblemon:rowlet_summer.geo",
+      "texture": "cobblemon:textures/pokemon/rowlet/rowlet_summer.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "cc_summer",
+        "shiny"
+      ],
+      "poser": "cobblemon:rowlet_summer",
+      "model": "cobblemon:rowlet_summer.geo",
+      "texture": "cobblemon:textures/pokemon/rowlet/rowlet_summer_shiny.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "rowlet-cc_summer"
+      ],
+      "poser": "cobblemon:rowlet_summer",
+      "model": "cobblemon:rowlet_summer.geo",
+      "texture": "cobblemon:textures/pokemon/rowlet/rowlet_summer.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "rowlet-cc_summer",
+        "shiny"
+      ],
+      "poser": "cobblemon:rowlet_summer",
+      "model": "cobblemon:rowlet_summer.geo",
+      "texture": "cobblemon:textures/pokemon/rowlet/rowlet_summer_shiny.png",
+      "layers": []
+    }
+  ]
+}

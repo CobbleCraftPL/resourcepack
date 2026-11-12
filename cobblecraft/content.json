@@ -8,6 +8,10 @@
 				"hash": "ab35ddc7de55737ccfaa4752b27d9c4e7dba82a5",
 				"size": 120
 			},
+			"CREDITS-rowlet.txt": {
+				"hash": "79f2f8e8a5c0c575eb53507b04832f7e5a68d502",
+				"size": 571
+			},
 			"dynamicmcpack.json": {
 				"hash": "7b410ec09dfe891f0ee3a9ff33581116d89537d9",
 				"size": 440
@@ -29,8 +33,8 @@
 				"size": 9101
 			},
 			"README-marvel.txt": {
-				"hash": "dea2ce8edd5504a8568235e5eab56f71b3d10860",
-				"size": 1972
+				"hash": "f6c89abc09f7e56654531b32ebb58cf248a723e3",
+				"size": 1967
 			},
 			"README-skiny.txt": {
 				"hash": "ea52d4ce7235eaec484cd527be85f65f1cca185b",
@@ -131,6 +135,10 @@
 			"assets/cobblemon/bedrock/pokemon/animations/ozis_garbodor/cc_ozis_garbodor.animation.json": {
 				"hash": "520916e26d26a7cb40eefe2e22e170d90f05065d",
 				"size": 6320
+			},
+			"assets/cobblemon/bedrock/pokemon/animations/rowlet_costume/rowlet_summer.animation.json": {
+				"hash": "51c8776783212640a1019c05da4a77b1389b063f",
+				"size": 56995
 			},
 			"assets/cobblemon/bedrock/pokemon/animations/sun/sun_rayquaza.animation.json": {
 				"hash": "e45f1a0beb53672b57795b5663df5ff500fe3126",
@@ -308,6 +316,14 @@
 				"hash": "cf6d871cc91e20a83c3a98b7d6e8b0d97a4f7ce6",
 				"size": 66219
 			},
+			"assets/cobblemon/bedrock/pokemon/models/rowlet_costume/pikachu_rowlet_poncho.geo.json": {
+				"hash": "2e8259ab6bec5a7490d67b54216e1626660586f0",
+				"size": 50340
+			},
+			"assets/cobblemon/bedrock/pokemon/models/rowlet_costume/rowlet_summer.geo.json": {
+				"hash": "74e68a8f728fd026bfa77d530da203ae85ec8656",
+				"size": 33357
+			},
 			"assets/cobblemon/bedrock/pokemon/models/skeleton_overlord_armaro/skeleton_overlord_armarouge.geo.json": {
 				"hash": "37fc3394d1925f3faecf80a1a2ecff428a7ef4bf",
 				"size": 128899
@@ -415,6 +431,10 @@
 			"assets/cobblemon/bedrock/pokemon/posers/ozis_garbodor/cc_ozis_garbodor.json": {
 				"hash": "bfef4da7f6b17ef97509b7c7e67d20f5f4263458",
 				"size": 943
+			},
+			"assets/cobblemon/bedrock/pokemon/posers/rowlet_costume/rowlet_summer.json": {
+				"hash": "2f2a26ff099167ddd01fca7f9a485dca637a380d",
+				"size": 2708
 			},
 			"assets/cobblemon/bedrock/pokemon/posers/sun/sun_rayquaza.json": {
 				"hash": "58b3ad23779f6548842a02de2241f2f78947fe89",
@@ -563,6 +583,14 @@
 			"assets/cobblemon/bedrock/pokemon/resolvers/ozis_tyrantrum/2_ozis_tyrantrum.json": {
 				"hash": "0bc0549f9384920e9275b0cfd2a178e37cd2e130",
 				"size": 1723
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/rowlet_costume/10_rowlet_summer.json": {
+				"hash": "9abfa891b5a135f48bfae22fb22e5a75a1acecb0",
+				"size": 1093
+			},
+			"assets/cobblemon/bedrock/pokemon/resolvers/rowlet_costume/12_pikachu_rowlet_poncho.json": {
+				"hash": "a5fbce229259c21751a459d0b9f442948f9427bd",
+				"size": 1136
 			},
 			"assets/cobblemon/bedrock/pokemon/resolvers/spectral_gabite/3_spectral_gabite.json": {
 				"hash": "f79c5d93dc99b98b80125389b593826b621c4ee1",
@@ -1536,6 +1564,22 @@
 				"hash": "cc7dcfd279cfa3955c3f954f52ab8dc0c49c1371",
 				"size": 3205
 			},
+			"assets/cobblemon/textures/pokemon/rowlet/pikachu_poncho.png": {
+				"hash": "52ef872dc0cf4bb131a87c1a241eb1ee1113d49e",
+				"size": 6674
+			},
+			"assets/cobblemon/textures/pokemon/rowlet/pikachu_poncho_shiny.png": {
+				"hash": "2dad2348bc9bc0f1ffc0d4c5213c1eb855929044",
+				"size": 7010
+			},
+			"assets/cobblemon/textures/pokemon/rowlet/rowlet_summer.png": {
+				"hash": "e258ce9d510a61a0dd54f837dc3bcba18b409cdd",
+				"size": 7985
+			},
+			"assets/cobblemon/textures/pokemon/rowlet/rowlet_summer_shiny.png": {
+				"hash": "dbae3950150a7b1c20ccd1199cd11ea9f39605d7",
+				"size": 8112
+			},
 			"assets/cobblemon/textures/pokemon/skeleton_overlord_armarouge/skeleton_overlord_armarouge.png": {
 				"hash": "666e33b7a745d52370f4663b8ff5a1e5adc5c311",
 				"size": 18115
@@ -2401,12 +2445,12 @@
 				"size": 4044
 			},
 			"assets/skiny/lang/en_us.json": {
-				"hash": "595e5daedc0e84f3c038c921a8c5653adfdac22f",
-				"size": 7793
+				"hash": "c044f0db3f4816e1ada5e15a6fed02b3ac7069aa",
+				"size": 8125
 			},
 			"assets/skiny/lang/pl_pl.json": {
-				"hash": "595e5daedc0e84f3c038c921a8c5653adfdac22f",
-				"size": 7793
+				"hash": "c044f0db3f4816e1ada5e15a6fed02b3ac7069aa",
+				"size": 8125
 			},
 			"assets/waluta/textures/font/cobblecoins.png": {
 				"hash": "c666943cade2a7ad83ca05938cbd8438ef1b476f",
@@ -2459,6 +2503,10 @@
 			"data/cobblemon/species_features/cc_ozis.json": {
 				"hash": "5efaf83cc5777e055f1c8e60bf10a59c1f88b222",
 				"size": 92
+			},
+			"data/cobblemon/species_features/cc_rowlet_poncho.json": {
+				"hash": "67d350deea576e35696599479f4ad4ae2f6a4cb4",
+				"size": 101
 			},
 			"data/cobblemon/species_features/cc_skeleton_overlord.json": {
 				"hash": "890811ef39fe38a99095d225d44904572bacd82e",
@@ -2520,6 +2568,10 @@
 				"hash": "6a264675c7b73c77cd4b8e7a89fe13610868322c",
 				"size": 119
 			},
+			"data/cobblemon/species_feature_assignments/cc_rowlet_poncho.json": {
+				"hash": "58e420ffd647d761a9b5aabfd35215661c057326",
+				"size": 81
+			},
 			"data/cobblemon/species_feature_assignments/cc_skeleton_overlord.json": {
 				"hash": "b6958613df8f95ac81c71b3572d4354e7efb7a2e",
 				"size": 87
@@ -2533,8 +2585,8 @@
 				"size": 75
 			},
 			"data/cobblemon/species_feature_assignments/cc_summer.json": {
-				"hash": "cecc7f47b6fe88bc286608d55725ec1b22dc2170",
-				"size": 154
+				"hash": "abf472445ae6cb9bddebca5561d28a3d587338de",
+				"size": 168
 			},
 			"data/cobblemon/species_feature_assignments/cc_sun.json": {
 				"hash": "7725d96b00d6273c1304cb24fd03d7ea95664ef0",

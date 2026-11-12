@@ -1,0 +1,5 @@
+Kostiumy: Rowlet's Costume & Cosmetics (Rowlet Summer Costume Party) - autor: RedRibbon (ko-fi.com/redvampiregurl), wersja 1.0, paczka kupiona.
+W CobbleCraft: Rowlet "Summer Breeze" -> aspekt cc_summer (przedmiot rowlet-cc_summer),
+Pikachu "Rowlet-Poncho" -> aspekt cc_rowlet_poncho (przedmiot pikachu-cc_rowlet_poncho).
+Zmiany wzgledem oryginalu: animacje Rowleta przeniesione do grupy rowlet_summer (oryginal nadpisywal animation.rowlet.*),
+aspekty z prefiksem cc_, bez danych cosmetic_items (Black Glasses / Covert Cloak) - skin nadaje przedmiot cobblecraftadditions.

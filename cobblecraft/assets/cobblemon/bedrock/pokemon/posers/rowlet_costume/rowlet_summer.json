@@ -1,0 +1,129 @@
+{
+  "portraitScale": 1.77,
+  "portraitTranslation": [
+    -0.3,
+    -0.5,
+    0
+  ],
+  "profileScale": 0.8,
+  "profileTranslation": [
+    -0.04,
+    0.58,
+    -1.8
+  ],
+  "animations": {
+    "cry": "q.bedrock_stateful('rowlet_summer', 'cry')",
+    "recoil": "q.bedrock_stateful('rowlet_summer', 'recoil')",
+    "status": "q.bedrock_primary('rowlet_summer', 'head_rotate', q.curve('symmetrical_wide'))"
+  },
+  "poses": {
+    "battle-standing": {
+      "poseTypes": [
+        "STAND",
+        "WALK"
+      ],
+      "isBattle": true,
+      "animations": [
+        "q.bedrock('rowlet_summer', 'battle_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rowlet_summer', 'blink')"
+      ]
+    },
+    "standing": {
+      "poseTypes": [
+        "STAND",
+        "NONE",
+        "PORTRAIT",
+        "PROFILE"
+      ],
+      "isBattle": false,
+      "animations": [
+        "q.bedrock('rowlet_summer', 'ground_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rowlet_summer', 'blink')",
+        "q.bedrock_quirk('rowlet_summer', 'head_rotate')"
+      ]
+    },
+    "walking": {
+      "poseTypes": [
+        "WALK"
+      ],
+      "animations": [
+        "q.bedrock('rowlet_summer', 'ground_walk')"
+      ]
+    },
+    "flying": {
+      "transformTicks": 5,
+      "poseTypes": [
+        "FLY"
+      ],
+      "animations": [
+        "q.bedrock('rowlet_summer', 'fly_walk')"
+      ]
+    },
+    "hover": {
+      "transformTicks": 5,
+      "poseTypes": [
+        "HOVER"
+      ],
+      "animations": [
+        "q.bedrock('rowlet_summer', 'fly_idle')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rowlet_summer', 'blink')"
+      ]
+    },
+    "float": {
+      "poseTypes": [
+        "FLOAT"
+      ],
+      "animations": [
+        "q.bedrock('rowlet_summer', 'fly_idle')"
+      ]
+    },
+    "swim": {
+      "poseTypes": [
+        "SWIM"
+      ],
+      "animations": [
+        "q.bedrock('rowlet_summer', 'fly_walk')"
+      ]
+    },
+    "sleep": {
+      "poseTypes": [
+        "SLEEP"
+      ],
+      "animations": [
+        "q.bedrock('rowlet_summer', 'sleep')"
+      ]
+    },
+    "leftshoulder": {
+      "poseName": "leftshoulder",
+      "transformTicks": 10,
+      "poseTypes": [
+        "SHOULDER_LEFT"
+      ],
+      "animations": [
+        "q.bedrock('rowlet_summer', 'left_shoulder')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rowlet_summer', 'blink')"
+      ]
+    },
+    "rightshoulder": {
+      "poseName": "rightshoulder",
+      "transformTicks": 10,
+      "poseTypes": [
+        "SHOULDER_RIGHT"
+      ],
+      "animations": [
+        "q.bedrock('rowlet_summer', 'right_shoulder')"
+      ],
+      "quirks": [
+        "q.bedrock_quirk('rowlet_summer', 'blink')"
+      ]
+    }
+  }
+}

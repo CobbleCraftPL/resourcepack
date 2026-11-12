@@ -1,0 +1,44 @@
+{
+  "species": "cobblemon:pikachu",
+  "order": 12,
+  "variations": [
+    {
+      "aspects": [
+        "cc_rowlet_poncho"
+      ],
+      "poser": "cobblemon:pikachu",
+      "model": "cobblemon:pikachu_rowlet_poncho.geo",
+      "texture": "cobblemon:textures/pokemon/rowlet/pikachu_poncho.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "cc_rowlet_poncho",
+        "shiny"
+      ],
+      "poser": "cobblemon:pikachu",
+      "model": "cobblemon:pikachu_rowlet_poncho.geo",
+      "texture": "cobblemon:textures/pokemon/rowlet/pikachu_poncho_shiny.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "pikachu-cc_rowlet_poncho"
+      ],
+      "poser": "cobblemon:pikachu",
+      "model": "cobblemon:pikachu_rowlet_poncho.geo",
+      "texture": "cobblemon:textures/pokemon/rowlet/pikachu_poncho.png",
+      "layers": []
+    },
+    {
+      "aspects": [
+        "pikachu-cc_rowlet_poncho",
+        "shiny"
+      ],
+      "poser": "cobblemon:pikachu",
+      "model": "cobblemon:pikachu_rowlet_poncho.geo",
+      "texture": "cobblemon:textures/pokemon/rowlet/pikachu_poncho_shiny.png",
+      "layers": []
+    }
+  ]
+}
