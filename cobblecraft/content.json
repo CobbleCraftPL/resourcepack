@@ -32,13 +32,13 @@
 				"hash": "9a8e61b5273b890c5a99c8bfbdb92b54fad14ce8",
 				"size": 9101
 			},
-			"README-marvel.txt": {
-				"hash": "f6c89abc09f7e56654531b32ebb58cf248a723e3",
-				"size": 1967
-			},
 			"README-skiny.txt": {
 				"hash": "ea52d4ce7235eaec484cd527be85f65f1cca185b",
 				"size": 7721
+			},
+			"README-superhero.txt": {
+				"hash": "3da168a6c7eb2fcf8438d6d7d6e4ac69ec7c0963",
+				"size": 2032
 			},
 			"assets/cobblecraftadditions/textures/item/badge/psychic.png": {
 				"hash": "ab610e1ee938035115b60f1f5c5deea8410035d2",
@@ -71,6 +71,134 @@
 			"assets/cobblecraft_halloween/textures/npcs/przewodniczka.png": {
 				"hash": "7effc18101fb5e0bc8a5266ce3f5bc72def04cc0",
 				"size": 3882
+			},
+			"assets/cobblefishing/font/minigame.json": {
+				"hash": "d6b9fbacd26553a7511c75cf042b9115a7c79c9f",
+				"size": 5975
+			},
+			"assets/cobblefishing/textures/font/minigame/bobber.png": {
+				"hash": "f4576d1b00f30cb26755664d907db9f850736e14",
+				"size": 200
+			},
+			"assets/cobblefishing/textures/font/minigame/cell_1.png": {
+				"hash": "086c02d3daadc8f2cbf4116fe40c5ae6ed563dba",
+				"size": 77
+			},
+			"assets/cobblefishing/textures/font/minigame/cell_128.png": {
+				"hash": "32284fa694a166e74d0c6c304765ee9d9d86dfa4",
+				"size": 113
+			},
+			"assets/cobblefishing/textures/font/minigame/cell_16.png": {
+				"hash": "0ed0a735394e4b18e970535d95361c4a27809910",
+				"size": 88
+			},
+			"assets/cobblefishing/textures/font/minigame/cell_2.png": {
+				"hash": "71ec462903c68fccf711ac46381baa0bf84be12f",
+				"size": 79
+			},
+			"assets/cobblefishing/textures/font/minigame/cell_32.png": {
+				"hash": "1d3143896d5486a10a50ea70f07bcd6f5d8d3723",
+				"size": 90
+			},
+			"assets/cobblefishing/textures/font/minigame/cell_4.png": {
+				"hash": "e3ee7a58f77488ba4cffd71dd14f2744ce94f6ec",
+				"size": 78
+			},
+			"assets/cobblefishing/textures/font/minigame/cell_64.png": {
+				"hash": "e4a576820d4d18ed0dcc58d84e0e7d1ef313b3de",
+				"size": 102
+			},
+			"assets/cobblefishing/textures/font/minigame/cell_8.png": {
+				"hash": "a6d474a66f9a20c07ffa580626ee9f6c9ad8296e",
+				"size": 84
+			},
+			"assets/cobblefishing/textures/font/minigame/check.png": {
+				"hash": "fdeed2b0ca87fbf29653b042493136d547b9b33e",
+				"size": 145
+			},
+			"assets/cobblefishing/textures/font/minigame/check_bar.png": {
+				"hash": "3b27411e8468a1043657199dcd9425431f797636",
+				"size": 141
+			},
+			"assets/cobblefishing/textures/font/minigame/cross.png": {
+				"hash": "29ddcdf41e178c902f461161d5e6c8873c208356",
+				"size": 132
+			},
+			"assets/cobblefishing/textures/font/minigame/cross_bar.png": {
+				"hash": "7bc8a99602f3ac5aacda27d953d7fe4ca39d9c31",
+				"size": 123
+			},
+			"assets/cobblefishing/textures/font/minigame/fish.png": {
+				"hash": "31cc5b7272d757ce1818c978358a2113144b2708",
+				"size": 188
+			},
+			"assets/cobblefishing/textures/font/minigame/fish_thrash_1.png": {
+				"hash": "51da63a05672e29dc952d01acb0aeb43cdb8fe3e",
+				"size": 185
+			},
+			"assets/cobblefishing/textures/font/minigame/fish_thrash_2.png": {
+				"hash": "aae42bbf61d909cbf2363e4af651d9298a663961",
+				"size": 186
+			},
+			"assets/cobblefishing/textures/font/minigame/fish_thrash_3.png": {
+				"hash": "6b7ef18793dd3edcf6c37edd5d2fcdeadfc2806d",
+				"size": 190
+			},
+			"assets/cobblefishing/textures/font/minigame/frame.png": {
+				"hash": "02c7fbe2fe976874b34947a74fcd9bd052996de9",
+				"size": 387
+			},
+			"assets/cobblefishing/textures/font/minigame/key_left.png": {
+				"hash": "60364c438a66ff62576cf3a6f1de0577a24dcff3",
+				"size": 162
+			},
+			"assets/cobblefishing/textures/font/minigame/key_right.png": {
+				"hash": "958af7d77ca4a08d7c75dcea36d60a0ef6b9072c",
+				"size": 157
+			},
+			"assets/cobblefishing/textures/font/minigame/key_sneak.png": {
+				"hash": "3ec8d5d2347820339a36562e79414eca61240f6d",
+				"size": 167
+			},
+			"assets/cobblefishing/textures/font/minigame/needle.png": {
+				"hash": "85a99ae254ac1eac1a18764cc0a36473ee684147",
+				"size": 138
+			},
+			"assets/cobblefishing/textures/font/minigame/sub_1.png": {
+				"hash": "56a21629f0cb0b6a6b36b11ac786863b8dc4bd72",
+				"size": 77
+			},
+			"assets/cobblefishing/textures/font/minigame/sub_128.png": {
+				"hash": "29803e7f97cbe913921ebd2be780faebf411e81c",
+				"size": 89
+			},
+			"assets/cobblefishing/textures/font/minigame/sub_16.png": {
+				"hash": "6a1be118e31c14f4527c923041dfe6a94cd9c6e5",
+				"size": 79
+			},
+			"assets/cobblefishing/textures/font/minigame/sub_2.png": {
+				"hash": "2628fd54c515d6487ab47d8e6aaa39b4b0fa3406",
+				"size": 79
+			},
+			"assets/cobblefishing/textures/font/minigame/sub_32.png": {
+				"hash": "fae0e1824e352c4cb6c189b8262c2905de1681ad",
+				"size": 80
+			},
+			"assets/cobblefishing/textures/font/minigame/sub_4.png": {
+				"hash": "69db1e1bc299f3cbc1afa15c7578bed11f855891",
+				"size": 78
+			},
+			"assets/cobblefishing/textures/font/minigame/sub_64.png": {
+				"hash": "98afaf4a0ed6c1b193624b011970f173228e5fe9",
+				"size": 84
+			},
+			"assets/cobblefishing/textures/font/minigame/sub_8.png": {
+				"hash": "0a43a65eb17a5adc1d88fca08fab538a49bfabdf",
+				"size": 78
+			},
+			"assets/cobblefishing/textures/font/minigame/sub_back.png": {
+				"hash": "0bd06c78dfad89029395b1f32d055e9356bfc2ef",
+				"size": 117
 			},
 			"assets/cobblemon/sounds.json": {
 				"hash": "ffbd218a560aa3f51028e1acae00ccf2a6921ef9",
@@ -2445,12 +2573,12 @@
 				"size": 4044
 			},
 			"assets/skiny/lang/en_us.json": {
-				"hash": "c044f0db3f4816e1ada5e15a6fed02b3ac7069aa",
-				"size": 8125
+				"hash": "ce75caa890bb37bbc375480af4c5190907cf1ab2",
+				"size": 8152
 			},
 			"assets/skiny/lang/pl_pl.json": {
-				"hash": "c044f0db3f4816e1ada5e15a6fed02b3ac7069aa",
-				"size": 8125
+				"hash": "ce75caa890bb37bbc375480af4c5190907cf1ab2",
+				"size": 8152
 			},
 			"assets/waluta/textures/font/cobblecoins.png": {
 				"hash": "c666943cade2a7ad83ca05938cbd8438ef1b476f",

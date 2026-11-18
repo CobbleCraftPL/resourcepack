@@ -1,0 +1,308 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\uf000": 1,
+        "\uf001": -1,
+        "\uf002": 2,
+        "\uf003": -2,
+        "\uf004": 4,
+        "\uf005": -4,
+        "\uf006": 8,
+        "\uf007": -8,
+        "\uf008": 16,
+        "\uf009": -16,
+        "\uf00a": 32,
+        "\uf00b": -32,
+        "\uf00c": 64,
+        "\uf00d": -64,
+        "\uf00e": 128,
+        "\uf00f": -128,
+        "\uf010": 256,
+        "\uf011": -256,
+        "\uf012": 512,
+        "\uf013": -512
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/frame.png",
+      "height": 23,
+      "ascent": 15,
+      "chars": [
+        "\ue000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/cell_1.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/cell_2.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/cell_4.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/cell_8.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/cell_16.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/cell_32.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/cell_64.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/cell_128.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/sub_1.png",
+      "height": 3,
+      "ascent": -10,
+      "chars": [
+        "\ue009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/sub_2.png",
+      "height": 3,
+      "ascent": -10,
+      "chars": [
+        "\ue00a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/sub_4.png",
+      "height": 3,
+      "ascent": -10,
+      "chars": [
+        "\ue00b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/sub_8.png",
+      "height": 3,
+      "ascent": -10,
+      "chars": [
+        "\ue00c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/sub_16.png",
+      "height": 3,
+      "ascent": -10,
+      "chars": [
+        "\ue00d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/sub_32.png",
+      "height": 3,
+      "ascent": -10,
+      "chars": [
+        "\ue00e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/sub_64.png",
+      "height": 3,
+      "ascent": -10,
+      "chars": [
+        "\ue00f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/sub_128.png",
+      "height": 3,
+      "ascent": -10,
+      "chars": [
+        "\ue010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/sub_back.png",
+      "height": 5,
+      "ascent": -9,
+      "chars": [
+        "\ue011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/needle.png",
+      "height": 21,
+      "ascent": 21,
+      "chars": [
+        "\ue012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/fish.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/fish_thrash_1.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/fish_thrash_2.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/fish_thrash_3.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/bobber.png",
+      "height": 11,
+      "ascent": 9,
+      "chars": [
+        "\ue017"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/key_left.png",
+      "height": 29,
+      "ascent": 29,
+      "chars": [
+        "\ue018"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/key_right.png",
+      "height": 29,
+      "ascent": 29,
+      "chars": [
+        "\ue019"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/key_sneak.png",
+      "height": 28,
+      "ascent": 28,
+      "chars": [
+        "\ue01a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/check.png",
+      "height": 25,
+      "ascent": 25,
+      "chars": [
+        "\ue01b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/cross.png",
+      "height": 25,
+      "ascent": 25,
+      "chars": [
+        "\ue01c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/check_bar.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\ue01d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "cobblefishing:font/minigame/cross_bar.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\ue01e"
+      ]
+    }
+  ]
+}
